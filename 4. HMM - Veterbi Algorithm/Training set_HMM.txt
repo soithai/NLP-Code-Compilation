@@ -1,0 +1,303 @@
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+to	IN
+a	DT
+fancy	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+french	JJ
+food	NN
+.	.
+
+next	JJ
+thursday	NN
+.	.
+
+next	JJ
+thursday	NN
+.	.
+
+dinner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+french	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+dinner	NN
+.	.
+
+it	PRP
+can	MD
+be	VB
+really	RB
+expensive	JJ
+.	.
+
+as	RB
+far	RB
+away	RB
+as	IN
+we	PRP
+can	MD
+get	VB
+.	.
+
+as	RB
+far	RB
+away	RB
+as	IN
+we	PRP
+can	MD
+get	VB
+.	.
+
+as	RB
+far	RB
+away	RB
+as	IN
+we	PRP
+can	MD
+get	VB
+.	.
+
+i	PRP
+want	VBP
+to	TO
+be	VB
+far	RB
+away	RB
+from	IN
+icsi	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+le	FW
+bateau	FW
+ivre	FW
+.	.
+
+tell	VB
+me	PRP
+about	IN
+le	FW
+bateau	FW
+ivre	FW
+.	.
+
+tell	VB
+me	PRP
+about	IN
+le	FW
+bateau	FW
+ivre	FW
+.	.
+
+tell	VB
+me	PRP
+about	IN
+le	FW
+bateau	FW
+ivre	FW
+.	.
+
+tell	VB
+me	PRP
+about	IN
+le	FW
+bateau	FW
+ivre	FW
+.	.
+
+tell	VB
+me	PRP
+about	IN
+a	DT
+-	HYPH
+la	NN
+-	HYPH
+carte	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+a	DT
+-	HYPH
+la	NN
+-	HYPH
+carte	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+a	DT
+-	HYPH
+la	NN
+-	HYPH
+carte	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+a	DT
+-	HYPH
+la	NN
+-	HYPH
+carte	NN
+.	.
+
+show	VB
+me	PRP
+the	DT
+list	NN
+again	RB
+.	.
+
+let	VB
+me	PRP
+see	VB
+the	DT
+list	NN
+again	RB
+.	.
+
+let	VB
+me	PRP
+see	VB
+the	DT
+list	NN
+again	RB
+.	.
+
+i	PRP
+want	VBP
+the	DT
+restaurant	NN
+to	TO
+be	VB
+really	RB
+close	JJ
+to	IN
+icsi	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+breakfast	NN
+instead	RB
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+breakfast	NN
+at	IN
+a	DT
+really	RB
+cheap	JJ
+place	NN
+tomorrow	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+breakfast	NN
+at	IN
+a	DT
+really	RB
+cheap	JJ
+place	NN
+tomorrow	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+breakfast	NN
+at	IN
+a	DT
+really	RB
+cheap	JJ
+place	NN
+tomorrow	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+breakfast	NN
+at	IN
+a	DT
+really	RB
+cheap	JJ
+place	NN
+tomorrow	NN
+.	.
+
+what	WDT
+kinds	NNS
+of	IN
+food	NN
+do	VBP
+you	PRP
+know	VB
+about	IN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+american	JJ
+food	NN
+.	.
+
+a	DT
+moderate	JJ
+distance	NN
+away	RB
+.	.
+
+a	DT
+moderate	JJ
+distance	NN
+away	RB
+.	.
+
+a	DT
+moderate	JJ
