@@ -11194,4 +11194,1000 @@ more	RBR
 about	IN
 soup	NN
 kitchen	NN
-heike
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+hi	UH
+uh	UH
+what	WP
+do	VBP
+you	PRP
+have	VB
+about	IN
+chinese	JJ
+restaurants	NNS
+.	.
+
+hi	UH
+uh	UH
+what	WP
+do	VBP
+you	PRP
+have	VB
+about	IN
+chinese	JJ
+restaurants	NNS
+.	.
+
+hi	UH
+uh	UH
+what	WP
+do	VBP
+you	PRP
+have	VB
+about	IN
+chinese	JJ
+restaurants	NNS
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+chinese	JJ
+food	NN
+.	.
+
+howbout	NN
+dinner	NN
+.	.
+
+howbout	NN
+dinner	NN
+.	.
+
+howbout	NN
+dinner	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+something	NN
+on	IN
+the	DT
+cheap	JJ
+side	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+something	NN
+on	IN
+the	DT
+cheap	JJ
+side	NN
+.	.
+
+something	NN
+very	RB
+cheap	JJ
+please	UH
+.	.
+
+something	NN
+very	RB
+cheap	JJ
+please	UH
+.	.
+
+something	NN
+very	RB
+cheap	JJ
+please	UH
+.	.
+
+something	NN
+very	RB
+cheap	JJ
+please	UH
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+within	IN
+walking	VBG
+distance	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+within	IN
+walking	VBG
+distance	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+within	IN
+walking	VBG
+distance	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+within	IN
+walking	VBG
+distance	NN
+.	.
+
+uh	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	JJR
+about	IN
+the	DT
+uh	UH
+sun-hong-kong	JJ
+.	.
+
+uh	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	JJR
+about	IN
+the	DT
+uh	UH
+sun-hong-kong	JJ
+.	.
+
+uh	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	JJR
+about	IN
+the	DT
+uh	UH
+sun-hong-kong	JJ
+.	.
+
+uh	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	JJR
+about	IN
+the	DT
+uh	UH
+sun-hong-kong	JJ
+.	.
+
+uh	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	JJR
+about	IN
+the	DT
+uh	UH
+sun-hong-kong	JJ
+.	.
+
+uh	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	JJR
+about	IN
+the	DT
+uh	UH
+sun-hong-kong	JJ
+.	.
+
+good	JJ
+job	NN
+thank	VBP
+you	PRP
+very	RB
+much	RB
+.	.
+
+good	JJ
+job	NN
+thank	VBP
+you	PRP
+very	RB
+much	RB
+.	.
+
+uh	UH
+can	MD
+i	PRP
+start	VB
+over	RP
+please	UH
+.	.
+
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+care	VB
+.	.
+
+uh	UH
+money	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+uh	UH
+money	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+any	DT
+amount	NN
+is	VBZ
+fine	JJ
+.	.
+
+within	IN
+five	CD
+minutes	NNS
+'	POS
+uh	UH
+walking	VBG
+.	.
+
+within	IN
+five	CD
+minutes	NNS
+'	POS
+uh	UH
+walking	VBG
+.	.
+
+within	IN
+five	CD
+minutes	NNS
+'	POS
+uh	UH
+walking	VBG
+.	.
+
+how	WRB
+about	IN
+the	DT
+metropole	NN
+.	.
+
+how	WRB
+about	IN
+the	DT
+metropole	NN
+.	.
+
+how	WRB
+about	IN
+the	DT
+metropole	NN
+.	.
+
+what	WP
+about	IN
+some	DT
+uh	UH
+indian	JJ
+food	NN
+in	IN
+the	DT
+same	JJ
+area	NN
+.	.
+
+what	WP
+about	IN
+some	DT
+uh	UH
+indian	JJ
+food	NN
+in	IN
+the	DT
+same	JJ
+area	NN
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+indian	JJ
+food	NN
+.	.
+
+okay	UH
+let	VB
+'s	PRP
+try	VB
+something	NN
+else	RB
+uh	UH
+do	VBP
+you	PRP
+have	VB
+any	DT
+austrian	JJ
+restaurants	NNS
+on	IN
+file	NN
+.	.
+
+okay	UH
+let	VB
+'s	PRP
+try	VB
+something	NN
+else	RB
+uh	UH
+do	VBP
+you	PRP
+have	VB
+any	DT
+austrian	JJ
+restaurants	NNS
+on	IN
+file	NN
+.	.
+
+okay	UH
+let	VB
+'s	PRP
+try	VB
+something	NN
+else	RB
+uh	UH
+do	VBP
+you	PRP
+have	VB
+any	DT
+austrian	JJ
+restaurants	NNS
+on	IN
+file	NN
+.	.
+
+okay	UH
+let	VB
+'s	PRP
+try	VB
+something	NN
+else	RB
+uh	UH
+do	VBP
+you	PRP
+have	VB
+any	DT
+austrian	JJ
+restaurants	NNS
+on	IN
+file	NN
+.	.
+
+okay	UH
+let	VB
+'s	PRP
+try	VB
+something	NN
+else	RB
+uh	UH
+do	VBP
+you	PRP
+have	VB
+any	DT
+austrian	JJ
+restaurants	NNS
+on	IN
+file	NN
+.	.
+
+okay	UH
+let	VB
+'s	PRP
+try	VB
+something	NN
+else	RB
+uh	UH
+do	VBP
+you	PRP
+have	VB
+any	DT
+austrian	JJ
+restaurants	NNS
+on	IN
+file	NN
+.	.
+
+uh	UH
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+uh	UH
+near	IN
+solano	JJ
+avenue	NN
+.	.
+
+uh	UH
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+uh	UH
+near	IN
+solano	JJ
+avenue	NN
+.	.
+
+uh	UH
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+uh	UH
+near	IN
+solano	JJ
+avenue	NN
+.	.
+
+near	IN
+solano	NN
+please	UH
+.	.
+
+near	IN
+solano	NN
+please	UH
+.	.
+
+near	IN
+solano	NN
+please	UH
+.	.
+
+can	MD
+i	PRP
+start	VB
+over	RP
+please	UH
+.	.
+
+can	MD
+i	PRP
+start	VB
+over	RP
+please	UH
+.	.
+
+start	VB
+over	RP
+please	UH
+.	.
+
+start	VB
+over	RP
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+very	RB
+cheap	JJ
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+very	RB
+cheap	JJ
+.	.
+
+any	DT
+will	MD
+be	VB
+fine	JJ
+.	.
+
+any	DT
+type	NN
+of	IN
+food	NN
+.	.
+
+uh	UH
+very	RB
+close	RB
+to	IN
+icksee	NN
+.	.
+
+uh	UH
+very	RB
+close	RB
+to	IN
+icksee	NN
+.	.
+
+uh	UH
+very	RB
+close	RB
+to	IN
+icksee	NN
+.	.
+
+uh	UH
+tonight	NN
+.	.
+
+uh	UH
+tonight	NN
+.	.
+
+uh	UH
+tonight	NN
+.	.
+
+okay	UH
+uh	UH
+any	DT
+cost	NN
+now	RB
+.	.
+
+okay	UH
+uh	UH
+any	DT
+cost	NN
+now	RB
+.	.
+
+okay	UH
+uh	UH
+any	DT
+cost	NN
+now	RB
+.	.
+
+okay	UH
+uh	UH
+any	DT
+cost	NN
+now	RB
+.	.
+
+uh	UH
+howbout	NN
+something	NN
+on	IN
+the	DT
+expensive	JJ
+side	NN
+.	.
+
+uh	UH
+howbout	NN
+something	NN
+on	IN
+the	DT
+expensive	JJ
+side	NN
+.	.
+
+uh	UH
+howbout	NN
+something	NN
+on	IN
+the	DT
+expensive	JJ
+side	NN
+.	.
+
+all	RB
+right	RB
+can	MD
+you	PRP
+give	VB
+me	PRP
+more	JJR
+information	NN
+about	IN
+the	DT
+one	NN
+you	PRP
+have	VBP
+there	RB
+.	.
+
+all	RB
+right	RB
+can	MD
+you	PRP
+give	VB
+me	PRP
+more	JJR
+information	NN
+about	IN
+the	DT
+one	NN
+you	PRP
+have	VBP
+there	RB
+.	.
+
+all	RB
+right	RB
+can	MD
+you	PRP
+give	VB
+me	PRP
+more	JJR
+information	NN
+about	IN
+the	DT
+one	NN
+you	PRP
+have	VBP
+there	RB
+.	.
+
+okay	UH
+i	PRP
+wanted	VBD
+more	JJR
+information	NN
+about	IN
+uh	UH
+siam	NN
+cuisine	NN
+.	.
+
+okay	UH
+i	PRP
+wanted	VBD
+more	JJR
+information	NN
+about	IN
+uh	UH
+siam	NN
+cuisine	NN
+.	.
+
+okay	UH
+i	PRP
+wanted	VBD
+more	JJR
+information	NN
+about	IN
+uh	UH
+siam	NN
+cuisine	NN
+.	.
+
+can	MD
+you	PRP
+make	VB
+a	DT
+reservation	NN
+for	IN
+me	PRP
+.	.
+
+can	MD
+you	PRP
+make	VB
+a	DT
+reservation	NN
+for	IN
+me	PRP
+.	.
+
+okay	UH
+uh	UH
+can	MD
+you	PRP
+help	VB
+me	PRP
+with	IN
+something	NN
+japanese	NNS
+for	IN
+dinner	NN
+.	.
+
+okay	UH
+uh	UH
+can	MD
+you	PRP
+help	VB
+me	PRP
+with	IN
+something	NN
+japanese	NNS
+for	IN
+dinner	NN
+.	.
+
+okay	UH
+uh	UH
+can	MD
+you	PRP
+help	VB
+me	PRP
+with	IN
+something	NN
+japanese	NNS
+for	IN
+dinner	NN
+.	.
+
+okay	UH
+uh	UH
+can	MD
+you	PRP
+help	VB
+me	PRP
+with	IN
+something	NN
+japanese	NNS
+for	IN
+dinner	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+japanese	JJ
+restaurant	NN
+.	.
+
+uh	UH
+something	NN
+cheaper	JJR
+please	UH
+.	.
+
+uh	UH
+something	NN
+cheaper	JJR
+please	UH
+.	.
+
+uh	UH
+something	NN
+cheaper	JJR
+please	UH
+.	.
+
+uh	UH
+something	NN
+cheaper	JJR
+please	UH
+.	.
+
+uh	UH
+something	NN
+cheaper	JJR
+please	UH
+.	.
+
+uh	UH
+what	WP
+about	IN
+japanese	JJ
+restaurants	NNS
+at	IN
+any	DT
+price	NN
+.	.
+
+uh	UH
+what	WP
+about	IN
+japanese	JJ
+restaurants	NNS
+at	IN
+any	DT
+price	NN
+.	.
+
+uh	UH
+what	WP
+about	IN
+japanese	JJ
+restaurants	NNS
+at	IN
+any	DT
+price	NN
+.	.
+
+can	MD
+you	PRP
+give	VB
+me	PRP
+information	NN
+about	IN
+yoshi's	PRP
+.	.
+
+can	MD
+you	PRP
+give	VB
+me	PRP
+information	NN
+about	IN
+yoshi's	PRP
+.	.
+
+talking	VBG
+about	IN
+spanish	JJ
+restaurants	NNS
+.	.
+
+uh	UH
+start	VB
+over	RP
+please	UH
+.	.
+
+uh	UH
+start	VB
+over	RP
+please	UH
+.	.
+
+spanish	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+about	IN
+uh	UH
+skates	NNS
+on	IN
+the	DT
+bay	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+uh	UH
+skates	NNS
+on	IN
+the	DT
+bay	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+uh	UH
+skates	NNS
+on	IN
+the	DT
+bay	NN
+.	.
+
+all	RB
+right	RB
+thank	VBP
+you	PRP
+start	VB
+over	RP
+.	.
+
+all	RB
+right
