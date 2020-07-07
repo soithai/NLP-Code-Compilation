@@ -21078,4 +21078,1046 @@ hut	NN
 
 how	WRB
 about	IN
-brick
+brick	NN
+hut	NN
+.	.
+
+how	WRB
+about	IN
+brick	NN
+hut	NN
+.	.
+
+how	WRB
+about	IN
+brick	NN
+hut	NN
+.	.
+
+how	WRB
+about	IN
+some	DT
+african	JJ
+food	NN
+.	.
+
+how	WRB
+about	IN
+some	DT
+african	JJ
+food	NN
+.	.
+
+how	WRB
+about	IN
+some	DT
+african	JJ
+food	NN
+.	.
+
+expensive	JJ
+.	.
+
+dinner	NN
+.	.
+
+the	DT
+place	NN
+may	MD
+be	VB
+in	IN
+any	DT
+distance	NN
+from	IN
+icksee	NN
+.	.
+
+the	DT
+place	NN
+may	MD
+be	VB
+in	IN
+any	DT
+distance	NN
+from	IN
+icksee	NN
+.	.
+
+how	WRB
+about	IN
+some	DT
+indian	JJ
+food	NN
+.	.
+
+how	WRB
+about	IN
+some	DT
+indian	JJ
+food	NN
+.	.
+
+how	WRB
+about	IN
+some	DT
+indian	JJ
+food	NN
+.	.
+
+indian	JJ
+food	NN
+.	.
+
+indian	JJ
+food	NN
+.	.
+
+how	WRB
+about	IN
+some	DT
+sushi	NN
+.	.
+
+how	WRB
+about	IN
+some	DT
+sushi	NN
+.	.
+
+how	WRB
+about	IN
+some	DT
+sushi	NN
+.	.
+
+how	WRB
+about	IN
+some	DT
+sushi	NN
+.	.
+
+japanese	NNS
+.	.
+
+it	PRP
+may	MD
+be	VB
+near	IN
+icksee	NN
+.	.
+
+it	PRP
+may	MD
+be	VB
+near	IN
+icksee	NN
+.	.
+
+not	RB
+far	RB
+from	IN
+icksee	PRP
+.	.
+
+not	RB
+far	RB
+from	IN
+icksee	PRP
+.	.
+
+not	RB
+far	RB
+from	IN
+icksee	PRP
+.	.
+
+near	IN
+icksee	NN
+.	.
+
+near	IN
+icksee	NN
+.	.
+
+japanese	NNS
+.	.
+
+in	IN
+walking	VBG
+distance	NN
+from	IN
+icksee	NN
+.	.
+
+in	IN
+walking	VBG
+distance	NN
+from	IN
+icksee	NN
+.	.
+
+in	IN
+walking	VBG
+distance	NN
+from	IN
+icksee	NN
+.	.
+
+for	IN
+less	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+lunch	NN
+today	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+lunch	NN
+today	NN
+.	.
+
+japanese	NNS
+.	.
+
+lunch	NN
+.	.
+
+so	RB
+it	PRP
+says	VBZ
+recording	NN
+but	CC
+i	PRP
+was	VBD
+quiet	JJ
+and	CC
+so	RB
+it	PRP
+'s	VBZ
+not	RB
+recording	VBG
+.	.
+
+so	RB
+it	PRP
+says	VBZ
+recording	NN
+but	CC
+i	PRP
+was	VBD
+quiet	JJ
+and	CC
+so	RB
+it	PRP
+'s	VBZ
+not	RB
+recording	VBG
+.	.
+
+so	RB
+it	PRP
+says	VBZ
+recording	NN
+but	CC
+i	PRP
+was	VBD
+quiet	JJ
+and	CC
+so	RB
+it	PRP
+'s	VBZ
+not	RB
+recording	VBG
+.	.
+
+so	RB
+it	PRP
+says	VBZ
+recording	NN
+but	CC
+i	PRP
+was	VBD
+quiet	JJ
+and	CC
+so	RB
+it	PRP
+'s	VBZ
+not	RB
+recording	VBG
+.	.
+
+so	RB
+it	PRP
+says	VBZ
+recording	NN
+but	CC
+i	PRP
+was	VBD
+quiet	JJ
+and	CC
+so	RB
+it	PRP
+'s	VBZ
+not	RB
+recording	VBG
+.	.
+
+so	RB
+it	PRP
+says	VBZ
+recording	NN
+but	CC
+i	PRP
+was	VBD
+quiet	JJ
+and	CC
+so	RB
+it	PRP
+'s	VBZ
+not	RB
+recording	VBG
+.	.
+
+hello	UH
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+an	DT
+italian	JJ
+restaurant	NN
+.	.
+
+brit	NN
+-	HYPH
+marie's	NNS
+.	.
+
+do	VBP
+you	PRP
+have	VB
+hungarian	JJ
+food	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+restaurant	NN
+that	WDT
+serves	VBZ
+vegetarian	JJ
+dishes	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+chinese	JJ
+food	NN
+.	.
+
+any	DT
+day	NN
+.	.
+
+bateau	NN
+ivre	NN
+.	.
+
+bateau	NN
+ivre	NN
+.	.
+
+bateau	NN
+ivre	NN
+.	.
+
+the	DT
+day	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+and	CC
+it	PRP
+should	MD
+be	VB
+close	JJ
+to	IN
+campus	NN
+.	.
+
+uh	UH
+tuesday	UH
+.	.
+
+uh	UH
+tuesday	UH
+.	.
+
+any	DT
+day	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+thai	DT
+food	NN
+.	.
+
+it	PRP
+could	MD
+be	VB
+any	DT
+meal	NN
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+tuesday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+tuesday	NN
+.	.
+
+cost	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+it	PRP
+could	MD
+be	VB
+any	DT
+day	NN
+.	.
+
+could	MD
+be	VB
+any	DT
+meal	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+mexican	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+mexican	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+for	IN
+dinner	NN
+.	.
+
+moderately	RB
+priced	VBN
+uh	UH
+.	.
+
+thursday	NN
+.	.
+
+it	PRP
+could	MD
+be	VB
+breakfast	NN
+lunch	NN
+or	CC
+dinner	NN
+.	.
+
+it	PRP
+could	MD
+be	VB
+breakfast	NN
+lunch	NN
+or	CC
+dinner	NN
+.	.
+
+monday	NNP
+afternoon	NN
+should	MD
+be	VB
+a	DT
+full	JJ
+sentence	NN
+.	.
+
+less	JJR
+than	IN
+twelve	CD
+dollars	NNS
+.	.
+
+less	JJR
+than	IN
+twelve	CD
+dollars	NNS
+.	.
+
+it	PRP
+should	MD
+be	VB
+lunch	NN
+.	.
+
+cost	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+have	VB
+to	TO
+be	VB
+that	RB
+close	JJ
+to	IN
+icsi	PRP
+.	.
+
+the	DT
+cost	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+cost	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+it	PRP
+could	MD
+be	VB
+any	DT
+price	NN
+.	.
+
+seven	CD
+miles	NNS
+.	.
+
+it	PRP
+should	MD
+be	VB
+less	JJR
+than	IN
+half	PDT
+an	DT
+hour	NN
+from	IN
+icksee	NN
+.	.
+
+it	PRP
+should	MD
+be	VB
+less	JJR
+than	IN
+half	PDT
+an	DT
+hour	NN
+from	IN
+icksee	NN
+.	.
+
+it	PRP
+should	MD
+be	VB
+less	JJR
+than	IN
+half	PDT
+an	DT
+hour	NN
+from	IN
+icksee	NN
+.	.
+
+it	PRP
+should	MD
+be	VB
+less	JJR
+than	IN
+half	PDT
+an	DT
+hour	NN
+from	IN
+icksee	NN
+.	.
+
+it	PRP
+should	MD
+be	VB
+less	JJR
+than	IN
+half	PDT
+an	DT
+hour	NN
+from	IN
+icksee	NN
+.	.
+
+it	PRP
+should	MD
+be	VB
+less	JJR
+than	IN
+half	PDT
+an	DT
+hour	NN
+from	IN
+icksee	NN
+.	.
+
+it	PRP
+should	MD
+be	VB
+less	JJR
+than	IN
+half	PDT
+an	DT
+hour	NN
+from	IN
+icksee	NN
+.	.
+
+it	PRP
+should	MD
+be	VB
+less	JJR
+than	IN
+half	PDT
+an	DT
+hour	NN
+from	IN
+icksee	NN
+.	.
+
+it	PRP
+should	MD
+be	VB
+less	JJR
+than	IN
+half	PDT
+an	DT
+hour	NN
+from	IN
+icksee	NN
+.	.
+
+um	UH
+under	IN
+twenty	CD
+dollars	NNS
+.	.
+
+um	UH
+under	IN
+twenty	CD
+dollars	NNS
+.	.
+
+um	UH
+under	IN
+twenty	CD
+dollars	NNS
+.	.
+
+um	UH
+under	IN
+twenty	CD
+dollars	NNS
+.	.
+
+um	UH
+under	IN
+twenty	CD
+dollars	NNS
+.	.
+
+less	JJR
+than	IN
+twenty	CD
+dollars	NNS
+.	.
+
+less	JJR
+than	IN
+twenty	CD
+dollars	NNS
+.	.
+
+up	RP
+to	IN
+ten	CD
+miles	NNS
+.	.
+
+up	RP
+to	IN
+ten	CD
+miles	NNS
+.	.
+
+it	PRP
+should	MD
+cost	VB
+less	JJR
+than	IN
+seven	CD
+dollars	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+the	DT
+previous	JJ
+list	NN
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+the	DT
+previous	JJ
+list	NN
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+the	DT
+previous	JJ
+list	NN
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+it	PRP
+to	TO
+cost	VB
+about	IN
+fifty	CD
+dollars	NNS
+per	IN
+person	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+it	PRP
+to	TO
+cost	VB
+about	IN
+fifty	CD
+dollars	NNS
+per	IN
+person	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+it	PRP
+to	TO
+cost	VB
+about	IN
+fifty	CD
+dollars	NNS
+per	IN
+person	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+it	PRP
+to	TO
+cost	VB
+about	IN
+fifty	CD
+dollars	NNS
+per	IN
+person	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+it	PRP
+to	TO
+cost	VB
+about	IN
+fifty	CD
+dollars	NNS
+per	IN
+person	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+it	PRP
+to	TO
+cost	VB
+about	IN
+fifty	CD
+dollars	NNS
+per	IN
+person	NN
+.	.
+
+howbout	NN
+thai	DT
+food	NN
+.	.
+
+howbout	NN
+thai	DT
+food	NN
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+soul	NN
+brother	NN
+'s	POS
+kitchen	NN
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+soul	NN
+brother	NN
+'s	POS
+kitchen	NN
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+soul	NN
+brother	NN
+'s	POS
+kitchen	NN
+.	.
+
+it	PRP
+should	MD
+cost	VB
+less	JJR
+than	IN
+seven	CD
+dollars	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+for	IN
+chinese	JJ
+food	NN
+.	.
+
+does	VBZ
+plearn	VB
+use	NN
+m__s__g	NN
+.	.
+
+does	VBZ
+plearn	VB
+use	NN
+m__s__g	NN
+.	.
+
+does	VBZ
+plearn	VB
+use	NN
+m__s__g	NN
+.	.
+
+does	VBZ
+plearn	VB
+use	NN
+m__s__g	NN
+.	.
+
+does	VBZ
+plearn	VB
+use	NN
+m__s__g	NN
+.	.
+
+could	MD
+be	VB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+could	MD
+be	VB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+could	MD
+be	VB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+le	FW
+bateau	FW
+ivre	FW
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+le	FW
+bateau	FW
+ivre	FW
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+le	FW
+bateau	FW
+ivre	FW
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+le	FW
+bateau	FW
+ivre	FW
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+le	FW
+bateau	FW
+ivre	FW
+.	.
+
+are	VBP
+there	EX
+any	DT
