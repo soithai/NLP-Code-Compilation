@@ -31298,4 +31298,1036 @@ mile	NN
 .	.
 
 i	PRP
-'d	
+'d	MD
+like	VB
+a	DT
+vegetarian	JJ
+choice	NN
+.	.
+
+change	VB
+that	DT
+to	IN
+vegetarian	NN
+please	UH
+.	.
+
+change	VB
+that	DT
+to	IN
+vegetarian	NN
+please	UH
+.	.
+
+change	VB
+that	DT
+to	IN
+vegetarian	NN
+please	UH
+.	.
+
+change	VB
+that	DT
+to	IN
+vegetarian	NN
+please	UH
+.	.
+
+change	VB
+that	DT
+to	IN
+vegetarian	NN
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+you	PRP
+to	TO
+find	VB
+a	DT
+vegetarian	JJ
+restaurant	NN
+for	IN
+me	PRP
+to	TO
+eat	VB
+at	IN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+you	PRP
+to	TO
+find	VB
+a	DT
+vegetarian	JJ
+restaurant	NN
+for	IN
+me	PRP
+to	TO
+eat	VB
+at	IN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+you	PRP
+to	TO
+find	VB
+a	DT
+vegetarian	JJ
+restaurant	NN
+for	IN
+me	PRP
+to	TO
+eat	VB
+at	IN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+you	PRP
+to	TO
+find	VB
+a	DT
+vegetarian	JJ
+restaurant	NN
+for	IN
+me	PRP
+to	TO
+eat	VB
+at	IN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+you	PRP
+to	TO
+find	VB
+a	DT
+vegetarian	JJ
+restaurant	NN
+for	IN
+me	PRP
+to	TO
+eat	VB
+at	IN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+vegetarian	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+vegetarian	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+find	VB
+an	DT
+inexpensive	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+the	DT
+type	NN
+of	IN
+food	NN
+that	WDT
+vietnam	NN
+village	NN
+restaurant	NN
+serves	VBZ
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+the	DT
+type	NN
+of	IN
+food	NN
+that	WDT
+vietnam	NN
+village	NN
+restaurant	NN
+serves	VBZ
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+the	DT
+type	NN
+of	IN
+food	NN
+that	WDT
+vietnam	NN
+village	NN
+restaurant	NN
+serves	VBZ
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+the	DT
+type	NN
+of	IN
+food	NN
+that	WDT
+vietnam	NN
+village	NN
+restaurant	NN
+serves	VBZ
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+the	DT
+type	NN
+of	IN
+food	NN
+that	WDT
+vietnam	NN
+village	NN
+restaurant	NN
+serves	VBZ
+.	.
+
+how	WRB
+about	IN
+long	JJ
+life	NN
+vegi	NN
+house	NN
+.	.
+
+how	WRB
+about	IN
+long	JJ
+life	NN
+vegi	NN
+house	NN
+.	.
+
+how	WRB
+about	IN
+long	JJ
+life	NN
+vegi	NN
+house	NN
+.	.
+
+how	WRB
+about	IN
+long	JJ
+life	NN
+vegi	NN
+house	NN
+.	.
+
+how	WRB
+about	IN
+long	JJ
+life	NN
+vegi	NN
+house	NN
+.	.
+
+how	WRB
+about	IN
+long	JJ
+life	NN
+vegi	NN
+house	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+something	NN
+about	IN
+vegi	VBG
+food	NN
+restaurant	NN
+.	.
+
+thank	VBP
+you	PRP
+very	RB
+much	RB
+you	PRP
+'ve	VBP
+been	VBN
+really	RB
+helpful	JJ
+.	.
+
+thank	VBP
+you	PRP
+very	RB
+much	RB
+you	PRP
+'ve	VBP
+been	VBN
+really	RB
+helpful	JJ
+.	.
+
+thank	VBP
+you	PRP
+very	RB
+much	RB
+you	PRP
+'ve	VBP
+been	VBN
+really	RB
+helpful	JJ
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+think	VBP
+i	PRP
+wan	VBP
+na	TO
+have	VB
+pizza	NN
+tonight	NN
+.	.
+
+i	PRP
+think	VBP
+i	PRP
+wan	VBP
+na	TO
+have	VB
+pizza	NN
+tonight	NN
+.	.
+
+i	PRP
+think	VBP
+i	PRP
+wan	VBP
+na	TO
+have	VB
+pizza	NN
+tonight	NN
+.	.
+
+i	PRP
+think	VBP
+i	PRP
+wan	VBP
+na	TO
+have	VB
+pizza	NN
+tonight	NN
+.	.
+
+no	UH
+i	PRP
+want	VBP
+pizza	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+today	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+today	NN
+.	.
+
+lunch	NN
+i	PRP
+think	VBP
+.	.
+
+lunch	NN
+i	PRP
+think	VBP
+.	.
+
+lunch	NN
+i	PRP
+think	VBP
+.	.
+
+i	PRP
+said	VBD
+that	IN
+i	PRP
+want	VBP
+to	TO
+eat	VB
+pizza	NN
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+said	VBD
+that	IN
+i	PRP
+want	VBP
+to	TO
+eat	VB
+pizza	NN
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+said	VBD
+that	IN
+i	PRP
+want	VBP
+to	TO
+eat	VB
+pizza	NN
+for	IN
+lunch	NN
+.	.
+
+that	DT
+'s	VBZ
+pizza	NN
+pizza	NN
+do	VBP
+you	PRP
+understand	VB
+me	PRP
+i	PRP
+want	VBP
+pizza	NN
+.	.
+
+that	DT
+'s	VBZ
+pizza	NN
+pizza	NN
+do	VBP
+you	PRP
+understand	VB
+me	PRP
+i	PRP
+want	VBP
+pizza	NN
+.	.
+
+that	DT
+'s	VBZ
+pizza	NN
+pizza	NN
+do	VBP
+you	PRP
+understand	VB
+me	PRP
+i	PRP
+want	VBP
+pizza	NN
+.	.
+
+that	DT
+'s	VBZ
+pizza	NN
+pizza	NN
+do	VBP
+you	PRP
+understand	VB
+me	PRP
+i	PRP
+want	VBP
+pizza	NN
+.	.
+
+that	DT
+'s	VBZ
+pizza	NN
+pizza	NN
+do	VBP
+you	PRP
+understand	VB
+me	PRP
+i	PRP
+want	VBP
+pizza	NN
+.	.
+
+that	DT
+'s	VBZ
+pizza	NN
+pizza	NN
+do	VBP
+you	PRP
+understand	VB
+me	PRP
+i	PRP
+want	VBP
+pizza	NN
+.	.
+
+you	PRP
+just	RB
+do	VBP
+n't	RB
+want	VB
+me	PRP
+to	TO
+have	VB
+pizza	NN
+do	VBP
+you	PRP
+.	.
+
+you	PRP
+just	RB
+do	VBP
+n't	RB
+want	VB
+me	PRP
+to	TO
+have	VB
+pizza	NN
+do	VBP
+you	PRP
+.	.
+
+you	PRP
+just	RB
+do	VBP
+n't	RB
+want	VB
+me	PRP
+to	TO
+have	VB
+pizza	NN
+do	VBP
+you	PRP
+.	.
+
+you	PRP
+just	RB
+do	VBP
+n't	RB
+want	VB
+me	PRP
+to	TO
+have	VB
+pizza	NN
+do	VBP
+you	PRP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+at	IN
+a	DT
+restaurant	NN
+that	WDT
+serves	VBZ
+kosher	DT
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+at	IN
+a	DT
+restaurant	NN
+that	WDT
+serves	VBZ
+kosher	DT
+food	NN
+.	.
+
+how	WRB
+about	IN
+yogurt	NN
+.	.
+
+how	WRB
+about	IN
+yogurt	NN
+.	.
+
+how	WRB
+about	IN
+yogurt	NN
+.	.
+
+i	PRP
+think	VBP
+i	PRP
+want	VBP
+to	TO
+eat	VB
+ice	NN
+cream	NN
+.	.
+
+as	RB
+little	JJ
+as	IN
+possible	JJ
+.	.
+
+as	RB
+little	JJ
+as	IN
+possible	JJ
+.	.
+
+as	RB
+little	JJ
+as	IN
+possible	JJ
+.	.
+
+not	RB
+much	JJ
+.	.
+
+no	UH
+i	PRP
+want	VBP
+a	DT
+cheap	JJ
+ice	NN
+cream	NN
+place	NN
+.	.
+
+no	UH
+i	PRP
+want	VBP
+a	DT
+cheap	JJ
+ice	NN
+cream	NN
+place	NN
+.	.
+
+no	UH
+i	PRP
+want	VBP
+a	DT
+cheap	JJ
+ice	NN
+cream	NN
+place	NN
+.	.
+
+half	PDT
+a	DT
+mile	NN
+.	.
+
+half	PDT
+a	DT
+mile	NN
+.	.
+
+half	PDT
+a	DT
+mile	NN
+.	.
+
+half	PDT
+a	DT
+mile	NN
+.	.
+
+hello	UH
+i	PRP
+'d	MD
+like	VB
+some	DT
+thai	JJ
+food	NN
+.	.
+
+hello	UH
+i	PRP
+'d	MD
+like	VB
+some	DT
+thai	JJ
+food	NN
+.	.
+
+good	JJ
+morning	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+tonight	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+tonight	NN
+.	.
+
+uh	UH
+bacon	NN
+and	CC
+eggs	NNS
+.	.
+
+uh	UH
+bacon	NN
+and	CC
+eggs	NNS
+.	.
+
+uh	UH
+bacon	NN
+and	CC
+eggs	NNS
+.	.
+
+regular	JJ
+american	JJ
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+foot	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+foot	NN
+.	.
+
+the	DT
+day	NN
+after	IN
+tomorrow	NN
+.	.
+
+the	DT
+day	NN
+after	IN
+tomorrow	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+go	VB
+very	RB
+far	RB
+from	IN
+icsi	NN
+because	IN
+i	PRP
+'m	VBP
+walking	VBG
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+go	VB
+very	RB
+far	RB
+from	IN
+icsi	NN
+because	IN
+i	PRP
+'m	VBP
+walking	VBG
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+go	VB
+very	RB
+far	RB
+from	IN
+icsi	NN
+because	IN
+i	PRP
+'m	VBP
+walking	VBG
+.	.
+
+not	RB
+very	RB
+much	JJ
+money	NN
+.	.
+
+not	RB
+very	RB
+much	JJ
+money	NN
+.	.
+
+not	RB
+very	RB
+much	JJ
+money	NN
+.	.
+
+just	RB
+a	DT
+short	JJ
+walk	NN
+from	IN
+icsi	VBG
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+just	RB
+a	DT
+short	JJ
+walk	NN
+from	IN
+icsi	VBG
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+just	RB
+a	DT
+short	JJ
+walk	NN
+from	IN
+icsi	VBG
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+just	RB
+a	DT
+short	JJ
+walk	NN
+from	IN
+icsi	VBG
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+lots	NNS
+of	IN
+money	NN
+.	.
+
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+mind	VB
+how	WRB
+far	RB
+it	PRP
+is	VBZ
+any	DT
+distance	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+mind	VB
+how	WRB
+far	RB
+it	PRP
+is	VBZ
+any	DT
+distance	NN
+.	.
+
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+about	IN
+half	PDT
+a	DT
+mile	NN
+.	.
+
+i	PRP
+guess	VBP
+i	PRP
+am	VBP
+willing	JJ
+to	TO
+spend	VB
+.	.
+
+i	PRP
+would	MD
+like	VB
+a	DT
+restaurant	NN
+that	WDT
+is	VBZ
+one	CD
+mile	NN
+from	IN
+icsi	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+a	DT
+restaurant	NN
+that	WDT
+is	VBZ
+one	CD
+mile	NN
+from	IN
+icsi	NN
+.	.
+
+let	VB
+'s	PRP
+try	VB
+a	DT
+cheaper	JJR
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+very	RB
+close	JJ
