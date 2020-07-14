@@ -33303,4 +33303,975 @@ then	RB
 how	WRB
 about	IN
 uh	UH
-m
+malaysian	JJ
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+uh	UH
+malaysian	JJ
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+uh	UH
+malaysian	JJ
+food	NN
+then	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+the	DT
+weekend	NN
+somewhere	RB
+near	RB
+here	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+the	DT
+weekend	NN
+somewhere	RB
+near	RB
+here	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+the	DT
+weekend	NN
+somewhere	RB
+near	RB
+here	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+the	DT
+weekend	NN
+somewhere	RB
+near	RB
+here	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+the	DT
+weekend	NN
+somewhere	RB
+near	RB
+here	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+the	DT
+weekend	NN
+somewhere	RB
+near	RB
+here	RB
+.	.
+
+malaysian	JJ
+food	NN
+.	.
+
+saturday	NN
+.	.
+
+how	WRB
+about	IN
+burmese	DT
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+burmese	DT
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+burmese	DT
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+burmese	DT
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+burmese	DT
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+burmese	DT
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+burmese	DT
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+burmese	DT
+food	NN
+then	RB
+.	.
+
+somewhere	RB
+within	IN
+a	DT
+twenty	CD
+minute	NN
+drive	NN
+from	IN
+here	RB
+.	.
+
+somewhere	RB
+within	IN
+a	DT
+twenty	CD
+minute	NN
+drive	NN
+from	IN
+here	RB
+.	.
+
+somewhere	RB
+within	IN
+a	DT
+twenty	CD
+minute	NN
+drive	NN
+from	IN
+here	RB
+.	.
+
+tell	VB
+me	PRP
+about	IN
+thai	DT
+restaurants	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+thai	DT
+restaurants	NNS
+.	.
+
+within	IN
+a	DT
+twenty	CD
+five	CD
+minute	NN
+drive	NN
+from	IN
+here	RB
+.	.
+
+within	IN
+a	DT
+twenty	CD
+five	CD
+minute	NN
+drive	NN
+from	IN
+here	RB
+.	.
+
+within	IN
+a	DT
+twenty	CD
+five	CD
+minute	NN
+drive	NN
+from	IN
+here	RB
+.	.
+
+within	IN
+a	DT
+twenty	CD
+five	CD
+minute	NN
+drive	NN
+from	IN
+here	RB
+.	.
+
+within	IN
+a	DT
+twenty	CD
+five	CD
+minute	NN
+drive	NN
+from	IN
+here	RB
+.	.
+
+to	TO
+eat	VB
+today	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+dinner	NN
+would	MD
+be	VB
+best	JJS
+.	.
+
+dinner	NN
+would	MD
+be	VB
+best	JJS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+uh	UH
+it	PRP
+should	MD
+n't	RB
+be	VB
+too	RB
+expensive	JJ
+.	.
+
+are	VBP
+there	EX
+any	DT
+cajun	NN
+restaurants	NNS
+in	IN
+the	DT
+bay	NN
+area	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+cajun	NN
+restaurants	NNS
+in	IN
+the	DT
+bay	NN
+area	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+cajun	NN
+restaurants	NNS
+in	IN
+the	DT
+bay	NN
+area	NN
+.	.
+
+i	PRP
+want	VBP
+cajun	VBN
+or	CC
+caribbean	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+cajun	VBN
+or	CC
+caribbean	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+cajun	VBN
+or	CC
+caribbean	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+cajun	VBN
+or	CC
+caribbean	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+cajun	VBN
+or	CC
+caribbean	JJ
+food	NN
+.	.
+
+no	UH
+i	PRP
+want	VBP
+an	DT
+inexpensive	JJ
+thai	JJ
+restaurant	NN
+.	.
+
+no	UH
+i	PRP
+want	VBP
+an	DT
+inexpensive	JJ
+thai	JJ
+restaurant	NN
+.	.
+
+no	UH
+i	PRP
+want	VBP
+an	DT
+inexpensive	JJ
+thai	JJ
+restaurant	NN
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+no	DT
+inexpensive	JJ
+.	.
+
+no	DT
+inexpensive	JJ
+.	.
+
+tell	VB
+me	PRP
+about	IN
+the	DT
+gingerbread	JJ
+house	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+the	DT
+gingerbread	JJ
+house	NN
+.	.
+
+cheap	JJ
+cheap	JJ
+cheap	NN
+.	.
+
+cheap	JJ
+cheap	JJ
+cheap	NN
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+please	UH
+tell	VB
+me	PRP
+about	IN
+lalime's	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+a	DT
+cheap	JJ
+cuban	JJ
+restaurant	NN
+near	IN
+to	IN
+here	RB
+.	.
+
+tell	VB
+me	PRP
+about	IN
+a	DT
+cheap	JJ
+cuban	JJ
+restaurant	NN
+near	IN
+to	IN
+here	RB
+.	.
+
+tell	VB
+me	PRP
+about	IN
+a	DT
+cheap	JJ
+cuban	JJ
+restaurant	NN
+near	IN
+to	IN
+here	RB
+.	.
+
+tell	VB
+me	PRP
+about	IN
+a	DT
+cheap	JJ
+cuban	JJ
+restaurant	NN
+near	IN
+to	IN
+here	RB
+.	.
+
+tell	VB
+me	PRP
+about	IN
+a	DT
+cheap	JJ
+cuban	JJ
+restaurant	NN
+near	IN
+to	IN
+here	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+food	NN
+that	WDT
+'s	VBZ
+cheap	JJ
+and	CC
+cuban	JJ
+.	.
+
+i	PRP
+'d	MD
+like	VB
+food	NN
+that	WDT
+'s	VBZ
+cheap	JJ
+and	CC
+cuban	JJ
+.	.
+
+either	CC
+saturday	NN
+or	CC
+sunday	NN
+.	.
+
+either	CC
+saturday	NN
+or	CC
+sunday	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+cheap	JJ
+cuban	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+cheap	JJ
+cuban	JJ
+restaurant	NN
+.	.
+
+saturday	NN
+.	.
+
+cuban	JJ
+food	NN
+.	.
+
+cuban	JJ
+food	NN
+.	.
+
+any	DT
+day	NN
+of	IN
+the	DT
+week	NN
+is	VBZ
+fine	JJ
+.	.
+
+show	VB
+me	PRP
+information	NN
+about	IN
+zachary	NNP
+'s	POS
+pizza	NN
+.	.
+
+any	DT
+day	NN
+is	VBZ
+fine	JJ
+dammit	NN
+.	.
+
+any	DT
+day	NN
+is	VBZ
+fine	JJ
+dammit	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+expensive	JJ
+mexican	JJ
+restaurants	NNS
+.	.
+
+are	VBP
+there	EX
+any	DT
+expensive	JJ
+mexican	JJ
+restaurants	NNS
+.	.
+
+are	VBP
+there	EX
+any	DT
+expensive	JJ
+mexican	JJ
+restaurants	NNS
+.	.
+
+are	VBP
+there	EX
+any	DT
+expensive	JJ
+mexican	JJ
+restaurants	NNS
+.	.
+
+i	PRP
+want	VBP
+an	DT
+expensive	JJ
+dinner	NN
+.	.
+
+today	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+today	NN
+now	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+today	NN
+now	RB
+.	.
+
+anywhere	RB
+up	RB
+to	IN
+an	DT
+hour	NN
+away	RB
+.	.
+
+anywhere	RB
+up	RB
+to	IN
+an	DT
+hour	NN
+away	RB
+.	.
+
+anywhere	RB
+up	RB
+to	IN
+an	DT
+hour	NN
+away	RB
+.	.
+
+anywhere	RB
+up	RB
+to	IN
+an	DT
+hour	NN
+away	RB
+.	.
+
+anywhere	RB
+up	RB
+to	IN
+an	DT
+hour	NN
+away	RB
+.	.
+
+anywhere	RB
+up	RB
+to	IN
+an	DT
+hour	NN
+away	RB
+.	.
+
+anywhere	RB
+up	RB
+to	IN
+an	DT
+hour	NN
+away	RB
+.	.
+
+one	CD
+hour	NN
+.	.
+
+one	CD
+hour	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+californian	JJ
+best	JJS
+californian	JJ
+restaurant	NN
+around	RB
+here	RB
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+californian	JJ
+best	JJS
+californian	JJ
+restaurant	NN
+around	RB
+here	RB
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+californian	JJ
+best	JJS
+californian	JJ
+restaurant	NN
+around	RB
+here	RB
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+californian	JJ
+best	JJS
+californian	JJ
+restaurant	NN
+around	RB
+here	RB
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+californian	JJ
+best	JJS
+californian	JJ
+restaurant	NN
+around	RB
+here	RB
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+californian	JJ
+best	JJS
+californian	JJ
+restaurant	NN
+around	RB
+here	RB
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+californian	JJ
+best	JJS
+californian	JJ
+restaurant	NN
+around	RB
+here	RB
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+californian	JJ
+best	JJS
+californian	JJ
+restaurant	NN
+around	RB
+here	RB
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+californian	JJ
+best	JJS
+californian	JJ
+restaurant	NN
+around	RB
+here	RB
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+italian	JJ
+food	NN
+and	CC
+dinner	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+italian	JJ
+food	NN
+and	CC
+dinner	NN
+.	.
+
+i	PRP
+'m	VBP
+not	RB
+concerned	JJ
+about	IN
+a	DT
+date	NN
+but	CC
+uh	UH
+i	PRP
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+a	DT
+good	JJ
+place	NN
+like	IN
+quiet	JJ
+place	NN
+and	CC
+good	JJ
+meal	NN
+around	IN
+thirty	CD
+dollars	NNS
+.	.
+
+i	PRP
+'m	VBP
+not	RB
+concerned	JJ
+about	IN
+a	DT
+date	NN
+but	CC
+uh	UH
+i	PRP
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+a	DT
+good	JJ
+place	NN
+like	IN
+quiet	JJ
+place	NN
+and	CC
+good	JJ
+meal	NN
+around	IN
+thirty	CD
+dollars	NNS
+.	.
+
+i	PRP
+'m	VBP
+not	RB
+concerned	JJ
+about	IN
+a	DT
+date	NN
+but	CC
+uh	UH
+i	PRP
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+a	DT
+good	JJ
+place	NN
+like	IN
+quiet	JJ
+place	NN
+and	CC
+good	JJ
+meal	NN
+around	IN
+thirty	CD
+dollars	NNS
+.	.
+
+i	PR
