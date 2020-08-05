@@ -47190,4 +47190,963 @@ that	DT
 's	VBZ
 the	DT
 same	JJ
-thin
+thing	NN
+oops	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+lunch	NN
+on	IN
+wednesday	NNP
+oh	UH
+that	DT
+'s	VBZ
+the	DT
+same	JJ
+thing	NN
+oops	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+lunch	NN
+on	IN
+wednesday	NNP
+oh	UH
+that	DT
+'s	VBZ
+the	DT
+same	JJ
+thing	NN
+oops	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+lunch	NN
+on	IN
+wednesday	NNP
+oh	UH
+that	DT
+'s	VBZ
+the	DT
+same	JJ
+thing	NN
+oops	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+lunch	NN
+on	IN
+wednesday	NNP
+oh	UH
+that	DT
+'s	VBZ
+the	DT
+same	JJ
+thing	NN
+oops	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+lunch	NN
+on	IN
+wednesday	NNP
+oh	UH
+that	DT
+'s	VBZ
+the	DT
+same	JJ
+thing	NN
+oops	UH
+.	.
+
+i	PRP
+want	VBP
+japanese	DT
+food	NN
+.	.
+
+i	PRP
+want	VBP
+japanese	DT
+food	NN
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+pay	VB
+up	RP
+to	IN
+fifty	CD
+dollars	NNS
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+pay	VB
+up	RP
+to	IN
+fifty	CD
+dollars	NNS
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+pay	VB
+fifty	CD
+dollars	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+kirala	NN
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+indonesian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+thai	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+thai	JJ
+food	NN
+.	.
+
+today	NN
+.	.
+
+can	MD
+i	PRP
+have	VB
+dinner	NN
+please	UH
+.	.
+
+about	RB
+ten	CD
+to	TO
+fifteen	CD
+dollars	NNS
+.	.
+
+within	IN
+ten	CD
+minutes	NNS
+of	IN
+uh	UH
+walking	VBG
+walking	VBG
+distance	NN
+i	PRP
+guess	VBP
+it	PRP
+wo	MD
+n't	RB
+have	VB
+recognized	VBN
+it	PRP
+.	.
+
+within	IN
+ten	CD
+minutes	NNS
+of	IN
+uh	UH
+walking	VBG
+walking	VBG
+distance	NN
+i	PRP
+guess	VBP
+it	PRP
+wo	MD
+n't	RB
+have	VB
+recognized	VBN
+it	PRP
+.	.
+
+within	IN
+ten	CD
+minutes	NNS
+of	IN
+uh	UH
+walking	VBG
+walking	VBG
+distance	NN
+i	PRP
+guess	VBP
+it	PRP
+wo	MD
+n't	RB
+have	VB
+recognized	VBN
+it	PRP
+.	.
+
+within	IN
+ten	CD
+minutes	NNS
+of	IN
+uh	UH
+walking	VBG
+walking	VBG
+distance	NN
+i	PRP
+guess	VBP
+it	PRP
+wo	MD
+n't	RB
+have	VB
+recognized	VBN
+it	PRP
+.	.
+
+within	IN
+ten	CD
+minutes	NNS
+of	IN
+uh	UH
+walking	VBG
+walking	VBG
+distance	NN
+i	PRP
+guess	VBP
+it	PRP
+wo	MD
+n't	RB
+have	VB
+recognized	VBN
+it	PRP
+.	.
+
+within	IN
+ten	CD
+minutes	NNS
+of	IN
+uh	UH
+walking	VBG
+walking	VBG
+distance	NN
+i	PRP
+guess	VBP
+it	PRP
+wo	MD
+n't	RB
+have	VB
+recognized	VBN
+it	PRP
+.	.
+
+within	IN
+ten	CD
+minutes	NNS
+of	IN
+uh	UH
+walking	VBG
+walking	VBG
+distance	NN
+i	PRP
+guess	VBP
+it	PRP
+wo	MD
+n't	RB
+have	VB
+recognized	VBN
+it	PRP
+.	.
+
+within	IN
+ten	CD
+minutes	NNS
+walking	VBG
+distance	NN
+.	.
+
+within	IN
+ten	CD
+minutes	NNS
+walking	VBG
+distance	NN
+.	.
+
+within	IN
+ten	CD
+minutes	NNS
+walking	VBG
+distance	NN
+.	.
+
+within	IN
+ten	CD
+minutes	NNS
+walking	VBG
+distance	NN
+.	.
+
+within	IN
+ten	CD
+minutes	NNS
+walking	VBG
+distance	NN
+.	.
+
+can	MD
+i	PRP
+have	VB
+some	DT
+information	NN
+about	IN
+nakapan	NN
+please	UH
+.	.
+
+can	MD
+i	PRP
+have	VB
+some	DT
+information	NN
+about	IN
+nakapan	NN
+please	UH
+.	.
+
+can	MD
+i	PRP
+have	VB
+some	DT
+information	NN
+about	IN
+nakapan	NN
+please	UH
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+african	JJ
+food	NN
+please	UH
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+african	JJ
+food	NN
+please	UH
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+japanese	DT
+food	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+japanese	DT
+food	NN
+.	.
+
+it	PRP
+expensive	JJ
+.	.
+
+can	MD
+you	PRP
+give	VB
+me	PRP
+some	DT
+information	NN
+about	IN
+sushi	NN
+-	HYPH
+ko	NN
+.	.
+
+can	MD
+you	PRP
+give	VB
+me	PRP
+some	DT
+information	NN
+about	IN
+sushi	NN
+-	HYPH
+ko	NN
+.	.
+
+i	PRP
+like	VBP
+some	DT
+mexican	JJ
+food	NN
+today	NN
+.	.
+
+i	PRP
+like	VBP
+some	DT
+mexican	JJ
+food	NN
+today	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+pay	VB
+more	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+to	IN
+norteno's	NNS
+.	.
+
+how	WRB
+far	RB
+is	VBZ
+sun-hong-kong	JJ
+.	.
+
+how	WRB
+far	RB
+is	VBZ
+sun-hong-kong	JJ
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+indian	JJ
+food	NN
+.	.
+
+indian	NN
+.	.
+
+indian	JJ
+food	NN
+.	.
+
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+italian	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+italian	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+lunch	NN
+at	IN
+bucci's	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+lunch	NN
+at	IN
+bucci's	NNS
+.	.
+
+can	MD
+i	PRP
+have	VB
+some	DT
+korean	JJ
+food	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+something	NN
+about	IN
+korean	JJ
+restaurants	NNS
+.	.
+
+where	WRB
+is	VBZ
+mcdonald's	NNS
+.	.
+
+where	WRB
+is	VBZ
+mcdonald's	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+lunch	NN
+at	IN
+burger	NN
+king's	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+lunch	NN
+at	IN
+burger	NN
+king's	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+lunch	NN
+at	IN
+burger	NN
+king's	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+lunch	NN
+at	IN
+burger	NN
+king's	NNS
+.	.
+
+i	PRP
+want	VBP
+some	DT
+pizza	NN
+today	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+pizza	NN
+today	NN
+.	.
+
+i	PRP
+want	VBP
+hamburgers	NNS
+.	.
+
+i	PRP
+like	VBP
+hamburgers	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	IN
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+italian	JJ
+restaurants	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	IN
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+italian	JJ
+restaurants	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	IN
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+italian	JJ
+restaurants	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	IN
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+italian	JJ
+restaurants	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+restaurants	NNS
+that	WDT
+are	VBP
+moderate	JJ
+to	IN
+inexpensively	RB
+priced	VBN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+restaurants	NNS
+that	WDT
+are	VBP
+moderate	JJ
+to	IN
+inexpensively	RB
+priced	VBN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+restaurants	NNS
+that	WDT
+are	VBP
+moderate	JJ
+to	IN
+inexpensively	RB
+priced	VBN
+.	.
+
+moderate	JJ
+to	IN
+inexpensive	JJ
+.	.
+
+moderate	JJ
+to	IN
+inexpensive	JJ
+.	.
+
+moderate	JJ
+to	IN
+inexpensive	JJ
+.	.
+
+to	TO
+have	VB
+dinner	NN
+on	IN
+saturday	NN
+night	NN
+.	.
+
+to	TO
+have	VB
+dinner	NN
+on	IN
+saturday	NN
+night	NN
+.	.
+
+to	TO
+have	VB
+dinner	NN
+on	IN
+saturday	NN
+night	NN
+.	.
+
+to	TO
+have	VB
+dinner	NN
+on	IN
+saturday	NN
+night	NN
+.	.
+
+saturday	NN
+night	NN
+.	.
+
+saturday	NN
+night	NN
+.	.
+
+saturday	NN
+night	NN
+.	.
+
+saturday	NN
+.	.
+
+weekend	NN
+.	.
+
+can	MD
+you	PRP
+give	VB
+me	PRP
+suggested	VBD
+restaurants	NNS
+.	.
+
+can	MD
+you	PRP
+give	VB
+me	PRP
+suggested	VBD
+restaurants	NNS
+.	.
+
+can	MD
+you	PRP
+give	VB
+me	PRP
+suggested	VBD
+restaurants	NNS
+.	.
+
+can	MD
+you	PRP
+give	VB
+me	PRP
+suggested	VBD
+restaurants	NNS
+.	.
+
+suggestion	NN
+.	.
+
+what	WP
+are	VBP
+my	PRP$
+choices	NNS
+.	.
+
+what	WP
+are	VBP
+my	PRP$
+choices	NNS
+.	.
+
+what	WP
+are	VBP
+my	PRP$
+choices	NNS
+.	.
+
+distance	NN
+does	VBZ
+not	RB
+matter	VB
+.	.
+
+does	VBZ
+not	RB
+matter	VB
+.	.
+
+like	UH
+to	TO
+travel	VB
+up	IN
+to	TO
+ten	CD
+miles	NNS
+.	.
+
+like	UH
+to	TO
+travel	VB
+up	IN
+to	TO
+ten	CD
+miles	NNS
+.	.
+
+like	UH
+to	TO
+travel	VB
+up	IN
+to	TO
+ten	CD
+miles	NNS
+.	.
+
+like	UH
+to	TO
+travel	VB
+up	IN
+to	TO
+ten	CD
+miles	NNS
+.	.
+
+weekend	NN
+.	.
+
+friday	NN
+or	CC
+saturday	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+lococo	NNP
+'s	POS
+restaurant	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+lococo	NNP
+'s	POS
+restaurant	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+lococo	NNP
+'s	POS
+restaurant	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+lococo	NNP
+'s	POS
+restaurant	NN
+.	.
+
+can	MD
+i	PRP
+see	VB
+the	DT
+list	NN
+again	R
