@@ -60249,4 +60249,1014 @@ salad	NN
 
 i	PRP
 want	VBP
-a
+a	DT
+salad	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+deli	NN
+sandwich	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+deli	NN
+sandwich	NN
+.	.
+
+on	IN
+wednesday	NNP
+.	.
+
+any	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+lunch	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+five	CD
+dollars	NNS
+.	.
+
+i	PRP
+want	VBP
+a	DT
+sandwich	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+musical	JJ
+offering	NN
+.	.
+
+does	VBZ
+musical	JJ
+offering	NN
+have	VB
+salads	NNS
+.	.
+
+does	VBZ
+musical	JJ
+offering	NN
+have	VB
+salads	NNS
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+i	PRP
+want	VBP
+pancakes	NNS
+for	IN
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+pancakes	NNS
+for	IN
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+pancakes	NNS
+for	IN
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+pancakes	NNS
+.	.
+
+okay	UH
+i	PRP
+want	VBP
+waffles	NNS
+.	.
+
+american	UH
+.	.
+
+i	PRP
+want	VBP
+american	JJ
+food	NN
+.	.
+
+any	DT
+day	NN
+.	.
+
+any	DT
+day	NN
+.	.
+
+less	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+less	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+continental	JJ
+garden	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+continental	JJ
+garden	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+about	IN
+yogurt	NN
+park	NN
+.	.
+
+i	PRP
+want	VBP
+yogurt	NN
+.	.
+
+i	PRP
+want	VBP
+yogurt	NN
+.	.
+
+hello	UH
+berp	NN
+are	VBP
+there	EX
+any	DT
+good	JJ
+indonesian	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+hello	UH
+berp	NN
+are	VBP
+there	EX
+any	DT
+good	JJ
+indonesian	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+hello	UH
+berp	NN
+are	VBP
+there	EX
+any	DT
+good	JJ
+indonesian	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+hello	UH
+berp	NN
+are	VBP
+there	EX
+any	DT
+good	JJ
+indonesian	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+hello	UH
+berp	NN
+are	VBP
+there	EX
+any	DT
+good	JJ
+indonesian	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+hello	UH
+berp	NN
+are	VBP
+there	EX
+any	DT
+good	JJ
+indonesian	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+hello	UH
+berp	NN
+are	VBP
+there	EX
+any	DT
+good	JJ
+indonesian	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+hello	UH
+berp	NN
+are	VBP
+there	EX
+any	DT
+good	JJ
+indonesian	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+hello	UH
+berp	NN
+are	VBP
+there	EX
+any	DT
+good	JJ
+indonesian	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+hello	UH
+berp	NN
+are	VBP
+there	EX
+any	DT
+good	JJ
+indonesian	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+hello	UH
+berp	NN
+are	VBP
+there	EX
+any	DT
+good	JJ
+indonesian	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+hello	UH
+berp	NN
+are	VBP
+there	EX
+any	DT
+good	JJ
+indonesian	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+any	DT
+day	NN
+would	MD
+be	VB
+fine	JJ
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+dinner	NN
+.	.
+
+this	DT
+can	MD
+be	VB
+an	DT
+expensive	JJ
+meal	NN
+that	DT
+'s	VBZ
+fine	JJ
+.	.
+
+this	DT
+can	MD
+be	VB
+an	DT
+expensive	JJ
+meal	NN
+that	DT
+'s	VBZ
+fine	JJ
+.	.
+
+berp	NN
+can	MD
+you	PRP
+tell	VB
+me	PRP
+where	WRB
+there	EX
+'s	VBZ
+a	DT
+nice	JJ
+romantic	JJ
+restaurant	NN
+that	WDT
+does	VBZ
+n't	RB
+cost	VB
+too	RB
+much	JJ
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+let	VB
+'s	PRP
+start	VB
+again	RB
+oh	UH
+i	PRP
+should	MD
+n't	RB
+do	VB
+that	DT
+.	.
+
+let	VB
+'s	PRP
+start	VB
+again	RB
+oh	UH
+i	PRP
+should	MD
+n't	RB
+do	VB
+that	DT
+.	.
+
+let	VB
+'s	PRP
+start	VB
+again	RB
+oh	UH
+i	PRP
+should	MD
+n't	RB
+do	VB
+that	DT
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+near	IN
+campus	NN
+but	CC
+not	RB
+on	IN
+durant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+near	IN
+campus	NN
+but	CC
+not	RB
+on	IN
+durant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+near	IN
+campus	NN
+but	CC
+not	RB
+on	IN
+durant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+near	IN
+campus	NN
+but	CC
+not	RB
+on	IN
+durant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+near	IN
+campus	NN
+but	CC
+not	RB
+on	IN
+durant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+near	IN
+campus	NN
+but	CC
+not	RB
+on	IN
+durant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+near	IN
+campus	NN
+but	CC
+not	RB
+on	IN
+durant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+find	VB
+a	DT
+good	JJ
+salad	NN
+.	.
+
+healthy	JJ
+lo	JJ
+-	HYPH
+cal	NN
+food	NN
+.	.
+
+healthy	JJ
+lo	JJ
+-	HYPH
+cal	NN
+food	NN
+.	.
+
+lunch	NN
+.	.
+
+find	VB
+some	DT
+uh	UH
+ca	MD
+n't	RB
+you	PRP
+find	VB
+lunch	NN
+for	IN
+me	PRP
+.	.
+
+find	VB
+some	DT
+uh	UH
+ca	MD
+n't	RB
+you	PRP
+find	VB
+lunch	NN
+for	IN
+me	PRP
+.	.
+
+find	VB
+some	DT
+uh	UH
+ca	MD
+n't	RB
+you	PRP
+find	VB
+lunch	NN
+for	IN
+me	PRP
+.	.
+
+find	VB
+some	DT
+uh	UH
+ca	MD
+n't	RB
+you	PRP
+find	VB
+lunch	NN
+for	IN
+me	PRP
+.	.
+
+find	VB
+some	DT
+uh	UH
+ca	MD
+n't	RB
+you	PRP
+find	VB
+lunch	NN
+for	IN
+me	PRP
+.	.
+
+find	VB
+some	DT
+uh	UH
+ca	MD
+n't	RB
+you	PRP
+find	VB
+lunch	NN
+for	IN
+me	PRP
+.	.
+
+find	VB
+some	DT
+uh	UH
+ca	MD
+n't	RB
+you	PRP
+find	VB
+lunch	NN
+for	IN
+me	PRP
+.	.
+
+make	VB
+it	PRP
+a	DT
+cheap	JJ
+lunch	NN
+.	.
+
+i	PRP
+changed	VBD
+my	PRP$
+mind	NN
+i	PRP
+want	VBP
+pizza	NN
+.	.
+
+i	PRP
+changed	VBD
+my	PRP$
+mind	NN
+i	PRP
+want	VBP
+pizza	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+pizza	NN
+place	NN
+on	IN
+telegraph	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+pizza	NN
+place	NN
+on	IN
+telegraph	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+pizza	NN
+place	NN
+on	IN
+telegraph	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+what	WP
+'s	VBZ
+the	DT
+best	JJS
+chinese	JJ
+restaurant	NN
+near	IN
+icksee	NN
+.	.
+
+what	WP
+'s	VBZ
+the	DT
+best	JJS
+chinese	JJ
+restaurant	NN
+near	IN
+icksee	NN
+.	.
+
+what	WP
+'s	VBZ
+the	DT
+best	JJS
+chinese	JJ
+restaurant	NN
+near	IN
+icksee	NN
+.	.
+
+what	WP
+'s	VBZ
+the	DT
+best	JJS
+chinese	JJ
+restaurant	NN
+near	IN
+icksee	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+on	IN
+tuesday	NN
+and	CC
+i	PRP
+want	VBP
+it	PRP
+to	TO
+be	VB
+inexpensive	JJ
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+on	IN
+tuesday	NN
+and	CC
+i	PRP
+want	VBP
+it	PRP
+to	TO
+be	VB
+inexpensive	JJ
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+on	IN
+tuesday	NN
+and	CC
+i	PRP
+want	VBP
+it	PRP
+to	TO
+be	VB
+inexpensive	JJ
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+on	IN
+tuesday	NN
+and	CC
+i	PRP
+want	VBP
+it	PRP
+to	TO
+be	VB
+inexpensive	JJ
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+on	IN
+tuesday	NN
+and	CC
+i	PRP
+want	VBP
+it	PRP
+to	TO
+be	VB
+inexpensive	JJ
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+get	VB
+a	DT
+chocolate	NN
+sundae	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+get	VB
+a	DT
+chocolate	NN
+sundae	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+need	VB
+to	TO
+pay	VB
+very	RB
+much	JJ
+money	NN
+make	VBP
+it	PRP
+cheap	JJ
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+need	VB
+to	TO
+pay	VB
+very	RB
+much	JJ
+money	NN
+make	VBP
+it	PRP
+cheap	JJ
+.	.
+
+where	WRB
+can	MD
+i	PRP
+go	VB
+for	IN
+dessert	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+where	WRB
+can	MD
+i	PRP
+go	VB
+for	IN
+dessert	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+some	DT
+ice	NN
+cream	NN
+or	CC
+some	DT
+pastries	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+some	DT
+ice	NN
+cream	NN
+or	CC
+some	DT
+pastries	NNS
+.	.
+
+something	NN
+fattening	NN
+.	.
+
+something	NN
+fattening	NN
+.	.
+
+something	NN
+fattening	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+california	JJ
+cuisine	NN
+but	CC
+not	RB
+near	IN
+icksee	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+california	JJ
+cuisine	NN
+but	CC
+not	RB
+near	IN
+icksee	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+california	JJ
+cuisine	NN
+but	CC
+not	RB
+near	IN
+icksee	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+california	JJ
+cuisine	NN
+but	CC
+not	RB
+near	IN
+icksee	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+california	JJ
+cuisine	NN
+but	CC
+not	RB
+near	IN
+icksee	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+california	JJ
+cuisine	NN
+but	CC
+not	RB
+near	IN
+icksee	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+california	JJ
+cuisine	NN
+but	CC
+not	RB
+near	IN
+icksee	NN
+.	.
+
+i	PRP
+have	VBP
+a	DT
+car	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+good	JJ
+japanese	NN
+places	NNS
+on	IN
+solano	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+good	JJ
+japanese	NN
+places	NNS
+on	IN
+solano	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+good	JJ
+japanese	NN
+places	NNS
+on	IN
+sol
