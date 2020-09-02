@@ -61259,4 +61259,1003 @@ good	JJ
 japanese	NN
 places	NNS
 on	IN
-sol
+solano	NN
+.	.
+
+what	WP
+about	IN
+any	DT
+night	NN
+of	IN
+the	DT
+week	NN
+.	.
+
+what	WP
+about	IN
+any	DT
+night	NN
+of	IN
+the	DT
+week	NN
+.	.
+
+what	WP
+about	IN
+any	DT
+night	NN
+of	IN
+the	DT
+week	NN
+.	.
+
+can	MD
+you	PRP
+show	VB
+me	PRP
+information	NN
+about	IN
+kirala	NN
+.	.
+
+can	MD
+you	PRP
+make	VB
+a	DT
+reservation	NN
+for	IN
+me	PRP
+.	.
+
+can	MD
+you	PRP
+make	VB
+a	DT
+reservation	NN
+for	IN
+me	PRP
+.	.
+
+where	WRB
+can	MD
+i	PRP
+get	VB
+brunch	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+where	WRB
+can	MD
+i	PRP
+get	VB
+a	DT
+good	JJ
+breakfast	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+american	JJ
+food	NN
+.	.
+
+like	UH
+to	TO
+eat	VB
+any	DT
+day	NN
+and	CC
+any	DT
+price	NN
+.	.
+
+like	UH
+to	TO
+eat	VB
+any	DT
+day	NN
+and	CC
+any	DT
+price	NN
+.	.
+
+like	UH
+to	TO
+eat	VB
+any	DT
+day	NN
+and	CC
+any	DT
+price	NN
+.	.
+
+like	UH
+to	TO
+eat	VB
+any	DT
+day	NN
+and	CC
+any	DT
+price	NN
+.	.
+
+like	UH
+to	TO
+eat	VB
+any	DT
+day	NN
+and	CC
+any	DT
+price	NN
+.	.
+
+any	DT
+price	NN
+.	.
+
+i	PRP
+'ll	MD
+spend	VB
+any	DT
+amount	NN
+of	IN
+money	NN
+.	.
+
+any	DT
+distance	NN
+is	VBZ
+fine	JJ
+.	.
+
+twenty	CD
+minutes	NNS
+.	.
+
+twenty	CD
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+american	JJ
+food	NN
+for	IN
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+american	JJ
+food	NN
+for	IN
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+american	JJ
+food	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+walk	VB
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+walk	VB
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+walk	VB
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+does	VBZ
+lococo	VB
+'s	POS
+have	VB
+seafood	NN
+on	IN
+their	PRP$
+menu	NN
+.	.
+
+does	VBZ
+lococo	VB
+'s	POS
+have	VB
+seafood	NN
+on	IN
+their	PRP$
+menu	NN
+.	.
+
+does	VBZ
+lococo	VB
+'s	POS
+have	VB
+seafood	NN
+on	IN
+their	PRP$
+menu	NN
+.	.
+
+does	VBZ
+lococo	VB
+'s	POS
+have	VB
+seafood	NN
+on	IN
+their	PRP$
+menu	NN
+.	.
+
+does	VBZ
+lococo	VB
+'s	POS
+have	VB
+seafood	NN
+on	IN
+their	PRP$
+menu	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+anything	NN
+about	IN
+the	DT
+food	NN
+at	IN
+santa	NNP
+-	HYPH
+fe	FW
+bar	NN
+and	CC
+grill	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+anything	NN
+about	IN
+the	DT
+food	NN
+at	IN
+santa	NNP
+-	HYPH
+fe	FW
+bar	NN
+and	CC
+grill	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+anything	NN
+about	IN
+the	DT
+food	NN
+at	IN
+santa	NNP
+-	HYPH
+fe	FW
+bar	NN
+and	CC
+grill	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+anything	NN
+about	IN
+the	DT
+food	NN
+at	IN
+santa	NNP
+-	HYPH
+fe	FW
+bar	NN
+and	CC
+grill	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+anything	NN
+about	IN
+the	DT
+food	NN
+at	IN
+santa	NNP
+-	HYPH
+fe	FW
+bar	NN
+and	CC
+grill	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+anything	NN
+about	IN
+the	DT
+food	NN
+at	IN
+santa	NNP
+-	HYPH
+fe	FW
+bar	NN
+and	CC
+grill	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+any	DT
+information	NN
+about	IN
+the	DT
+santa	FW
+-	HYPH
+fe	FW
+bar	NN
+and	CC
+grill	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+any	DT
+information	NN
+about	IN
+the	DT
+santa	FW
+-	HYPH
+fe	FW
+bar	NN
+and	CC
+grill	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+any	DT
+information	NN
+about	IN
+the	DT
+santa	FW
+-	HYPH
+fe	FW
+bar	NN
+and	CC
+grill	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+any	DT
+information	NN
+about	IN
+thai	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+any	DT
+information	NN
+about	IN
+thai	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+some	DT
+information	NN
+about	IN
+lunch	NN
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+some	DT
+information	NN
+about	IN
+lunch	NN
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+some	DT
+information	NN
+about	IN
+lunch	NN
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+some	DT
+information	NN
+about	IN
+lunch	NN
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+does	VBZ
+thai	DT
+barbecue	NN
+have	VB
+seafood	NN
+on	IN
+their	PRP$
+menu	NN
+.	.
+
+does	VBZ
+thai	DT
+barbecue	NN
+have	VB
+seafood	NN
+on	IN
+their	PRP$
+menu	NN
+.	.
+
+does	VBZ
+thai	DT
+barbecue	NN
+have	VB
+seafood	NN
+on	IN
+their	PRP$
+menu	NN
+.	.
+
+does	VBZ
+thai	DT
+barbecue	NN
+have	VB
+seafood	NN
+on	IN
+their	PRP$
+menu	NN
+.	.
+
+what	WP
+hours	NNS
+is	VBZ
+the	DT
+thai	JJ
+barbecue	NN
+restaurant	NN
+open	JJ
+.	.
+
+what	WP
+hours	NNS
+is	VBZ
+the	DT
+thai	JJ
+barbecue	NN
+restaurant	NN
+open	JJ
+.	.
+
+what	WP
+hours	NNS
+is	VBZ
+the	DT
+thai	JJ
+barbecue	NN
+restaurant	NN
+open	JJ
+.	.
+
+what	WP
+hours	NNS
+is	VBZ
+the	DT
+thai	JJ
+barbecue	NN
+restaurant	NN
+open	JJ
+.	.
+
+what	WP
+hours	NNS
+is	VBZ
+the	DT
+thai	JJ
+barbecue	NN
+restaurant	NN
+open	JJ
+.	.
+
+what	WP
+hours	NNS
+is	VBZ
+the	DT
+thai	JJ
+barbecue	NN
+restaurant	NN
+open	JJ
+.	.
+
+what	WP
+hours	NNS
+is	VBZ
+the	DT
+thai	JJ
+barbecue	NN
+restaurant	NN
+open	JJ
+.	.
+
+what	WP
+hours	NNS
+is	VBZ
+the	DT
+thai	JJ
+barbecue	NN
+restaurant	NN
+open	JJ
+.	.
+
+what	WP
+hours	NNS
+is	VBZ
+the	DT
+thai	JJ
+barbecue	NN
+restaurant	NN
+open	JJ
+.	.
+
+what	WP
+hours	NNS
+is	VBZ
+the	DT
+thai	JJ
+barbecue	NN
+restaurant	NN
+open	JJ
+.	.
+
+i	PRP
+would	MD
+like	VB
+more	JJR
+information	NN
+on	IN
+italian	JJ
+restaurants	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+more	JJR
+information	NN
+on	IN
+italian	JJ
+restaurants	NNS
+.	.
+
+could	MD
+you	PRP
+give	VB
+me	PRP
+the	DT
+hours	NNS
+that	WDT
+caffe	VBP
+giovanni	NN
+is	VBZ
+open	JJ
+.	.
+
+could	MD
+you	PRP
+give	VB
+me	PRP
+the	DT
+hours	NNS
+that	WDT
+caffe	VBP
+giovanni	NN
+is	VBZ
+open	JJ
+.	.
+
+could	MD
+you	PRP
+give	VB
+me	PRP
+the	DT
+hours	NNS
+that	WDT
+caffe	VBP
+giovanni	NN
+is	VBZ
+open	JJ
+.	.
+
+could	MD
+you	PRP
+give	VB
+me	PRP
+the	DT
+hours	NNS
+that	WDT
+caffe	VBP
+giovanni	NN
+is	VBZ
+open	JJ
+.	.
+
+are	VBP
+there	EX
+any	DT
+greek	NN
+restaurants	NNS
+in	IN
+the	DT
+neighborhood	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+greek	NN
+restaurants	NNS
+in	IN
+the	DT
+neighborhood	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+greek	NN
+restaurants	NNS
+in	IN
+the	DT
+neighborhood	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+greek	NN
+restaurants	NNS
+in	IN
+the	DT
+neighborhood	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+greek	NN
+food	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+greek	NN
+food	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+greek	NN
+food	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+a	DT
+restaurant	NN
+that	WDT
+offers	VBZ
+california	JJ
+cuisine	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+a	DT
+restaurant	NN
+that	WDT
+offers	VBZ
+california	JJ
+cuisine	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+information	NN
+on	IN
+mykonos	NNS
+.	.
+
+do	VBP
+you	PRP
+have	VB
+information	NN
+on	IN
+mykonos	NNS
+.	.
+
+can	MD
+you	PRP
+recommend	VB
+a	DT
+chinese	JJ
+restaurant	NN
+.	.
+
+do	VBP
+you	PRP
+need	VB
+reservations	NNS
+at	IN
+the	DT
+great	JJ
+china	NN
+for	IN
+dinner	NN
+.	.
+
+do	VBP
+you	PRP
+need	VB
+reservations	NNS
+at	IN
+the	DT
+great	JJ
+china	NN
+for	IN
+dinner	NN
+.	.
+
+do	VBP
+you	PRP
+need	VB
+reservations	NNS
+at	IN
+the	DT
+great	JJ
+china	NN
+for	IN
+dinner	NN
+.	.
+
+where	WRB
+could	MD
+i	PRP
+go	VB
+to	TO
+get	VB
+a	DT
+cheeseburger	NN
+.	.
+
+where	WRB
+could	MD
+i	PRP
+go	VB
+to	TO
+get	VB
+a	DT
+cheeseburger	NN
+.	.
+
+where	WRB
+could	MD
+i	PRP
+go	VB
+to	TO
+get	VB
+a	DT
+cheeseburger	NN
+.	.
+
+where	WRB
+could	MD
+i	PRP
+get	VB
+a	DT
+hamburger	NN
+.	.
+
+can	MD
+you	PRP
+show	VB
+me	PRP
+a	DT
+menu	NN
+for	IN
+edy's	NNS
+.	.
+
+where	WRB
+can	MD
+i	PRP
+get	VB
+sushi	VBN
+for	IN
+lunch	NN
+.	.
+
+where	WRB
+can	MD
+i	PRP
+get	VB
+sushi	VBN
+for	IN
+lunch	NN
+.	.
+
+where	WRB
+can	MD
+i	PRP
+get	VB
+sushi	VBN
+for	IN
+lunch	NN
+.	.
+
+where	WRB
+can	MD
+i	PRP
+get	VB
+sushi	VBN
+for	IN
+lunch	NN
+.	.
+
+is	VBZ
+there	EX
+a	DT
+place	NN
+to	TO
+get	VB
+sushi	JJ
+.	.
+
+is	VBZ
+there	EX
+a	DT
+place	NN
+to	TO
+get	VB
+sushi	JJ
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+monday	NNP
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+monday	NNP
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+lunch	NN
+.	.
+
+i	PRP
+would	MD
+eat	VB
+anywhere	RB
+in	IN
+berkeley	NN
+.	.
+
+i	PRP
+would	MD
+eat	VB
+anywhere	RB
+in	IN
+berkeley	NN
+.
