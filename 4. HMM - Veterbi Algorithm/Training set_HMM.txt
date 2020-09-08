@@ -74316,4 +74316,1048 @@ eat	VBP
 breakfast	NN
 at	IN
 panini	NN
-.
+.	.
+
+can	MD
+i	PRP
+also	RB
+eat	VBP
+breakfast	NN
+at	IN
+panini	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+again	RB
+.	.
+
+do	VBP
+you	PRP
+know	VB
+a	DT
+japanese	JJ
+restaurant	NN
+.	.
+
+japanese	JJ
+food	NN
+.	.
+
+at	IN
+tuesday	NN
+.	.
+
+ten	CD
+dollar	NN
+please	UH
+.	.
+
+ten	CD
+dollar	NN
+please	UH
+.	.
+
+ten	CD
+dollar	NN
+please	UH
+.	.
+
+let	VB
+'s	PRP
+start	VB
+again	RB
+.	.
+
+let	VB
+'s	PRP
+start	VB
+again	RB
+.	.
+
+do	VBP
+you	PRP
+know	VB
+a	DT
+korean	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+place	NN
+with	IN
+italian	JJ
+food	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+place	NN
+with	IN
+italian	JJ
+food	NN
+.	.
+
+oh	UH
+what	WP
+day	NN
+what	WP
+is	VBZ
+the	DT
+question	NN
+.	.
+
+oh	UH
+what	WP
+day	NN
+what	WP
+is	VBZ
+the	DT
+question	NN
+.	.
+
+oh	UH
+what	WP
+day	NN
+what	WP
+is	VBZ
+the	DT
+question	NN
+.	.
+
+oh	UH
+what	WP
+day	NN
+what	WP
+is	VBZ
+the	DT
+question	NN
+.	.
+
+oh	UH
+what	WP
+day	NN
+what	WP
+is	VBZ
+the	DT
+question	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+a	DT
+tuesday	NN
+night	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+a	DT
+tuesday	NN
+night	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+a	DT
+tuesday	NN
+night	NN
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+how	WRB
+much	JJ
+money	NN
+i	PRP
+spend	VBP
+.	.
+
+the	DT
+money	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+an	DT
+italian	JJ
+restaurant	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+venezia	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+more	JJR
+information	NN
+about	IN
+venezia	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+more	JJR
+information	NN
+about	IN
+venezia	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+hear	VB
+more	JJR
+about	IN
+venezia	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+hear	VB
+more	JJR
+about	IN
+venezia	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+hear	VB
+more	JJR
+about	IN
+venezia	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+hear	VB
+more	JJR
+about	IN
+venezia	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+caffe	NN
+giovanni	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+caffe	NN
+giovanni	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+restaurant	NN
+for	IN
+this	DT
+sunday	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+restaurant	NN
+for	IN
+this	DT
+sunday	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+restaurant	NN
+for	IN
+this	DT
+sunday	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+restaurant	NN
+for	IN
+this	DT
+sunday	NN
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+really	RB
+matter	VB
+.	.
+
+any	DT
+kind	NN
+of	IN
+food	NN
+is	VBZ
+okay	JJ
+with	IN
+me	PRP
+.	.
+
+any	DT
+kind	NN
+of	IN
+food	NN
+is	VBZ
+okay	JJ
+with	IN
+me	PRP
+.	.
+
+any	DT
+kind	NN
+of	IN
+food	NN
+is	VBZ
+okay	JJ
+with	IN
+me	PRP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+at	IN
+lunchtime	NN
+.	.
+
+spend	VB
+about	IN
+thirty	CD
+bucks	NNS
+.	.
+
+spend	VB
+about	IN
+thirty	CD
+bucks	NNS
+.	.
+
+spend	VB
+about	IN
+thirty	CD
+bucks	NNS
+.	.
+
+i	PRP
+can	MD
+drive	VB
+.	.
+
+i	PRP
+can	MD
+go	VB
+a	DT
+mile	NN
+.	.
+
+i	PRP
+can	MD
+go	VB
+a	DT
+mile	NN
+.	.
+
+i	PRP
+can	MD
+go	VB
+a	DT
+mile	NN
+.	.
+
+i	PRP
+can	MD
+go	VB
+a	DT
+mile	NN
+.	.
+
+i	PRP
+will	MD
+walk	VB
+less	JJR
+than	IN
+a	DT
+mile	NN
+.	.
+
+i	PRP
+will	MD
+walk	VB
+less	JJR
+than	IN
+a	DT
+mile	NN
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+augusta's	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+augusta's	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+augusta's	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+augusta's	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+augusta's	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+augusta's	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+augusta's	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+augusta's	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+augusta's	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+lilly's	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+tell	VB
+me	PRP
+about	IN
+lilly's	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+tell	VB
+me	PRP
+about	IN
+lilly's	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+tell	VB
+me	PRP
+about	IN
+lilly's	NNS
+.	.
+
+what	WP
+about	IN
+restaurants	NNS
+that	WDT
+are	VBP
+not	RB
+chinese	JJ
+.	.
+
+what	WP
+about	IN
+restaurants	NNS
+that	WDT
+are	VBP
+not	RB
+chinese	JJ
+.	.
+
+tell	VB
+me	PRP
+about	IN
+about	IN
+uh	UH
+cafe	NN
+fanny	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+about	IN
+uh	UH
+cafe	NN
+fanny	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+about	IN
+uh	UH
+cafe	NN
+fanny	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+about	IN
+uh	UH
+cafe	NN
+fanny	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+about	IN
+uh	UH
+cafe	NN
+fanny	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+out	RP
+to	IN
+dinner	NN
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+out	RP
+to	IN
+dinner	NN
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+out	RP
+to	IN
+dinner	NN
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+out	RP
+to	IN
+dinner	NN
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+out	RP
+to	IN
+dinner	NN
+on	IN
+saturday	NN
+night	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+any	DT
+restaurants	NNS
+with	IN
+jamaican	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+any	DT
+restaurants	NNS
+with	IN
+jamaican	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+any	DT
+restaurants	NNS
+with	IN
+jamaican	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+any	DT
+restaurants	NNS
+with	IN
+jamaican	JJ
+food	NN
+.	.
+
+what	WP
+about	IN
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+.	.
+
+what	WP
+about	IN
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+.	.
+
+what	WP
+about	IN
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+restaurant	NN
+with	IN
+caribbean	JJ
+food	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+restaurant	NN
+with	IN
+caribbean	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+oh	UH
+.	.
+
+do	VBP
+you	PRP
+know	VB
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+oh	UH
+.	.
+
+do	VBP
+you	PRP
+know	VB
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+oh	UH
+.	.
+
+do	VBP
+you	PRP
+know	VB
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+oh	UH
+.	.
+
+do	VBP
+you	PRP
+know	VB
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+oh	UH
+.	.
+
+do	VBP
+you	PRP
+know	VB
+restaurants	NNS
+with	IN
+caribbean	JJ
+food	NN
+oh	UH
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+want	VBP
+to
