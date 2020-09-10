@@ -77220,4 +77220,1018 @@ china	NN
 .	.
 
 tell	VB
-me
+me	PRP
+all	DT
+you	PRP
+know	VBP
+about	IN
+great	JJ
+china	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	IN
+i	PRP
+want	VBP
+a	DT
+burger	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	IN
+i	PRP
+want	VBP
+a	DT
+burger	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	IN
+i	PRP
+want	VBP
+a	DT
+burger	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	IN
+i	PRP
+want	VBP
+a	DT
+burger	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+this	DT
+edy	NN
+'s	POS
+place	NN
+.	.
+
+perhaps	RB
+it	PRP
+'s	VBZ
+called	VBN
+edy's	NNS
+.	.
+
+to	TO
+eat	VB
+a	DT
+burger	NN
+at	IN
+edy's	NNS
+.	.
+
+to	TO
+eat	VB
+a	DT
+burger	NN
+at	IN
+edy's	NNS
+.	.
+
+what	WP
+types	NNS
+of	IN
+food	NN
+are	VBP
+available	JJ
+.	.
+
+what	WP
+types	NNS
+of	IN
+food	NN
+are	VBP
+available	JJ
+.	.
+
+give	VB
+me	PRP
+more	JJR
+information	NN
+about	IN
+this	DT
+i	PRP
+believe	VBP
+it	PRP
+'s	VBZ
+the	DT
+nakapan	NN
+.	.
+
+give	VB
+me	PRP
+more	JJR
+information	NN
+about	IN
+this	DT
+i	PRP
+believe	VBP
+it	PRP
+'s	VBZ
+the	DT
+nakapan	NN
+.	.
+
+give	VB
+me	PRP
+more	JJR
+information	NN
+about	IN
+this	DT
+i	PRP
+believe	VBP
+it	PRP
+'s	VBZ
+the	DT
+nakapan	NN
+.	.
+
+give	VB
+me	PRP
+more	JJR
+information	NN
+about	IN
+this	DT
+i	PRP
+believe	VBP
+it	PRP
+'s	VBZ
+the	DT
+nakapan	NN
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+any	DT
+distance	NN
+.	.
+
+anywhere	RB
+is	VBZ
+i	PRP
+do	VBP
+n't	RB
+care	VB
+where	WRB
+.	.
+
+anywhere	RB
+is	VBZ
+i	PRP
+do	VBP
+n't	RB
+care	VB
+where	WRB
+.	.
+
+elmwood	VBD
+pharmacy	NN
+what	WDT
+kind	NN
+of	IN
+place	NN
+is	VBZ
+that	DT
+.	.
+
+elmwood	VBD
+pharmacy	NN
+what	WDT
+kind	NN
+of	IN
+place	NN
+is	VBZ
+that	DT
+.	.
+
+elmwood	VBD
+pharmacy	NN
+what	WDT
+kind	NN
+of	IN
+place	NN
+is	VBZ
+that	DT
+.	.
+
+elmwood	VBD
+pharmacy	NN
+what	WDT
+kind	NN
+of	IN
+place	NN
+is	VBZ
+that	DT
+.	.
+
+elmwood	VBD
+pharmacy	NN
+what	WDT
+kind	NN
+of	IN
+place	NN
+is	VBZ
+that	DT
+.	.
+
+elmwood	VBD
+pharmacy	NN
+what	WDT
+kind	NN
+of	IN
+place	NN
+is	VBZ
+that	DT
+.	.
+
+elmwood	VBD
+pharmacy	NN
+what	WDT
+kind	NN
+of	IN
+place	NN
+is	VBZ
+that	DT
+.	.
+
+elmwood	VBD
+pharmacy	NN
+what	WDT
+kind	NN
+of	IN
+place	NN
+is	VBZ
+that	DT
+.	.
+
+show	VB
+me	PRP
+a	DT
+kosher	JJ
+deli	NN
+.	.
+
+show	VB
+me	PRP
+a	DT
+kosher	JJ
+deli	NN
+.	.
+
+show	VB
+me	PRP
+a	DT
+greek	NN
+restaurant	NN
+.	.
+
+show	VB
+me	PRP
+a	DT
+greek	NN
+restaurant	NN
+.	.
+
+what	WP
+'s	VBZ
+the	DT
+gross	JJ
+national	JJ
+product	NN
+and	CC
+chief	JJ
+exports	NNS
+of	IN
+south	JJ
+africa	NN
+.	.
+
+what	WP
+'s	VBZ
+the	DT
+gross	JJ
+national	JJ
+product	NN
+and	CC
+chief	JJ
+exports	NNS
+of	IN
+south	JJ
+africa	NN
+.	.
+
+what	WP
+'s	VBZ
+the	DT
+gross	JJ
+national	JJ
+product	NN
+and	CC
+chief	JJ
+exports	NNS
+of	IN
+south	JJ
+africa	NN
+.	.
+
+what	WP
+'s	VBZ
+the	DT
+gross	JJ
+national	JJ
+product	NN
+and	CC
+chief	JJ
+exports	NNS
+of	IN
+south	JJ
+africa	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+thai	DT
+food	NN
+.	.
+
+on	IN
+friday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+dinner	NN
+.	.
+
+um	UH
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+about	RB
+uh	UH
+ten	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+about	RB
+uh	UH
+ten	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+about	RB
+uh	UH
+ten	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+about	RB
+uh	UH
+ten	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+about	RB
+uh	UH
+ten	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+travel	VB
+about	IN
+five	CD
+miles	NNS
+.	.
+
+um	UH
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+travel	VB
+about	IN
+five	CD
+miles	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+have	VBP
+cambodian	VBN
+food	NN
+.	.
+
+have	VBP
+cambodian	VBN
+food	NN
+.	.
+
+i	PRP
+wanted	VBD
+to	TO
+eat	VB
+cambodian	NN
+food	NN
+.	.
+
+i	PRP
+wanted	VBD
+to	TO
+eat	VB
+cambodian	NN
+food	NN
+.	.
+
+i	PRP
+wanted	VBD
+to	TO
+eat	VB
+cambodian	NN
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+about	IN
+fifteen	CD
+dollars	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+about	IN
+fifteen	CD
+dollars	NNS
+.	.
+
+what	WP
+hours	NNS
+is	VBZ
+cambodiana	NN
+'s	POS
+.	.
+
+what	WP
+hours	NNS
+is	VBZ
+cambodiana	NN
+'s	POS
+.	.
+
+what	WP
+are	VBP
+the	DT
+business	NN
+hours	NNS
+of	IN
+cambodiana's	NNS
+.	.
+
+what	WP
+are	VBP
+the	DT
+business	NN
+hours	NNS
+of	IN
+cambodiana's	NNS
+.	.
+
+where	WRB
+is	VBZ
+sweet	JJ
+basil	NN
+.	.
+
+where	WRB
+is	VBZ
+sweet	JJ
+basil	NN
+.	.
+
+where	WRB
+is	VBZ
+sweet	JJ
+basil	NN
+.	.
+
+where	WRB
+is	VBZ
+sweet	JJ
+basil	NN
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+sweet	JJ
+basil	NN
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+sweet	JJ
+basil	NN
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+sweet	JJ
+basil	NN
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+sweet	JJ
+basil	NN
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+sweet	JJ
+basil	NN
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+sweet	JJ
+basil	NN
+located	VBN
+.	.
+
+what	WP
+is	VBZ
+the	DT
+address	NN
+of	IN
+cha	NN
+-	HYPH
+am	NN
+.	.
+
+what	WP
+is	VBZ
+the	DT
+address	NN
+of	IN
+cha	NN
+-	HYPH
+am	NN
+.	.
+
+what	WP
+is	VBZ
+the	DT
+address	NN
+of	IN
+cha	NN
+-	HYPH
+am	NN
+.	.
+
+how	WRB
+much	JJ
+does	VBZ
+dinner	NN
+cost	VB
+at	IN
+bucci's	NNS
+.	.
+
+how	WRB
+much	JJ
+does	VBZ
+dinner	NN
+cost	VB
+at	IN
+bucci's	NNS
+.	.
+
+how	WRB
+much	JJ
+does	VBZ
+dinner	NN
+cost	VB
+at	IN
+bucci's	NNS
+.	.
+
+how	WRB
+much	JJ
+does	VBZ
+dinner	NN
+cost	VB
+at	IN
+bucci's	NNS
+.	.
+
+how	WRB
+much	RB
+would	MD
+i	PRP
+pay	VB
+for	IN
+dinner	NN
+at	IN
+bucci's	NNS
+.	.
+
+how	WRB
+much	RB
+would	MD
+i	PRP
+pay	VB
+for	IN
+dinner	NN
+at	IN
+bucci's	NNS
+.	.
+
+how	WRB
+much	RB
+would	MD
+i	PRP
+pay	VB
+for	IN
+dinner	NN
+at	IN
+bucci's	NNS
+.	.
+
+does	VBZ
+dinner	NN
+at	IN
+cafe	NN
+vin	NN
+cost	NN
+.	.
+
+does	VBZ
+dinner	NN
+at	IN
+cafe	NN
+vin	NN
+cost	NN
+.	.
+
+does	VBZ
+dinner	NN
+at	IN
+cafe	NN
+vin	NN
+cost	NN
+.	.
+
+does	VBZ
+dinner	NN
+at	IN
+cafe	NN
+vin	NN
+cost	NN
+.	.
+
+does	VBZ
+dinner	NN
+at	IN
+cafe	NN
+vin	NN
+cost	NN
+.	.
+
+does	VBZ
+dinner	NN
+at	IN
+cafe	NN
+vin	NN
+cost	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+information	NN
+on	IN
+chez	NN
+-	HYPH
+panisse	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+information	NN
+on	IN
+chez	NN
+-	HYPH
+panisse	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+all	PDT
+the	DT
+mediterranean	JJ
+restaurants	NNS
+in	IN
+the	DT
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+mediterranean	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+mediterranean	JJ
+food	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+mediterranean	JJ
+food	NN
+.	.
+
+oh	UH
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+there	RB
+on	IN
+wednesday	NNP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+uh	UH
+no	DT
+more	JJR
+than	IN
+twenty	CD
+dollars	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+uh	UH
+no	DT
+more	JJR
+than	IN
+twenty	CD
+dollars	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+uh	UH
+no	DT
+more	JJR
+than	IN
+twenty	CD
+dollars	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+uh	UH
+no	DT
+more	JJR
+than	IN
+twenty	CD
+dollars	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+uh	UH
+no	DT
+more	JJR
+than	IN
+twenty	CD
+dollars	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+travel	VB
+more	JJR
+than	IN
+a	DT
+half	JJ
+hour	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+travel	VB
+more	JJR
+than	IN
+a	DT
+half	JJ
+hour	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+travel	VB
+more	JJR
+than	IN
+a	DT
+half	JJ
+hour	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+travel	VB
+more	JJR
+than	IN
+a	DT
+half	JJ
+hour	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+travel	VB
+more	JJR
+than	IN
+a	DT
+half	JJ
+hour	NN
+.	.
+
+uh	UH
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+travel	VB
+about	IN
+an	DT
+hour	NN
+from	IN
+icsi	NN
+.	.
+
+uh	UH
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+travel	VB
+about	IN
+an	DT
+hour	NN
+from	IN
+icsi	NN
+.	.
+
+uh	UH
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+travel	VB
+about	IN
+an	DT
+hour	NN
+from	IN
+icsi	NN
+.	.
+
+uh	UH
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+travel	VB
+about	IN
+an	DT
+hour	NN
+from	IN
+icsi	NN
+.	.
+
+let	VB
+'s	PRP
+start	V
