@@ -85375,3 +85375,948 @@ could	MD
 you	PRP
 tell	VB
 me	PRP
+when	WRB
+cha	NN
+-	HYPH
+am	NN
+is	VBZ
+open	JJ
+at	IN
+cedar	NN
+and	CC
+shattuck	NN
+.	.
+
+could	MD
+you	PRP
+tell	VB
+me	PRP
+when	WRB
+cha	NN
+-	HYPH
+am	NN
+is	VBZ
+open	JJ
+at	IN
+cedar	NN
+and	CC
+shattuck	NN
+.	.
+
+could	MD
+you	PRP
+tell	VB
+me	PRP
+when	WRB
+cha	NN
+-	HYPH
+am	NN
+is	VBZ
+open	JJ
+at	IN
+cedar	NN
+and	CC
+shattuck	NN
+.	.
+
+could	MD
+you	PRP
+tell	VB
+me	PRP
+when	WRB
+cha	NN
+-	HYPH
+am	NN
+is	VBZ
+open	JJ
+at	IN
+cedar	NN
+and	CC
+shattuck	NN
+.	.
+
+could	MD
+you	PRP
+tell	VB
+me	PRP
+when	WRB
+cha	NN
+-	HYPH
+am	NN
+is	VBZ
+open	JJ
+at	IN
+cedar	NN
+and	CC
+shattuck	NN
+.	.
+
+how	WRB
+much	JJ
+does	VBZ
+dinner	NN
+cost	VB
+at	IN
+cha	NN
+-	HYPH
+am	NN
+.	.
+
+how	WRB
+much	JJ
+does	VBZ
+dinner	NN
+cost	VB
+at	IN
+cha	NN
+-	HYPH
+am	NN
+.	.
+
+how	WRB
+much	JJ
+does	VBZ
+dinner	NN
+cost	VB
+at	IN
+cha	NN
+-	HYPH
+am	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+restaurants	NNS
+that	WDT
+have	VBP
+lasagna	NNS
+.	.
+
+what	WP
+does	VBZ
+cafe	NN
+milano	NN
+serve	VB
+as	IN
+food	NN
+.	.
+
+what	WP
+does	VBZ
+cafe	NN
+milano	NN
+serve	VB
+as	IN
+food	NN
+.	.
+
+what	WP
+does	VBZ
+cafe	NN
+milano	NN
+serve	VB
+as	IN
+food	NN
+.	.
+
+what	WP
+does	VBZ
+cafe	NN
+milano	NN
+serve	VB
+as	IN
+food	NN
+.	.
+
+what	WP
+does	VBZ
+cafe	NN
+milano	NN
+serve	VB
+as	IN
+food	NN
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+cafe	NN
+mediterraneum	NN
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+cafe	NN
+mediterraneum	NN
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+cafe	NN
+mediterraneum	NN
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+cafe	NN
+mediterraneum	NN
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+cafe	NN
+med	JJ
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+cafe	NN
+med	JJ
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+cafe	NN
+med	JJ
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+cafe	NN
+med	JJ
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+cafe	NN
+med	JJ
+.	.
+
+where	WRB
+is	VBZ
+chez	NNP
+-	HYPH
+panisse	NNP
+ah	UH
+.	.
+
+where	WRB
+is	VBZ
+chez	NNP
+-	HYPH
+panisse	NNP
+ah	UH
+.	.
+
+when	WRB
+is	VBZ
+la	FW
+-	HYPH
+val	FW
+'s	POS
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+la	FW
+-	HYPH
+val	FW
+'s	POS
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+la	FW
+-	HYPH
+val	FW
+'s	POS
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+la	FW
+-	HYPH
+val	FW
+'s	POS
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+la	FW
+-	HYPH
+val	FW
+'s	POS
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+la	FW
+-	HYPH
+val	FW
+'s	POS
+open	JJ
+.	.
+
+where	WRB
+is	VBZ
+caffe	JJ
+nefeli	NN
+.	.
+
+where	WRB
+is	VBZ
+caffe	JJ
+nefeli	NN
+.	.
+
+where	WRB
+is	VBZ
+caffe	JJ
+nefeli	NN
+.	.
+
+where	WRB
+is	VBZ
+caffe	JJ
+nefeli	NN
+.	.
+
+where	WRB
+is	VBZ
+caffe	JJ
+nefeli	NN
+.	.
+
+is	VBZ
+caffe	JJ
+nefeli	NNS
+hard	JJ
+to	TO
+understand	VB
+.	.
+
+is	VBZ
+caffe	JJ
+nefeli	NNS
+hard	JJ
+to	TO
+understand	VB
+.	.
+
+is	VBZ
+caffe	JJ
+nefeli	NNS
+hard	JJ
+to	TO
+understand	VB
+.	.
+
+is	VBZ
+caffe	JJ
+nefeli	NNS
+hard	JJ
+to	TO
+understand	VB
+.	.
+
+where	WRB
+is	VBZ
+caffe	FW
+nefeli	FW
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+caffe	FW
+nefeli	FW
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+caffe	FW
+nefeli	FW
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+caffe	FW
+nefeli	FW
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+caffe	FW
+nefeli	FW
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+caffe	FW
+nefeli	FW
+located	VBN
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+open	JJ
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+i	PRP
+-	HYPH
+house	NN
+cafe	NN
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+i	PRP
+-	HYPH
+house	NN
+cafe	NN
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+i	PRP
+-	HYPH
+house	NN
+cafe	NN
+located	VBN
+.	.
+
+where	WRB
+is	VBZ
+the	DT
+i	PRP
+-	HYPH
+house	NN
+cafe	NN
+located	VBN
+.	.
+
+how	WRB
+far	RB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+from	IN
+the	DT
+international	JJ
+computer	NN
+science	NN
+institute	NN
+.	.
+
+how	WRB
+far	RB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+from	IN
+the	DT
+international	JJ
+computer	NN
+science	NN
+institute	NN
+.	.
+
+how	WRB
+far	RB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+from	IN
+the	DT
+international	JJ
+computer	NN
+science	NN
+institute	NN
+.	.
+
+how	WRB
+far	RB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+from	IN
+the	DT
+international	JJ
+computer	NN
+science	NN
+institute	NN
+.	.
+
+how	WRB
+far	RB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+from	IN
+the	DT
+international	JJ
+computer	NN
+science	NN
+institute	NN
+.	.
+
+how	WRB
+far	RB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+from	IN
+the	DT
+international	JJ
+computer	NN
+science	NN
+institute	NN
+.	.
+
+how	WRB
+far	RB
+is	VBZ
+the	DT
+international	JJ
+house	NN
+cafe	NN
+from	IN
+the	DT
+international	JJ
+computer	NN
+science	NN
+institute	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+any	DT
+restaurants	NNS
+to	TO
+recommend	VB
+.	.
+
+do	VBP
+you	PRP
+have	VB
+any	DT
+restaurants	NNS
+to	TO
+recommend	VB
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+yangtze	NN
+river	NN
+restaurant	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+yangtze	NN
+river	NN
+restaurant	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+yangtze	NN
+river	NN
+restaurant	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+yangtze	NN
+river	NN
+restaurant	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+yangtze	NN
+river	NN
+restaurant	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+yangtze	NN
+river	NN
+restaurant	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+the	DT
+yangtze	NN
+river	NN
+restaurant	NN
+open	JJ
+.	.
+
+i	PRP
+would	MD
+walk	VB
+three	CD
+miles	NNS
+for	IN
+thai	DT
+food	NN
+.	.
+
+i	PRP
+would	MD
+walk	VB
+three	CD
+miles	NNS
+for	IN
+thai	DT
+food	NN
+.	.
+
+i	PRP
+would	MD
+walk	VB
+three	CD
+miles	NNS
+for	IN
+thai	DT
+food	NN
+.	.
+
+could	MD
+you	PRP
+give	VB
+me	PRP
+a	DT
+list	NN
+of	IN
+thai	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+could	MD
+you	PRP
+give	VB
+me	PRP
+a	DT
+list	NN
+of	IN
+thai	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+could	MD
+you	PRP
+give	VB
+me	PRP
+a	DT
+list	NN
+of	IN
+thai	JJ
+restaurants	NNS
+in	IN
+berkeley	NN
+.	.
+
+which	WDT
+thai	DT
+restaurants	NNS
+serve	VBP
+lunch	NN
+in	IN
+berkeley	NN
+.	.
+
+which	WDT
+thai	DT
+restaurants	NNS
+serve	VBP
+lunch	NN
+in	IN
+berkeley	NN
+.	.
+
+which	WDT
+thai	DT
+restaurants	NNS
+serve	VBP
+lunch	NN
+in	IN
+berkeley	NN
+.	.
+
+which	WDT
+thai	DT
+restaurants	NNS
+serve	VBP
+lunch	NN
+in	IN
+berkeley	NN
+.	.
+
+i	PRP
+would	MD
+pay	VB
+fifty	CD
+dollars	NNS
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+pay	VB
+fifty	CD
+dollars	NNS
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+pay	VB
+fifty	CD
+dollars	NNS
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+pay	VB
+fifty	CD
+dollars	NNS
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+pay	VB
+fifty	CD
+dollars	NNS
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+pay	VB
+fifty	CD
+dollars	NNS
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+pay	VB
+fifty	CD
+dollars	NNS
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+pay	VB
+fifty	CD
+dollars	NNS
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+pay	VB
+fifty	CD
+dollars	NNS
+at	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+when	WRB
+is	VBZ
+berkeley	JJ
+thai	FW
+house	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+berkeley	JJ
+thai	FW
+house	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+berkeley	JJ
+thai	FW
+house	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+berkeley	JJ
+thai	FW
+house	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+berkeley	JJ
+thai	FW
+house	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+berkeley	JJ
+thai	FW
+house	NN
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+berkeley	JJ
+thai	FW
