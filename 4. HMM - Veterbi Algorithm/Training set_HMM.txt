@@ -88281,4 +88281,1058 @@ more	JJR
 than	IN
 five	CD
 miles	NNS
-.
+.	.
+
+no	DT
+more	JJR
+than	IN
+five	CD
+miles	NNS
+.	.
+
+no	DT
+more	JJR
+than	IN
+five	CD
+miles	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+barbecue	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+saturday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+saturday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+dinner	NN
+.	.
+
+i	PRP
+'d	MD
+spend	VB
+twenty	CD
+dollars	NNS
+.	.
+
+i	PRP
+'d	MD
+travel	VB
+within	IN
+walking	VBG
+distance	NN
+.	.
+
+i	PRP
+'d	MD
+travel	VB
+within	IN
+walking	VBG
+distance	NN
+.	.
+
+i	PRP
+'d	MD
+travel	VB
+within	IN
+walking	VBG
+distance	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+junk	NN
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+junk	NN
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+at	IN
+a	DT
+greasy	JJ
+spoon	NN
+diner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+at	IN
+a	DT
+greasy	JJ
+spoon	NN
+diner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+at	IN
+a	DT
+greasy	JJ
+spoon	NN
+diner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+at	IN
+a	DT
+greasy	JJ
+spoon	NN
+diner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+at	IN
+a	DT
+greasy	JJ
+spoon	NN
+diner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+at	IN
+a	DT
+greasy	JJ
+spoon	NN
+diner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+at	IN
+a	DT
+greasy	JJ
+spoon	NN
+diner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+at	IN
+a	DT
+greasy	JJ
+spoon	NN
+diner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+greasy	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+greasy	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+indian	JJ
+food	NN
+.	.
+
+on	IN
+christmas	NNS
+.	.
+
+on	IN
+thanksgiving	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+on	IN
+easter	JJ
+day	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+on	IN
+easter	JJ
+day	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+on	IN
+easter	JJ
+day	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+indian	JJ
+food	NN
+.	.
+
+fifty	CD
+dollars	NNS
+total	JJ
+.	.
+
+fifty	CD
+dollars	NNS
+total	JJ
+.	.
+
+fifty	CD
+dollars	NNS
+total	JJ
+.	.
+
+fifty	CD
+dollars	NNS
+total	JJ
+.	.
+
+twenty	CD
+five	CD
+dollars	NNS
+total	JJ
+.	.
+
+twenty	CD
+five	CD
+dollars	NNS
+total	JJ
+.	.
+
+twenty	CD
+five	CD
+dollars	NNS
+total	JJ
+.	.
+
+i	PRP
+'d	MD
+spend	VB
+twenty	CD
+five	CD
+dollars	NNS
+dollars	NNS
+total	JJ
+.	.
+
+i	PRP
+'d	MD
+spend	VB
+twenty	CD
+five	CD
+dollars	NNS
+dollars	NNS
+total	JJ
+.	.
+
+i	PRP
+'d	MD
+spend	VB
+twenty	CD
+five	CD
+dollars	NNS
+dollars	NNS
+total	JJ
+.	.
+
+i	PRP
+'d	MD
+spend	VB
+twenty	CD
+five	CD
+dollars	NNS
+dollars	NNS
+total	JJ
+.	.
+
+i	PRP
+'d	MD
+spend	VB
+twenty	CD
+five	CD
+dollars	NNS
+dollars	NNS
+total	JJ
+.	.
+
+i	PRP
+'d	MD
+spend	VB
+twenty	CD
+five	CD
+dollars	NNS
+dollars	NNS
+total	JJ
+.	.
+
+i	PRP
+'d	MD
+spend	VB
+twenty	CD
+dollars	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+thai	DT
+food	NN
+not	RB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+thai	DT
+food	NN
+not	RB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+thai	DT
+food	NN
+not	RB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+thai	DT
+food	NN
+not	RB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+thai	DT
+food	NN
+not	RB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+thai	DT
+food	NN
+not	RB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+thai	DT
+food	NN
+not	RB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+thai	DT
+food	NN
+not	RB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+go	VB
+far	RB
+.	.
+
+not	RB
+far	RB
+.	.
+
+not	RB
+far	RB
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+'	POS
+walking	VBG
+distance	NN
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+'	POS
+walking	VBG
+distance	NN
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+'	POS
+walking	VBG
+distance	NN
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+'	POS
+walking	VBG
+distance	NN
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+'	POS
+walking	VBG
+distance	NN
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+'	POS
+walking	VBG
+distance	NN
+.	.
+
+give	VB
+me	PRP
+information	NN
+on	IN
+shilpa	NN
+.	.
+
+south	JJ
+american	NN
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+lunch	NN
+.	.
+
+about	RB
+five	CD
+dollars	NNS
+.	.
+
+about	RB
+five	CD
+dollars	NNS
+.	.
+
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+meal	NN
+ticket	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+meal	NN
+ticket	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+peruvian	JJ
+restaurants	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+on	IN
+the	DT
+weekend	NN
+.	.
+
+on	IN
+saturday	NN
+or	CC
+sunday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+lunch	NN
+.	.
+
+under	IN
+ten	CD
+dollars	NNS
+.	.
+
+under	IN
+ten	CD
+dollars	NNS
+.	.
+
+three	CD
+blocks	NNS
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+russian	JJ
+food	NN
+.	.
+
+russian	JJ
+food	NN
+.	.
+
+russian	JJ
+food	NN
+.	.
+
+on	IN
+monday	NNP
+.	.
+
+twenty	CD
+five	CD
+dollars	NNS
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+care	VB
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+it	PRP
+does	VBZ
+not	RB
+matter	VB
+to	IN
+me	PRP
+.	.
+
+anywhere	RB
+is	VBZ
+okay	JJ
+.	.
+
+anywhere	RB
+is	VBZ
+okay	JJ
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+russian	JJ
+food	NN
+.	.
+
+russian	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+russian	JJ
+food	NN
+.	.
+
+either	CC
+monday	NNP
+or	CC
+tuesday	NNP
+.	.
+
+either	CC
+monday	NNP
+or	CC
+tuesday	NNP
+.	.
+
+dinner	NN
+.	.
+
+unlimited	JJ
+.	.
+
+i	PRP
+have	VBP
+no	DT
+limit	NN
+.	.
+
+i	PRP
+have	VBP
+no	DT
+limit	NN
+on	IN
+how	WRB
+much	JJ
+money	NN
+.	.
+
+i	PRP
+have	VBP
+no	DT
+limit	NN
+on	IN
+how	WRB
+much	JJ
+money	NN
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+to	IN
+me	PRP
+.	.
+
+that	DT
+does	VBZ
+n't	RB
+matter	VB
+either	RB
+.	.
+
+show	VB
+me	PRP
+the	DT
+screen	NN
+for	IN
+petrouchka	NN
+.	.
+
+show	VB
+me	PRP
+the	DT
+screen	NN
+for	IN
+petrouchka	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+see	VB
+a	DT
+list	NN
+of	IN
+restaurants	NNS
+where	WRB
+i	PRP
+can	MD
+eat	VB
+breakfast	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+see	VB
+a	DT
+list	NN
+of	IN
+restaurants	NNS
+where	WRB
+i	PRP
+can	MD
+eat	VB
+breakfast	NN
+.	.
+
+any	DT
+day	NN
+is	VBZ
+fine	JJ
+.	.
+
+less	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+less	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+away	RB
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+away	RB
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+away	RB
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+away	RB
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+away	RB
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+away	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+mel's	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+mel's	NNS
+.	.
+
+no	UH
+that	DT
+was	VBD
+n't	RB
+it	PRP
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+mel's	NNS
+.	.
+
+no	UH
+that	DT
+was	VBD
+n't	RB
+it	PRP
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+mel's	NNS
+.	.
+
+no	UH
+that	DT
+was	VBD
+n't	RB
+it	PRP
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+mel's	NNS
+.	.
+
+no	UH
+that	DT
+was	VBD
+n't	RB
+it	PRP
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+mel's	NNS
+.	.
+
+no	UH
+that	DT
+was	VBD
+n't	RB
+it	PRP
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+mel's	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+mel's	NNS
+.	.
+
+t
