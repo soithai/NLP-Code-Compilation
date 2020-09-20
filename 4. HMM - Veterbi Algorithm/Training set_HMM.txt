@@ -94550,4 +94550,1036 @@ to	TO
 know	VB
 more	JJR
 about	IN
-sun
+sun-hong-kong	JJ
+.	.
+
+indian	NN
+.	.
+
+thai	DT
+food	NN
+.	.
+
+thai	DT
+food	NN
+.	.
+
+friday	NN
+.	.
+
+lunch	NN
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+two	CD
+miles	NNS
+.	.
+
+two	CD
+miles	NNS
+.	.
+
+two	CD
+miles	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+pizza	NN
+.	.
+
+pizza	NN
+.	.
+
+pizza	NN
+.	.
+
+i	PRP
+want	VBP
+pizza	NN
+.	.
+
+friday	NN
+.	.
+
+dinner	NN
+.	.
+
+seven	CD
+dollars	NNS
+.	.
+
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+indian	JJ
+food	NN
+.	.
+
+any	DT
+day	NN
+.	.
+
+dinner	NN
+.	.
+
+ten	CD
+dollars	NNS
+.	.
+
+any	DT
+time	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+indian	JJ
+cuisine	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+indian	JJ
+cuisine	NN
+.	.
+
+i	PRP
+want	VBP
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+indian	JJ
+food	NN
+.	.
+
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+more	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+indian	JJ
+food	NN
+.	.
+
+indian	JJ
+food	NN
+is	VBZ
+what	WP
+i	PRP
+want	VBP
+.	.
+
+indian	JJ
+food	NN
+is	VBZ
+what	WP
+i	PRP
+want	VBP
+.	.
+
+indian	NN
+.	.
+
+fifteen	CD
+dollars	NNS
+.	.
+
+ten	CD
+dollars	NNS
+.	.
+
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+ten	CD
+minutes	NNS
+.	.
+
+ten	CD
+minutes	NNS
+.	.
+
+shilpa	NN
+.	.
+
+i	PRP
+want	VBP
+information	NN
+about	IN
+shilpa	NN
+.	.
+
+i	PRP
+want	VBP
+information	NN
+about	IN
+shilpa	NN
+.	.
+
+ten	CD
+dollars	NNS
+.	.
+
+give	VB
+me	PRP
+additional	JJ
+information	NN
+about	IN
+shilpa	NN
+.	.
+
+information	NN
+about	IN
+shilpa	NN
+.	.
+
+information	NN
+about	IN
+shilpa	NN
+.	.
+
+give	VB
+me	PRP
+information	NN
+about	IN
+shilpa	NN
+.	.
+
+i	PRP
+want	VBP
+for	IN
+lunch	NN
+some	DT
+chinese	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+for	IN
+lunch	NN
+some	DT
+chinese	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+for	IN
+lunch	NN
+some	DT
+chinese	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+for	IN
+lunch	NN
+some	DT
+chinese	JJ
+food	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+on	IN
+monday	NNP
+.	.
+
+should	MD
+not	RB
+cost	VB
+more	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+for	IN
+about	RB
+five	CD
+minutes	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+for	IN
+about	RB
+five	CD
+minutes	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+an	DT
+italian	JJ
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+there	RB
+on	IN
+saturday	NN
+evening	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+italian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+an	DT
+italian	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+italian	JJ
+food	NN
+.	.
+
+uh	UH
+i	PRP
+want	VBP
+to	TO
+go	VB
+there	RB
+so	RB
+in	IN
+about	RB
+fifteen	CD
+minutes	NNS
+.	.
+
+uh	UH
+i	PRP
+want	VBP
+to	TO
+go	VB
+there	RB
+so	RB
+in	IN
+about	RB
+fifteen	CD
+minutes	NNS
+.	.
+
+uh	UH
+i	PRP
+want	VBP
+to	TO
+go	VB
+there	RB
+so	RB
+in	IN
+about	RB
+fifteen	CD
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+some	DT
+american	JJ
+food	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+on	IN
+tuesday	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+get	VB
+some	DT
+more	JJR
+information	NN
+about	IN
+tambo	NN
+cafe	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+get	VB
+some	DT
+more	JJR
+information	NN
+about	IN
+tambo	NN
+cafe	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+get	VB
+some	DT
+more	JJR
+information	NN
+about	IN
+tambo	NN
+cafe	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+get	VB
+some	DT
+more	JJR
+information	NN
+about	IN
+tambo	NN
+cafe	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+get	VB
+some	DT
+information	NN
+about	IN
+tambo	NN
+cafe	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+get	VB
+some	DT
+information	NN
+about	IN
+tambo	NN
+cafe	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+get	VB
+some	DT
+information	NN
+about	IN
+tambo	NN
+cafe	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+get	VB
+more	JJR
+information	NN
+about	IN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+get	VB
+more	JJR
+information	NN
+about	IN
+.	.
+
+i	PRP
+would	MD
+like	VB
+some	DT
+american	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+american	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+lox	JJR
+stock	NN
+and	CC
+bagel	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+lox	JJR
+stock	NN
+and	CC
+bagel	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+mexican	JJ
+food	NN
+.	.
+
+it	PRP
+should	MD
+not	RB
+cost	VB
+more	JJR
+than	IN
+fifteen	CD
+dollars	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+taco	NN
+bell	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+taco	NN
+bell	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+cambodian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+cambodian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+the	DT
+the	DT
+cambodiana's	NNS
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+the	DT
+the	DT
+cambodiana's	NNS
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+the	DT
+the	DT
+cambodiana's	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+mcdonald	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+mcdonald	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+german	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+a	DT
+german	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+an	DT
+asian	JJ
+restaurant	NN
+.	.
+
+wanted	VBD
+to	TO
+go	VB
+to	IN
+a	DT
+german	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+german	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+for	IN
+dinner	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+.	.
+
+i	PRP
+want	VBP
+some	DT
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+a	DT
+french	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+american	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+for	IN
+dinner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+some	DT
+persian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+oriental	JJ
+food	NN
+to	TO
+go	VB
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+oriental	JJ
+food	NN
+to	TO
+go	VB
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+oriental	JJ
+food	NN
+to	TO
+go	VB
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+oriental	JJ
+food	NN
+to	TO
+go	VB
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+another	DT
+asian	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+a	DT
+russian	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+a	DT
+thai	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+walk	VB
+less	JJR
+than	IN
+one	CD
+mile	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+walk	VB
+less	JJR
+than	IN
+one	CD
+mile	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+walk	VB
+less	JJR
+than	IN
+one	CD
+mile	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+for	IN
+dinner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+for	IN
+dinner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+a	DT
+russian	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+fat	JJ
+slice	NN
+pizza	N
