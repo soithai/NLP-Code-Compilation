@@ -98552,4 +98552,1023 @@ information	NN
 about	IN
 new	JJ
 delhi	JJ
-junction	N
+junction	NN
+.	.
+
+how	WRB
+about	IN
+uh	UH
+more	RBR
+expensive	JJ
+restaurants	NNS
+.	.
+
+how	WRB
+about	IN
+uh	UH
+more	RBR
+expensive	JJ
+restaurants	NNS
+.	.
+
+how	WRB
+about	IN
+uh	UH
+more	RBR
+expensive	JJ
+restaurants	NNS
+.	.
+
+how	WRB
+about	IN
+uh	UH
+more	RBR
+expensive	JJ
+restaurants	NNS
+.	.
+
+okay	UH
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+any	DT
+restaurant	NN
+in	IN
+any	DT
+area	NN
+.	.
+
+okay	UH
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+any	DT
+restaurant	NN
+in	IN
+any	DT
+area	NN
+.	.
+
+okay	UH
+uh	UH
+distance	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+okay	UH
+uh	UH
+distance	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+okay	UH
+uh	UH
+distance	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+what	WP
+vietnamese	VBP
+restaurants	NNS
+do	VBP
+you	PRP
+have	VB
+.	.
+
+what	WP
+vietnamese	VBP
+restaurants	NNS
+do	VBP
+you	PRP
+have	VB
+.	.
+
+what	WP
+vietnamese	VBP
+restaurants	NNS
+do	VBP
+you	PRP
+have	VB
+.	.
+
+what	WP
+vietnamese	VBP
+restaurants	NNS
+do	VBP
+you	PRP
+have	VB
+.	.
+
+i	PRP
+want	VBP
+vietnamese	DT
+food	NN
+.	.
+
+i	PRP
+want	VBP
+food	NN
+from	IN
+vietnam	NN
+.	.
+
+i	PRP
+want	VBP
+food	NN
+from	IN
+vietnam	NN
+.	.
+
+i	PRP
+want	VBP
+food	NN
+from	IN
+vietnam	NN
+.	.
+
+i	PRP
+want	VBP
+food	NN
+from	IN
+vietnam	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+some	DT
+dim	JJ
+-	HYPH
+sum	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+sun-hong-kong	NNP
+.	.
+
+tell	VB
+me	PRP
+about	IN
+sun-hong-kong	NNP
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+what	WP
+restaurants	NNS
+are	VBP
+open	JJ
+after	IN
+midnight	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+what	WP
+restaurants	NNS
+are	VBP
+open	JJ
+after	IN
+midnight	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+what	WP
+restaurants	NNS
+are	VBP
+open	JJ
+after	IN
+midnight	NN
+.	.
+
+can	MD
+you	PRP
+tell	VB
+me	PRP
+what	WP
+restaurants	NNS
+are	VBP
+open	JJ
+after	IN
+midnight	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+anywhere	RB
+any	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+anywhere	RB
+any	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+anywhere	RB
+any	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+anywhere	RB
+any	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+anywhere	RB
+any	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+anywhere	RB
+any	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+anywhere	RB
+any	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+anywhere	RB
+any	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+anywhere	RB
+any	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+anywhere	RB
+any	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+anywhere	RB
+any	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+anywhere	RB
+any	DT
+day	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+care	VB
+about	IN
+cost	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+care	VB
+about	IN
+cost	NN
+.	.
+
+i	PRP
+want	VBP
+cheap	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+inexpensive	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+type	NN
+of	IN
+food	NN
+and	CC
+um	UH
+the	DT
+price	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+i	PRP
+want	VBP
+any	DT
+type	NN
+of	IN
+food	NN
+and	CC
+um	UH
+the	DT
+price	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+i	PRP
+want	VBP
+any	DT
+type	NN
+of	IN
+food	NN
+and	CC
+um	UH
+the	DT
+price	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+i	PRP
+want	VBP
+any	DT
+type	NN
+of	IN
+food	NN
+and	CC
+um	UH
+the	DT
+price	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+i	PRP
+want	VBP
+any	DT
+type	NN
+of	IN
+food	NN
+and	CC
+um	UH
+the	DT
+price	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+five	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+after	IN
+midnight	NN
+.	.
+
+um	UH
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+after	IN
+midnight	NN
+.	.
+
+um	UH
+i	PRP
+want	VBP
+any	DT
+kind	NN
+of	IN
+food	NN
+after	IN
+midnight	NN
+.	.
+
+any	DT
+type	NN
+of	IN
+food	NN
+.	.
+
+chinese	NNS
+.	.
+
+how	WRB
+about	IN
+american	NN
+.	.
+
+how	WRB
+about	IN
+american	NN
+.	.
+
+look	VB
+at	IN
+jupiter	NN
+.	.
+
+really	RB
+good	JJ
+pizza	NN
+.	.
+
+really	RB
+good	JJ
+pizza	NN
+.	.
+
+really	RB
+good	JJ
+pizza	NN
+.	.
+
+i	PRP
+can	MD
+spend	VB
+over	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+can	MD
+spend	VB
+over	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+can	MD
+spend	VB
+over	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+lunch	NN
+and	CC
+dinner	NN
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+lunch	NN
+and	CC
+dinner	NN
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+lunch	NN
+and	CC
+dinner	NN
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+lunch	NN
+and	CC
+dinner	NN
+.	.
+
+i	PRP
+want	VBP
+pizza	NN
+.	.
+
+i	PRP
+want	VBP
+pizza	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+lococo's	NNS
+.	.
+
+do	VBP
+you	PRP
+have	VB
+any	DT
+restaurants	NNS
+uh	UH
+serving	VBG
+california	JJ
+cuisine	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+any	DT
+restaurants	NNS
+uh	UH
+serving	VBG
+california	JJ
+cuisine	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+any	DT
+restaurants	NNS
+uh	UH
+serving	VBG
+california	JJ
+cuisine	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+any	DT
+restaurants	NNS
+uh	UH
+serving	VBG
+california	JJ
+cuisine	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+any	DT
+restaurants	NNS
+uh	UH
+serving	VBG
+california	JJ
+cuisine	NN
+.	.
+
+can	MD
+i	PRP
+have	VB
+more	JJR
+information	NN
+about	IN
+that	DT
+restaurant	NN
+.	.
+
+cafe	NN
+bistro	NN
+.	.
+
+cafe	NN
+bistro	NN
+.	.
+
+cafe	NN
+bistro	NN
+.	.
+
+i	PRP
+want	VBP
+restaurants	NNS
+anywhere	RB
+.	.
+
+i	PRP
+want	VBP
+restaurants	NNS
+anywhere	RB
+.	.
+
+i	PRP
+want	VBP
+restaurants	NNS
+anywhere	RB
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+a	DT
+lot	NN
+of	IN
+money	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+lalime's	NNS
+.	.
+
+okay	UH
+thank	VBP
+you	PRP
+for	IN
+the	DT
+information	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+cafe	NN
+vin	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+cafe	NN
+vin	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+cafe	NN
+vin	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+cafe	NN
+vin	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+cafe	NN
+vin	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+cafe	NN
+vin	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+cafe	NN
+vin	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+cafe	NN
+vin	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+cafe	NN
+vin	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+cafe	NN
+vin	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+cafe	NN
+vin	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+any	DT
+kind	NN
+of	IN
+restaurant	NN
+for	IN
+brunch	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+any	DT
+kind	NN
+of	IN
+restaurant	NN
+for	IN
+brunch	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+any	DT
+kind	NN
+of	IN
+restaurant	NN
+for	IN
+brunch	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+type	NN
+of	IN
+food	NN
+.	.
+
+want	VBP
+to	TO
+go	VB
+for	IN
+brunch	NN
+.	.
+
+brunch	NN
+.	.
+
+what	WP
+about	IN
+california	NNP
+.	.
+
+i	PRP
+want	VBP
+an	DT
+inexpensive	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+cheap	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+an	DT
+.	.
+
+i	PRP
+want	VBP
+an	DT
+indian	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+lunch	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+care	VB
+about	IN
+the	DT
+cost	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+care	VB
+about	IN
+the	DT
+cost	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+kosher	NN
+restaurants	NNS
+.	.
+
+are	VBP
+there	EX
+any	DT
+kosher	NN
+restaurants	NNS
+.	.
+
+are	VBP
+there	EX
+any	DT
+kosher	NN
+restaurants	NNS
+.	.
+
+i	PRP
+like	VBP
+vegetarian	JJ
+food	NN
+.	.
+
+i	PRP
+like	VBP
+vegetarian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+that	WDT
+serves	VBZ
+only	RB
+vegetarian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+that	WDT
+serves	VBZ
+only	RB
+vegetarian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+that	WDT
+serves	VBZ
+only	RB
+vegetarian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+within	IN
+twenty	CD
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+within	IN
+twenty	CD
+minutes	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+christopher	NN
+'s	POS
+cafe	NN
+.	.
+
+i	PRP
+want	VBP
+brunch	NN
+.	.
+
+i	PRP
+want	VBP
+to	
