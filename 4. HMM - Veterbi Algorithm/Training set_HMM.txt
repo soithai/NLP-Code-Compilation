@@ -104448,4 +104448,1004 @@ restaurants	NNS
 in	IN
 about	IN
 uh	UH
-fo
+four	CD
+ten	CD
+five	CD
+to	TO
+ten	CD
+minutes	NNS
+walk	VBP
+from	IN
+icsi	NNS
+.	.
+
+please	UH
+tell	VB
+me	PRP
+about	IN
+the	DT
+italian	JJ
+restaurants	NNS
+in	IN
+about	IN
+uh	UH
+four	CD
+ten	CD
+five	CD
+to	TO
+ten	CD
+minutes	NNS
+walk	VBP
+from	IN
+icsi	NNS
+.	.
+
+please	UH
+tell	VB
+me	PRP
+more	RBR
+about	IN
+bucci's	NNS
+.	.
+
+please	UH
+tell	VB
+me	PRP
+more	RBR
+about	IN
+bucci's	NNS
+.	.
+
+please	UH
+tell	VB
+me	PRP
+more	RBR
+about	IN
+bucci's	NNS
+.	.
+
+please	UH
+tell	VB
+me	PRP
+more	RBR
+about	IN
+bucci's	NNS
+.	.
+
+please	UH
+tell	VB
+me	PRP
+more	RBR
+about	IN
+bucci's	NNS
+.	.
+
+uh	UH
+i	PRP
+would	MD
+like	VB
+to	TO
+know	VB
+about	IN
+what	WP
+i	PRP
+could	MD
+eat	VB
+in	IN
+this	DT
+restaurant	NN
+.	.
+
+uh	UH
+i	PRP
+would	MD
+like	VB
+to	TO
+know	VB
+about	IN
+what	WP
+i	PRP
+could	MD
+eat	VB
+in	IN
+this	DT
+restaurant	NN
+.	.
+
+what	WP
+else	RB
+can	MD
+you	PRP
+tell	VB
+me	PRP
+about	IN
+this	DT
+restaurant	NN
+.	.
+
+which	WDT
+of	IN
+these	DT
+restaurants	NNS
+do	VBP
+you	PRP
+recommend	VB
+.	.
+
+which	WDT
+of	IN
+these	DT
+restaurants	NNS
+do	VBP
+you	PRP
+recommend	VB
+.	.
+
+which	WDT
+of	IN
+these	DT
+restaurants	NNS
+do	VBP
+you	PRP
+recommend	VB
+.	.
+
+how	WRB
+much	RB
+would	MD
+it	PRP
+cost	VB
+me	PRP
+to	TO
+go	VB
+for	IN
+lunch	NN
+at	IN
+oliveto	NN
+'s	POS
+.	.
+
+how	WRB
+much	RB
+would	MD
+it	PRP
+cost	VB
+me	PRP
+to	TO
+go	VB
+for	IN
+lunch	NN
+at	IN
+oliveto	NN
+'s	POS
+.	.
+
+how	WRB
+much	RB
+would	MD
+it	PRP
+cost	VB
+me	PRP
+to	TO
+go	VB
+for	IN
+lunch	NN
+at	IN
+oliveto	NN
+'s	POS
+.	.
+
+how	WRB
+much	RB
+would	MD
+it	PRP
+cost	VB
+me	PRP
+to	TO
+go	VB
+for	IN
+lunch	NN
+at	IN
+oliveto	NN
+'s	POS
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+out	RP
+for	IN
+dinner	NN
+today	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+out	RP
+for	IN
+dinner	NN
+today	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+out	RP
+for	IN
+dinner	NN
+today	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+out	RP
+for	IN
+dinner	NN
+today	NN
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+out	RP
+for	IN
+dinner	NN
+today	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+out	RP
+for	IN
+dinner	NN
+today	NN
+.	.
+
+dinner	NN
+.	.
+
+up	RP
+to	IN
+ten	CD
+dollars	NNS
+.	.
+
+up	RP
+to	IN
+ten	CD
+dollars	NNS
+.	.
+
+five	CD
+or	CC
+six	CD
+blocks	NNS
+.	.
+
+five	CD
+or	CC
+six	CD
+blocks	NNS
+.	.
+
+five	CD
+or	CC
+six	CD
+blocks	NNS
+.	.
+
+would	MD
+i	PRP
+need	VB
+a	DT
+reservation	NN
+for	IN
+these	DT
+restaurants	NNS
+.	.
+
+would	MD
+i	PRP
+need	VB
+a	DT
+reservation	NN
+for	IN
+these	DT
+restaurants	NNS
+.	.
+
+would	MD
+i	PRP
+need	VB
+a	DT
+reservation	NN
+for	IN
+these	DT
+restaurants	NNS
+.	.
+
+please	UH
+give	VB
+me	PRP
+additional	JJ
+information	NN
+on	IN
+nakapan	NN
+.	.
+
+please	UH
+give	VB
+me	PRP
+additional	JJ
+information	NN
+on	IN
+nakapan	NN
+.	.
+
+please	UH
+give	VB
+me	PRP
+additional	JJ
+information	NN
+on	IN
+nakapan	NN
+.	.
+
+please	UH
+give	VB
+me	PRP
+additional	JJ
+information	NN
+on	IN
+nakapan	NN
+.	.
+
+please	UH
+return	VB
+to	IN
+the	DT
+list	NN
+of	IN
+thai	JJ
+restaurants	NNS
+you	PRP
+gave	VBD
+me	PRP
+before	RB
+.	.
+
+please	UH
+return	VB
+to	IN
+the	DT
+list	NN
+of	IN
+thai	JJ
+restaurants	NNS
+you	PRP
+gave	VBD
+me	PRP
+before	RB
+.	.
+
+please	UH
+return	VB
+to	IN
+the	DT
+list	NN
+of	IN
+thai	JJ
+restaurants	NNS
+you	PRP
+gave	VBD
+me	PRP
+before	RB
+.	.
+
+please	UH
+return	VB
+to	IN
+the	DT
+list	NN
+of	IN
+thai	JJ
+restaurants	NNS
+you	PRP
+gave	VBD
+me	PRP
+before	RB
+.	.
+
+can	MD
+tell	VB
+me	PRP
+more	RBR
+about	IN
+taqueria	NNS
+cancun	VBN
+.	.
+
+can	MD
+tell	VB
+me	PRP
+more	RBR
+about	IN
+taqueria	NNS
+cancun	VBN
+.	.
+
+can	MD
+tell	VB
+me	PRP
+more	RBR
+about	IN
+taqueria	NNS
+cancun	VBN
+.	.
+
+can	MD
+tell	VB
+me	PRP
+more	RBR
+about	IN
+taqueria	NNS
+cancun	VBN
+.	.
+
+can	MD
+tell	VB
+me	PRP
+more	RBR
+about	IN
+taqueria	NNS
+cancun	VBN
+.	.
+
+can	MD
+tell	VB
+me	PRP
+more	RBR
+about	IN
+taqueria	NNS
+cancun	VBN
+.	.
+
+can	MD
+tell	VB
+me	PRP
+more	RBR
+about	IN
+taqueria	NNS
+cancun	VBN
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+are	VBP
+there	EX
+any	DT
+brazilian	JJ
+restaurants	NNS
+nearby	RB
+i	PRP
+try	VBP
+again	RB
+.	.
+
+are	VBP
+there	EX
+any	DT
+brazilian	JJ
+restaurants	NNS
+nearby	RB
+i	PRP
+try	VBP
+again	RB
+.	.
+
+are	VBP
+there	EX
+any	DT
+brazilian	JJ
+restaurants	NNS
+nearby	RB
+i	PRP
+try	VBP
+again	RB
+.	.
+
+are	VBP
+there	EX
+any	DT
+brazilian	JJ
+restaurants	NNS
+nearby	RB
+i	PRP
+try	VBP
+again	RB
+.	.
+
+are	VBP
+there	EX
+any	DT
+brazilian	JJ
+restaurants	NNS
+nearby	RB
+i	PRP
+try	VBP
+again	RB
+.	.
+
+are	VBP
+there	EX
+any	DT
+brazilian	JJ
+restaurants	NNS
+nearby	RB
+i	PRP
+try	VBP
+again	RB
+.	.
+
+brazilian	NN
+.	.
+
+it	PRP
+'s	VBZ
+brazilian	JJ
+not	RB
+british	JJ
+food	NN
+that	WDT
+i	PRP
+want	VBP
+.	.
+
+it	PRP
+'s	VBZ
+brazilian	JJ
+not	RB
+british	JJ
+food	NN
+that	WDT
+i	PRP
+want	VBP
+.	.
+
+it	PRP
+'s	VBZ
+brazilian	JJ
+not	RB
+british	JJ
+food	NN
+that	WDT
+i	PRP
+want	VBP
+.	.
+
+it	PRP
+'s	VBZ
+brazilian	JJ
+not	RB
+british	JJ
+food	NN
+that	WDT
+i	PRP
+want	VBP
+.	.
+
+it	PRP
+'s	VBZ
+brazilian	JJ
+not	RB
+british	JJ
+food	NN
+that	WDT
+i	PRP
+want	VBP
+.	.
+
+it	PRP
+'s	VBZ
+brazilian	JJ
+not	RB
+british	JJ
+food	NN
+that	WDT
+i	PRP
+want	VBP
+.	.
+
+it	PRP
+'s	VBZ
+brazilian	JJ
+not	RB
+british	JJ
+food	NN
+that	WDT
+i	PRP
+want	VBP
+.	.
+
+it	PRP
+'s	VBZ
+brazilian	JJ
+not	RB
+british	JJ
+food	NN
+that	WDT
+i	PRP
+want	VBP
+.	.
+
+it	PRP
+'s	VBZ
+brazilian	JJ
+not	RB
+british	JJ
+food	NN
+that	WDT
+i	PRP
+want	VBP
+.	.
+
+it	PRP
+'s	VBZ
+brazilian	JJ
+not	RB
+british	JJ
+food	NN
+that	WDT
+i	PRP
+want	VBP
+.	.
+
+it	PRP
+'s	VBZ
+brazilian	JJ
+not	RB
+british	JJ
+food	NN
+that	WDT
+i	PRP
+want	VBP
+.	.
+
+it	PRP
+'s	VBZ
+brazilian	JJ
+not	RB
+british	JJ
+food	NN
+that	WDT
+i	PRP
+want	VBP
+.	.
+
+tomorrow	NN
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+lunch	NN
+um	UH
+.	.
+
+tomorrow	NN
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+lunch	NN
+um	UH
+.	.
+
+tomorrow	NN
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+lunch	NN
+um	UH
+.	.
+
+tomorrow	NN
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+lunch	NN
+um	UH
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+tomorrow	NN
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+lunch	NN
+.	.
+
+tomorrow	NN
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+lunch	NN
+.	.
+
+i	PRP
+said	VBD
+lunch	NN
+before	RB
+.	.
+
+i	PRP
+said	VBD
+lunch	NN
+before	RB
+.	.
+
+i	PRP
+said	VBD
+lunch	NN
+before	RB
+.	.
+
+i	PRP
+want	VBP
+to	TO
+try	VB
+something	NN
+new	JJ
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+something	NN
+from	IN
+the	DT
+far	JJ
+east	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+something	NN
+from	IN
+the	DT
+far	JJ
+east	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+something	NN
+from	IN
+the	DT
+far	JJ
+east	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+malaysian	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+malaysian	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+at	IN
+most	JJS
+eight	CD
+dollars	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+at	IN
+most	JJS
+eight	CD
+dollars	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+at	IN
+most	JJS
+eight	CD
+dollars	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+at	IN
+most	JJS
+eight	CD
+dollars	NNS
+.	.
+
+i	PRP
+try	VBP
+again	RB
+eight	CD
+dollars	NNS
+.	.
+
+i	PRP
+try	VBP
+again	RB
+eight	CD
+dollars	NNS
+.	.
+
+i	PRP
+try	VBP
+again	RB
+eight	CD
+dollars	NNS
+.	.
+
+so	RB
+let	VB
+'s	PRP
+say	VB
+only	RB
+seven	CD
+dollars	NNS
+uh	UH
+.	.
+
+so	RB
+let	VB
+'s	PRP
+say	VB
+only	RB
+seven	CD
+dollars	NNS
+uh	UH
+.	.
+
+so	RB
+let	VB
+'s	PRP
+say	VB
+only	RB
+seven	CD
+dollars	NNS
+uh	UH
+.	.
+
+so	RB
+let	VB
+'s	PRP
+say	VB
+only	RB
+seven	CD
+dollars	NNS
+uh	UH
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+foot	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+foot	NN
+.	.
+
+what	WP
+do	VBP
+you	PRP
+think	VB
+about	IN
+six	CD
+dollars	NNS
+.	.
+
+what	WP
+do	VBP
+you	PRP
+think	VB
+about	IN
+six	CD
+dollars	NNS
+.	.
+
+what	WP
+do	VBP
+you	PRP
+think	VB
+about	IN
+six	CD
+dollars	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+at
