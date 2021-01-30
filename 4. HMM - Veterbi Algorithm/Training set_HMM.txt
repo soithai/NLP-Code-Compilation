@@ -124892,4 +124892,1003 @@ closer	RBR
 and	CC
 i	PRP
 did	VBD
-not	R
+not	RB
+say	VB
+short	JJ
+i	PRP
+said	VBD
+i	PRP
+wanted	VBD
+kosher	DT
+food	NN
+.	.
+
+no	UH
+i	PRP
+did	VBD
+not	RB
+say	VB
+closer	RBR
+and	CC
+i	PRP
+did	VBD
+not	RB
+say	VB
+short	JJ
+i	PRP
+said	VBD
+i	PRP
+wanted	VBD
+kosher	DT
+food	NN
+.	.
+
+no	UH
+i	PRP
+did	VBD
+not	RB
+say	VB
+closer	RBR
+and	CC
+i	PRP
+did	VBD
+not	RB
+say	VB
+short	JJ
+i	PRP
+said	VBD
+i	PRP
+wanted	VBD
+kosher	DT
+food	NN
+.	.
+
+no	UH
+i	PRP
+did	VBD
+n't	RB
+say	VB
+close	JJ
+and	CC
+i	PRP
+did	VBD
+n't	RB
+say	VB
+short	JJ
+i	PRP
+said	VBD
+i	PRP
+wanted	VBD
+kosher	DT
+food	NN
+.	.
+
+no	UH
+i	PRP
+did	VBD
+n't	RB
+say	VB
+close	JJ
+and	CC
+i	PRP
+did	VBD
+n't	RB
+say	VB
+short	JJ
+i	PRP
+said	VBD
+i	PRP
+wanted	VBD
+kosher	DT
+food	NN
+.	.
+
+no	UH
+i	PRP
+did	VBD
+n't	RB
+say	VB
+close	JJ
+and	CC
+i	PRP
+did	VBD
+n't	RB
+say	VB
+short	JJ
+i	PRP
+said	VBD
+i	PRP
+wanted	VBD
+kosher	DT
+food	NN
+.	.
+
+no	UH
+i	PRP
+did	VBD
+n't	RB
+say	VB
+close	JJ
+and	CC
+i	PRP
+did	VBD
+n't	RB
+say	VB
+short	JJ
+i	PRP
+said	VBD
+i	PRP
+wanted	VBD
+kosher	DT
+food	NN
+.	.
+
+no	UH
+i	PRP
+did	VBD
+n't	RB
+say	VB
+close	JJ
+and	CC
+i	PRP
+did	VBD
+n't	RB
+say	VB
+short	JJ
+i	PRP
+said	VBD
+i	PRP
+wanted	VBD
+kosher	DT
+food	NN
+.	.
+
+no	UH
+i	PRP
+did	VBD
+n't	RB
+say	VB
+close	JJ
+and	CC
+i	PRP
+did	VBD
+n't	RB
+say	VB
+short	JJ
+i	PRP
+said	VBD
+i	PRP
+wanted	VBD
+kosher	DT
+food	NN
+.	.
+
+type	NN
+of	IN
+food	NN
+kosher	WDT
+food	NN
+distance	NN
+anywhere	RB
+.	.
+
+type	NN
+of	IN
+food	NN
+kosher	WDT
+food	NN
+distance	NN
+anywhere	RB
+.	.
+
+type	NN
+of	IN
+food	NN
+kosher	WDT
+food	NN
+distance	NN
+anywhere	RB
+.	.
+
+type	NN
+of	IN
+food	NN
+kosher	WDT
+food	NN
+distance	NN
+anywhere	RB
+.	.
+
+not	RB
+saturday	NN
+.	.
+
+not	RB
+saturday	NN
+.	.
+
+any	DT
+day	NN
+but	CC
+not	RB
+saturday	NN
+.	.
+
+any	DT
+day	NN
+but	CC
+not	RB
+saturday	NN
+.	.
+
+any	DT
+day	NN
+but	CC
+not	RB
+saturday	NN
+.	.
+
+any	DT
+day	NN
+but	CC
+not	RB
+saturday	NN
+.	.
+
+lunch	NN
+or	CC
+dinner	NN
+.	.
+
+it	PRP
+does	VBZ
+not	RB
+matter	VB
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+okay	UH
+not	RB
+thai	DT
+food	NN
+give	VB
+me	PRP
+kosher	DT
+food	NN
+.	.
+
+okay	UH
+not	RB
+thai	DT
+food	NN
+give	VB
+me	PRP
+kosher	DT
+food	NN
+.	.
+
+okay	UH
+not	RB
+thai	DT
+food	NN
+give	VB
+me	PRP
+kosher	DT
+food	NN
+.	.
+
+okay	UH
+not	RB
+thai	DT
+food	NN
+give	VB
+me	PRP
+kosher	DT
+food	NN
+.	.
+
+okay	UH
+how	WRB
+about	IN
+kosher	DT
+food	NN
+.	.
+
+okay	UH
+how	WRB
+about	IN
+kosher	DT
+food	NN
+.	.
+
+okay	UH
+how	WRB
+about	IN
+kosher	DT
+food	NN
+.	.
+
+okay	UH
+how	WRB
+about	IN
+kosher	DT
+food	NN
+.	.
+
+sure	JJ
+food	NN
+.	.
+
+sure	JJ
+food	NN
+.	.
+
+kosher	JJR
+.	.
+
+did	VBD
+anybody	NN
+ever	RB
+tell	VB
+you	PRP
+you	PRP
+'re	VBP
+really	RB
+stupid	JJ
+.	.
+
+did	VBD
+anybody	NN
+ever	RB
+tell	VB
+you	PRP
+you	PRP
+'re	VBP
+really	RB
+stupid	JJ
+.	.
+
+did	VBD
+anybody	NN
+ever	RB
+tell	VB
+you	PRP
+you	PRP
+'re	VBP
+really	RB
+stupid	JJ
+.	.
+
+did	VBD
+anybody	NN
+ever	RB
+tell	VB
+you	PRP
+you	PRP
+'re	VBP
+really	RB
+stupid	JJ
+.	.
+
+okay	UH
+how	WRB
+about	IN
+italian	JJ
+food	NN
+.	.
+
+okay	UH
+how	WRB
+about	IN
+italian	JJ
+food	NN
+.	.
+
+okay	UH
+how	WRB
+about	IN
+italian	JJ
+food	NN
+.	.
+
+okay	UH
+how	WRB
+about	IN
+italian	JJ
+food	NN
+.	.
+
+show	VB
+me	PRP
+the	DT
+information	NN
+about	IN
+venezia	NN
+.	.
+
+okay	UH
+show	VB
+me	PRP
+the	DT
+list	NN
+of	IN
+the	DT
+other	JJ
+italian	JJ
+restaurants	NNS
+now	RB
+.	.
+
+okay	UH
+show	VB
+me	PRP
+the	DT
+list	NN
+of	IN
+the	DT
+other	JJ
+italian	JJ
+restaurants	NNS
+now	RB
+.	.
+
+okay	UH
+show	VB
+me	PRP
+the	DT
+list	NN
+of	IN
+the	DT
+other	JJ
+italian	JJ
+restaurants	NNS
+now	RB
+.	.
+
+okay	UH
+show	VB
+me	PRP
+the	DT
+list	NN
+of	IN
+the	DT
+other	JJ
+italian	JJ
+restaurants	NNS
+now	RB
+.	.
+
+okay	UH
+show	VB
+me	PRP
+the	DT
+list	NN
+of	IN
+the	DT
+other	JJ
+italian	JJ
+restaurants	NNS
+now	RB
+.	.
+
+okay	UH
+show	VB
+me	PRP
+the	DT
+list	NN
+of	IN
+the	DT
+other	JJ
+italian	JJ
+restaurants	NNS
+now	RB
+.	.
+
+caffe	NN
+giovanni	NN
+.	.
+
+caffe	NN
+giovanni	NN
+.	.
+
+caffe	NN
+giovanni	NN
+.	.
+
+caffe	NN
+giovanni	NN
+.	.
+
+caffe	NN
+giovanni	NN
+.	.
+
+caffe	NN
+giovanni	NN
+.	.
+
+the	DT
+second	JJ
+restaurant	NN
+on	IN
+your	PRP$
+list	NN
+.	.
+
+caffe	NN
+giovanni	NN
+.	.
+
+caffe	NN
+giovanni	NN
+.	.
+
+caffe	NN
+giovanni	NN
+.	.
+
+spats	NNS
+.	.
+
+spats	NNS
+.	.
+
+is	VBZ
+there	EX
+any	DT
+vegetarian	JJ
+food	NN
+at	IN
+this	DT
+restaurant	NN
+.	.
+
+is	VBZ
+there	EX
+any	DT
+vegetarian	JJ
+food	NN
+at	IN
+this	DT
+restaurant	NN
+.	.
+
+cafe	NN
+marmara	NN
+show	VBP
+me	PRP
+the	DT
+information	NN
+about	IN
+cafe	NN
+marmara	NN
+.	.
+
+cafe	NN
+marmara	NN
+show	VBP
+me	PRP
+the	DT
+information	NN
+about	IN
+cafe	NN
+marmara	NN
+.	.
+
+cafe	NN
+marmara	NN
+show	VBP
+me	PRP
+the	DT
+information	NN
+about	IN
+cafe	NN
+marmara	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+a	DT
+copy	NN
+of	IN
+their	PRP$
+menu	NN
+.	.
+
+what	WP
+'s	VBZ
+a	DT
+good	JJ
+place	NN
+to	TO
+eat	VB
+breakfast	NN
+.	.
+
+what	WP
+'s	VBZ
+a	DT
+good	JJ
+place	NN
+to	TO
+eat	VB
+breakfast	NN
+.	.
+
+what	WP
+'s	VBZ
+a	DT
+good	JJ
+place	NN
+to	TO
+eat	VB
+breakfast	NN
+.	.
+
+how	WRB
+about	IN
+anywhere	RB
+in	IN
+berkeley	NN
+.	.
+
+how	WRB
+about	IN
+anywhere	RB
+in	IN
+berkeley	NN
+.	.
+
+how	WRB
+about	IN
+anywhere	RB
+in	IN
+berkeley	NN
+.	.
+
+how	WRB
+about	IN
+anywhere	RB
+in	IN
+berkeley	NN
+.	.
+
+how	WRB
+about	IN
+european	JJ
+food	NN
+for	IN
+dinner	NN
+.	.
+
+how	WRB
+about	IN
+european	JJ
+food	NN
+for	IN
+dinner	NN
+.	.
+
+how	WRB
+about	IN
+european	JJ
+food	NN
+for	IN
+dinner	NN
+.	.
+
+how	WRB
+about	IN
+european	JJ
+food	NN
+for	IN
+dinner	NN
+.	.
+
+how	WRB
+about	IN
+european	JJ
+food	NN
+for	IN
+dinner	NN
+.	.
+
+what	WP
+'s	VBZ
+nadine	NNP
+'s	POS
+.	.
+
+what	WP
+'s	VBZ
+nadine	NNP
+'s	POS
+.	.
+
+how	WRB
+about	IN
+nadine	NNP
+'s	POS
+.	.
+
+how	WRB
+about	IN
+nadine	NNP
+'s	POS
+.	.
+
+okay	UH
+how	WRB
+about	IN
+petrouchka	NN
+.	.
+
+okay	UH
+how	WRB
+about	IN
+petrouchka	NN
+.	.
+
+okay	UH
+how	WRB
+about	IN
+petrouchka	NN
+.	.
+
+okay	UH
+how	WRB
+about	IN
+petrouchka	NN
+.	.
+
+okay	UH
+how	WRB
+about	IN
+petrouchka	NN
+.	.
+
+show	VB
+me	PRP
+the	DT
+list	NN
+again	RB
+.	.
+
+okay	UH
+how	WRB
+about	IN
+lalime	NN
+'s	POS
+.	.
+
+okay	UH
+how	WRB
+about	IN
+lalime	NN
+'s	POS
+.	.
+
+okay	UH
+how	WRB
+about	IN
+lalime	NN
+'s	POS
+.	.
+
+okay	UH
+how	WRB
+about	IN
+lalime	NN
+'s	POS
+.	.
+
+okay	UH
+how	WRB
+about	IN
+lalime	NN
+'s	POS
+.	.
+
+are	VBP
+there	EX
+any	DT
+other	JJ
+mediterranean	JJ
+restaurants	NNS
+.	.
+
+are	VBP
+there	EX
+any	DT
+other	JJ
+mediterranean	JJ
+restaurants	NNS
+.	.
+
+mediterranean	JJ
+not	RB
+vegetarian	JJ
+.	.
+
+mediterranean	JJ
+not	RB
+vegetarian	JJ
+.	.
+
+mediterranean	JJ
+not	RB
+vegetarian	JJ
+.	.
+
+what	WP
+'s	VBZ
+brit	VBN
+-	HYPH
+marie	NN
+'s	POS
+.	.
+
+what	WP
+'s	VBZ
+brit	VBN
+-	HYPH
+marie	NN
+'s	POS
+.	.
+
+what	WP
+'s	VBZ
+brit	VBN
+-	HYPH
+marie	NN
+'s	POS
+.	.
+
+what	WP
+'s	VBZ
+brit	VBN
+-	HYPH
+marie	NN
+'s	POS
+.	.
+
+okay	UH
+show	VB
+me	PRP
+the	DT
+list	NN
+again	RB
+.	.
+
+okay	UH
+shows	VBZ
+me	PRP
+the	DT
+list	NN
+again	RB
+.	.
+
+show	VB
+me	PRP
+about	IN
+oliveto	NN
+'s	POS
+.	.
+
+show	VB
+me	PRP
+about	IN
+oliveto	NN
+'s	POS
+.	.
+
+oliveto	NNP
+'s	POS
+show	VB
+me	PRP
+about	IN
+oliveto	NN
+'s	POS
+.	.
+
+oliveto	NNP
+'s	POS
+show	VB
+me	PRP
+about	IN
+oliveto	NN
+'s	POS
+.	.
+
+oliveto	NNP
+'s	POS
+show	VB
+me	PRP
+about	IN
+oliveto	NN
+'s	POS
+.	.
+
+oliveto	NNP
+'s	POS
+show	VB
+me	PRP
+about	IN
+oliveto	NN
+'s	POS
+.	.
+
+oliveto	NN
+'s	POS
+.	.
+
+oliveto	NN
+'s	POS
+.	.
+
+how	WRB
+about	IN
+for	IN
+dinner	NN
+.	.
+
+how	WRB
+about	IN
+for	IN
+dinner	NN
+.	.
+
+show	VB
+me	PRP
+the	DT
+information	NN
+about	IN
+oliveto's	NNS
+.	.
+
+show	VB
+me	PRP
+the	DT
+information	NN
+about	IN
+oliveto	NN
+'s	POS
+.	.
+
+show	VB
+me	PRP
+a	DT
+list	NN
+of	IN
+european	JJ
+restaurants	NNS
+.	.
+
+show	VB
+me	PRP
+a	DT
+list	NN
+of	IN
+european	JJ
+restaurants	NNS
+.	.
+
+how	WRB
+about	IN
+metropole	NN
+or	CC
+is	VBZ
+it	PRP
+metropole	NN
+.	.
+
+how	WRB
+about	IN
+metro
