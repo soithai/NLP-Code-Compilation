@@ -135363,3 +135363,954 @@ list	NN
 of	IN
 the	DT
 restaurants	NNS
+again	RB
+.	.
+
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+i	PRP
+would	MD
+like	VB
+french	JJ
+food	NN
+so	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+meters	NNS
+maybe	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+meters	NNS
+maybe	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+meters	NNS
+maybe	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+meters	NNS
+maybe	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+meters	NNS
+maybe	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+meters	NNS
+maybe	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+meters	NNS
+maybe	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+meters	NNS
+maybe	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+meters	NNS
+maybe	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+meters	NNS
+maybe	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+meters	NNS
+maybe	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+meters	NNS
+maybe	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+at	IN
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+far	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+far	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+far	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+far	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+far	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+far	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+far	RB
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+less	JJR
+than	IN
+five	CD
+hundred	CD
+meters	NNS
+far	RB
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+hungarian	JJ
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+hungarian	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+hungarian	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+hungarian	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+monday	NNP
+evening	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+monday	NNP
+evening	NN
+.	.
+
+say	VBP
+about	IN
+thirty	CD
+dollars	NNS
+for	IN
+two	CD
+persons	NNS
+.	.
+
+say	VBP
+about	IN
+thirty	CD
+dollars	NNS
+for	IN
+two	CD
+persons	NNS
+.	.
+
+say	VBP
+about	IN
+thirty	CD
+dollars	NNS
+for	IN
+two	CD
+persons	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+fifty	CD
+dollars	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+fifty	CD
+dollars	NNS
+.	.
+
+not	RB
+farther	RB
+than	IN
+say	VB
+five	CD
+blocks	NNS
+.	.
+
+not	RB
+farther	RB
+than	IN
+say	VB
+five	CD
+blocks	NNS
+.	.
+
+not	RB
+farther	RB
+than	IN
+say	VB
+five	CD
+blocks	NNS
+.	.
+
+not	RB
+farther	RB
+than	IN
+say	VB
+five	CD
+blocks	NNS
+.	.
+
+not	RB
+farther	RB
+than	IN
+say	VB
+five	CD
+blocks	NNS
+.	.
+
+not	RB
+farther	RB
+than	IN
+say	VB
+five	CD
+blocks	NNS
+.	.
+
+not	RB
+farther	RB
+than	IN
+say	VB
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+go	VB
+farther	RB
+than	IN
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+go	VB
+farther	RB
+than	IN
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+go	VB
+farther	RB
+than	IN
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+go	VB
+farther	RB
+than	IN
+five	CD
+blocks	NNS
+.	.
+
+the	DT
+restaurant	NN
+should	MD
+be	VB
+within	IN
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+forty	CD
+dollars	NNS
+.	.
+
+is	VBZ
+there	EX
+a	DT
+restaurant	NN
+in	IN
+berkeley	NN
+.	.
+
+it	PRP
+can	MD
+be	VB
+anywhere	RB
+.	.
+
+it	PRP
+can	MD
+be	VB
+anywhere	RB
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+german	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+californian	JJ
+food	NN
+.	.
+
+is	VBZ
+one	CD
+of	IN
+these	DT
+restaurants	NNS
+within	IN
+three	CD
+blocks	NNS
+of	IN
+icksee	NN
+.	.
+
+is	VBZ
+one	CD
+of	IN
+these	DT
+restaurants	NNS
+within	IN
+three	CD
+blocks	NNS
+of	IN
+icksee	NN
+.	.
+
+is	VBZ
+one	CD
+of	IN
+these	DT
+restaurants	NNS
+within	IN
+three	CD
+blocks	NNS
+of	IN
+icksee	NN
+.	.
+
+is	VBZ
+one	CD
+of	IN
+these	DT
+restaurants	NNS
+within	IN
+three	CD
+blocks	NNS
+of	IN
+icsi	NN
+.	.
+
+is	VBZ
+one	CD
+of	IN
+these	DT
+restaurants	NNS
+within	IN
+three	CD
+blocks	NNS
+of	IN
+icsi	NN
+.	.
+
+is	VBZ
+one	CD
+of	IN
+these	DT
+restaurants	NNS
+within	IN
+three	CD
+blocks	NNS
+of	IN
+icsi	NN
+.	.
+
+which	WDT
+of	IN
+these	DT
+restaurants	NNS
+is	VBZ
+within	IN
+three	CD
+blocks	NNS
+of	IN
+icksee	NN
+.	.
+
+which	WDT
+of	IN
+these	DT
+restaurants	NNS
+is	VBZ
+within	IN
+three	CD
+blocks	NNS
+of	IN
+icsi	NN
+.	.
+
+do	VBP
+they	PRP
+serve	VB
+rib	NN
+-	HYPH
+eye	NN
+steaks	NNS
+.	.
+
+do	VBP
+they	PRP
+serve	VB
+rib	NN
+-	HYPH
+eye	NN
+steaks	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+can	MD
+eat	VB
+any	DT
+food	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+mind	VB
+about	IN
+the	DT
+type	NN
+of	IN
+food	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+mind	VB
+about	IN
+the	DT
+type	NN
+of	IN
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+less	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+is	VBZ
+there	EX
+a	DT
+restaurant	NN
+in	IN
+berkeley	NN
+where	WRB
+they	PRP
+serve	VBP
+wiener	NN
+schnitzel	NN
+.	.
+
+is	VBZ
+there	EX
+a	DT
+restaurant	NN
+in	IN
+berkeley	NN
+where	WRB
+they	PRP
+serve	VBP
+wiener	NN
+schnitzel	NN
+.	.
+
+is	VBZ
+there	EX
+a	DT
+restaurant	NN
+in	IN
+berkeley	NN
+where	WRB
+they	PRP
+serve	VBP
+wiener	NN
+schnitzel	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+japanese	NNS
+.	.
+
+is	VBZ
+there	EX
+a	DT
+japanese	JJ
+restaurant	NN
+with	IN
+beni	NN
+-	HYPH
+hama	NN
+.	.
+
+i	PRP
+will	MD
+spend	VB
+more	JJR
+than	IN
+hundred	CD
+dollars	NNS
+.	.
+
+fifty	CD
+dollars	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+more	JJR
+than	IN
+fifty	CD
+dollars	NNS
+.	.
+
+is	VBZ
+there	EX
+a	DT
+bavarian	JJ
+style	NN
+restaurant	NN
+.	.
+
+is	VBZ
+there	EX
+a	DT
+bavarian	JJ
+style	NN
+restaurant	NN
+.	.
+
+is	VBZ
+there	EX
+a	DT
+bavarian	JJ
+style	NN
+restaurant	NN
+.	.
+
+i	PRP
+like	VBP
+to	TO
+eat	VB
+french	JJ
+food	NN
+.	.
+
+i	PRP
+like	VBP
+to	TO
+eat	VB
+french	JJ
+food	NN
+.	.
+
+it	PRP
+should	MD
+be	VB
+less	JJR
+than	IN
+thirty	CD
+dollars	NNS
+.	.
+
+give	VB
+me	PRP
+more	JJR
+information	NN
+about	IN
+metropole	NN
+.	.
+
+give	VB
+me	PRP
+information	NN
+about	IN
+le	FW
+bateau	FW
+ivre	FW
+.	.
+
+give	VB
+me	PRP
+information	NN
+about	IN
+le	FW
+bateau	
