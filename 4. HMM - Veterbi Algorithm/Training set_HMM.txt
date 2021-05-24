@@ -148412,4 +148412,953 @@ of	IN
 miles	NNS
 .	.
 
-i	
+i	PRP
+have	VBP
+a	DT
+bicycle	NN
+and	CC
+i	PRP
+can	MD
+go	VB
+couple	NN
+of	IN
+miles	NNS
+.	.
+
+i	PRP
+have	VBP
+a	DT
+bicycle	NN
+and	CC
+i	PRP
+can	MD
+go	VB
+couple	NN
+of	IN
+miles	NNS
+.	.
+
+i	PRP
+have	VBP
+a	DT
+bicycle	NN
+and	CC
+i	PRP
+can	MD
+go	VB
+couple	NN
+of	IN
+miles	NNS
+.	.
+
+no	DT
+more	JJR
+than	IN
+two	CD
+miles	NNS
+.	.
+
+no	DT
+more	JJR
+than	IN
+two	CD
+miles	NNS
+.	.
+
+no	DT
+more	JJR
+than	IN
+two	CD
+miles	NNS
+.	.
+
+no	DT
+more	JJR
+than	IN
+two	CD
+miles	NNS
+.	.
+
+well	UH
+i	PRP
+said	VBD
+two	CD
+miles	NNS
+.	.
+
+well	UH
+i	PRP
+said	VBD
+two	CD
+miles	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+a	DT
+closer	JJR
+place	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+any	DT
+place	NN
+within	IN
+one	CD
+mile	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+any	DT
+place	NN
+within	IN
+one	CD
+mile	NN
+.	.
+
+what	WP
+about	IN
+a	DT
+chinese	JJ
+place	NN
+.	.
+
+what	WP
+about	IN
+a	DT
+chinese	JJ
+place	NN
+.	.
+
+i	PRP
+can	MD
+pay	VB
+something	NN
+more	JJR
+.	.
+
+i	PRP
+can	MD
+pay	VB
+up	RB
+to	TO
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+can	MD
+pay	VB
+up	RB
+to	TO
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+can	MD
+pay	VB
+up	RB
+to	TO
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+can	MD
+pay	VB
+up	RB
+to	TO
+ten	CD
+dollars	NNS
+.	.
+
+okay	UH
+i	PRP
+can	MD
+drive	VB
+.	.
+
+let	VB
+'s	PRP
+say	VB
+lunch	NN
+instead	RB
+of	IN
+breakfast	NN
+.	.
+
+let	VB
+'s	PRP
+say	VB
+lunch	NN
+instead	RB
+of	IN
+breakfast	NN
+.	.
+
+let	VB
+'s	PRP
+say	VB
+lunch	NN
+instead	RB
+of	IN
+breakfast	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+for	IN
+a	DT
+dinner	NN
+.	.
+
+uh	UH
+do	VBP
+you	PRP
+know	VB
+any	DT
+good	JJ
+thai	JJ
+place	NN
+.	.
+
+uh	UH
+do	VBP
+you	PRP
+know	VB
+any	DT
+good	JJ
+thai	JJ
+place	NN
+.	.
+
+uh	UH
+do	VBP
+you	PRP
+know	VB
+any	DT
+good	JJ
+thai	JJ
+place	NN
+.	.
+
+even	RB
+a	DT
+more	RBR
+expensive	JJ
+place	NN
+is	VBZ
+okay	JJ
+.	.
+
+do	VBP
+you	PRP
+know	VB
+any	DT
+fancy	JJ
+japanese	JJ
+restaurant	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+any	DT
+fancy	JJ
+japanese	JJ
+restaurant	NN
+.	.
+
+but	CC
+just	RB
+the	DT
+walk	NN
+distance	NN
+.	.
+
+but	CC
+just	RB
+the	DT
+walk	NN
+distance	NN
+.	.
+
+i	PRP
+can	MD
+only	RB
+walk	VB
+to	IN
+the	DT
+place	NN
+.	.
+
+i	PRP
+like	VBP
+some	DT
+good	JJ
+hamburger	NN
+.	.
+
+said	VBD
+hamburger	NN
+.	.
+
+said	VBD
+hamburger	NN
+.	.
+
+what	WP
+about	IN
+a	DT
+steak	NN
+.	.
+
+what	WP
+about	IN
+a	DT
+steak	NN
+.	.
+
+i	PRP
+like	VBP
+to	TO
+have	VB
+some	DT
+seafood	NN
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+like	VBP
+to	TO
+have	VB
+some	DT
+seafood	NN
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+like	VBP
+to	TO
+have	VB
+some	DT
+seafood	NN
+for	IN
+lunch	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+thai	DT
+restaurant	NN
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+thai	DT
+restaurant	NN
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+thai	DT
+restaurant	NN
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+thai	DT
+restaurant	NN
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+thai	DT
+restaurant	NN
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+thai	DT
+restaurant	NN
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+to	TO
+eat	VB
+today	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+to	TO
+eat	VB
+today	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+to	TO
+eat	VB
+today	NN
+.	.
+
+lunch	NN
+of	IN
+course	NN
+.	.
+
+lunch	NN
+of	IN
+course	NN
+.	.
+
+well	UH
+less	JJR
+than	IN
+uh	UH
+eight	CD
+dollars	NNS
+.	.
+
+well	UH
+less	JJR
+than	IN
+uh	UH
+eight	CD
+dollars	NNS
+.	.
+
+well	UH
+less	JJR
+than	IN
+uh	UH
+eight	CD
+dollars	NNS
+.	.
+
+less	JJR
+than	IN
+eight	CD
+dollars	NNS
+oh	UH
+.	.
+
+less	JJR
+than	IN
+eight	CD
+dollars	NNS
+oh	UH
+.	.
+
+less	JJR
+than	IN
+eight	CD
+dollars	NNS
+oh	UH
+.	.
+
+what	WP
+about	IN
+tomorrow	NN
+.	.
+
+what	WP
+about	IN
+tomorrow	NN
+.	.
+
+what	WP
+about	IN
+tomorrow	NN
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+lunch	NN
+on	IN
+friday	NN
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+lunch	NN
+on	IN
+friday	NN
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+lunch	NN
+on	IN
+friday	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+restaurants	NNS
+with	IN
+traditional	JJ
+american	JJ
+food	NN
+.	.
+
+okay	UH
+now	RB
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+greek	NN
+restaurants	NNS
+.	.
+
+okay	UH
+now	RB
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+greek	NN
+restaurants	NNS
+.	.
+
+okay	UH
+now	RB
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+greek	NN
+restaurants	NNS
+.	.
+
+what	WP
+about	IN
+for	IN
+lunch	NN
+.	.
+
+what	WP
+about	IN
+for	IN
+lunch	NN
+.	.
+
+um	UH
+any	DT
+price	NN
+.	.
+
+um	UH
+any	DT
+price	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+okay	UH
+what	WP
+chinese	VBP
+restaurants	NNS
+um	UH
+are	VBP
+there	RB
+within	IN
+five	CD
+blocks	NNS
+of	IN
+icksee	NN
+that	WDT
+cost	VBD
+more	JJR
+than	IN
+thirty	CD
+dollars	NNS
+a	DT
+meal	NN
+.	.
+
+more	JJR
+than	IN
+twenty	CD
+dollars	NNS
+.	.
+
+more	JJR
+than	IN
+twenty	CD
+dollars	NNS
+.	.
+
+less	JJR
+than	IN
+twenty	CD
+dollars	NNS
+.	.
+
+less	JJR
+than	IN
+twenty	CD
+dollars	NNS
+.	.
+
+okay	UH
+give	VB
+me	PRP
+additional	JJ
+information	NN
+about	IN
+great	JJ
+china	NN
+.	.
+
+switch	NN
+to	IN
+any	DT
+day	NN
+this	DT
+week	NN
+.	.
+
+switch	NN
+to	IN
+any	DT
+day	NN
+this	DT
+wee
