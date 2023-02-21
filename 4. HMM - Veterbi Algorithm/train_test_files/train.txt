@@ -10216,4 +10216,1032 @@ know	VB
 more	JJR
 about	IN
 shilpa	NN
-please	
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+shilpa	NN
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+shilpa	NN
+please	UH
+.	.
+
+show	VB
+me	PRP
+that	DT
+list	NN
+again	RB
+please	UH
+.	.
+
+show	VB
+me	PRP
+that	DT
+list	NN
+again	RB
+please	UH
+.	.
+
+show	VB
+me	PRP
+that	DT
+list	NN
+again	RB
+please	UH
+.	.
+
+show	VB
+me	PRP
+that	DT
+list	NN
+again	RB
+please	UH
+.	.
+
+show	VB
+me	PRP
+that	DT
+list	NN
+again	RB
+please	UH
+.	.
+
+show	VB
+me	PRP
+that	DT
+list	NN
+again	RB
+please	UH
+.	.
+
+show	VB
+me	PRP
+that	DT
+list	NN
+again	RB
+please	UH
+.	.
+
+show	VB
+me	PRP
+that	DT
+list	NN
+again	RB
+please	UH
+.	.
+
+show	VB
+me	PRP
+the	DT
+indian	JJ
+restaurant	NN
+list	NN
+again	RB
+please	UH
+.	.
+
+show	VB
+me	PRP
+the	DT
+indian	JJ
+restaurant	NN
+list	NN
+again	RB
+please	UH
+.	.
+
+show	VB
+me	PRP
+the	DT
+indian	JJ
+restaurant	NN
+list	NN
+again	RB
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+indian	JJ
+food	NN
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+indian	JJ
+food	NN
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+indian	JJ
+food	NN
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+indian	JJ
+food	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+bombay	NN
+cuisine	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+bombay	NN
+cuisine	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+bombay	NN
+cuisine	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+bombay	NN
+cuisine	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+bombay	NN
+cuisine	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+bombay	NN
+cuisine	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+bombay	NN
+cuisine	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+bombay	NN
+cuisine	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+bombay	NN
+cuisine	NN
+please	UH
+.	.
+
+what	WP
+kind	NN
+of	IN
+food	NN
+do	VBP
+they	PRP
+have	VB
+at	IN
+shin-shin	NN
+.	.
+
+what	WP
+kind	NN
+of	IN
+food	NN
+do	VBP
+they	PRP
+have	VB
+at	IN
+shin-shin	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+oriental	JJ
+food	NN
+to	TO
+go	VB
+am	VBP
+i	PRP
+screaming	VBG
+oh	UH
+no	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+oriental	JJ
+food	NN
+to	TO
+go	VB
+am	VBP
+i	PRP
+screaming	VBG
+oh	UH
+no	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+oriental	JJ
+food	NN
+to	TO
+go	VB
+am	VBP
+i	PRP
+screaming	VBG
+oh	UH
+no	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+oriental	JJ
+food	NN
+to	TO
+go	VB
+am	VBP
+i	PRP
+screaming	VBG
+oh	UH
+no	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+oriental	JJ
+food	NN
+to	TO
+go	VB
+am	VBP
+i	PRP
+screaming	VBG
+oh	UH
+no	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+oriental	JJ
+food	NN
+to	TO
+go	VB
+am	VBP
+i	PRP
+screaming	VBG
+oh	UH
+no	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+oriental	JJ
+food	NN
+to	TO
+go	VB
+am	VBP
+i	PRP
+screaming	VBG
+oh	UH
+no	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+oriental	JJ
+food	NN
+to	TO
+go	VB
+am	VBP
+i	PRP
+screaming	VBG
+oh	UH
+no	UH
+.	.
+
+go	VB
+back	RB
+to	IN
+the	DT
+chinese	JJ
+restaurant	NN
+list	NN
+please	UH
+.	.
+
+go	VB
+back	RB
+to	IN
+the	DT
+chinese	JJ
+restaurant	NN
+list	NN
+please	UH
+.	.
+
+go	VB
+back	RB
+to	IN
+the	DT
+chinese	JJ
+restaurant	NN
+list	NN
+please	UH
+.	.
+
+go	VB
+back	RB
+to	IN
+the	DT
+chinese	JJ
+restaurant	NN
+list	NN
+please	UH
+.	.
+
+what	WP
+'s	VBZ
+the	DT
+most	RBS
+expensive	JJ
+one	NN
+.	.
+
+what	WP
+'s	VBZ
+the	DT
+most	RBS
+expensive	JJ
+one	NN
+.	.
+
+what	WP
+'s	VBZ
+the	DT
+most	RBS
+expensive	JJ
+one	NN
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+this	DT
+place	NN
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+this	DT
+place	NN
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+this	DT
+place	NN
+.	.
+
+tell	VB
+me	PRP
+more	JJR
+about	IN
+this	DT
+place	NN
+.	.
+
+go	VB
+back	RB
+to	IN
+chinese	JJ
+restaurants	NNS
+please	UH
+.	.
+
+go	VB
+back	RB
+to	IN
+chinese	JJ
+restaurants	NNS
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+east	NN
+ocean	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+east	NN
+ocean	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+east	NN
+ocean	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+east	NN
+ocean	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+east	NN
+ocean	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+east	NN
+ocean	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+east	NN
+ocean	NN
+please	UH
+.	.
+
+forget	VB
+it	PRP
+.	.
+
+let	VB
+'s	PRP
+move	VB
+to	IN
+italian	JJ
+food	NN
+now	RB
+.	.
+
+are	VBP
+n't	RB
+there	EX
+any	DT
+less	RBR
+expensive	JJ
+ones	NNS
+.	.
+
+are	VBP
+n't	RB
+there	EX
+any	DT
+less	RBR
+expensive	JJ
+ones	NNS
+.	.
+
+are	VBP
+n't	RB
+there	EX
+any	DT
+less	RBR
+expensive	JJ
+ones	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+less	RBR
+expensive	JJ
+italian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+tell	VB
+me	PRP
+about	IN
+less	RBR
+expensive	JJ
+italian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+tell	VB
+me	PRP
+about	IN
+less	RBR
+expensive	JJ
+italian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+tell	VB
+me	PRP
+about	IN
+less	RBR
+expensive	JJ
+italian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+list	VBP
+other	JJ
+italian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+list	VBP
+other	JJ
+italian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+what	WP
+about	IN
+cheap	JJ
+italian	JJ
+restaurants	NNS
+.	.
+
+what	WP
+about	IN
+cheap	JJ
+italian	JJ
+restaurants	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+it	PRP
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+it	PRP
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+it	PRP
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+it	PRP
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+it	PRP
+oh	UH
+well	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+it	PRP
+oh	UH
+well	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+it	PRP
+oh	UH
+well	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+it	PRP
+oh	UH
+well	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+it	PRP
+oh	UH
+well	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+it	PRP
+oh	UH
+well	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+it	PRP
+oh	UH
+well	UH
+.	.
+
+where	WRB
+can	MD
+i	PRP
+get	VB
+a	DT
+good	JJ
+american	JJ
+breakfast	NN
+.	.
+
+where	WRB
+can	MD
+i	PRP
+get	VB
+a	DT
+good	JJ
+american	JJ
+breakfast	NN
+.	.
+
+where	WRB
+can	MD
+i	PRP
+get	VB
+a	DT
+good	JJ
+american	JJ
+breakfast	NN
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+where	WRB
+can	MD
+i	PRP
+get	VB
+an	DT
+american	JJ
+breakfast	NN
+.	.
+
+american	JJ
+food	NN
+please	UH
+.	.
+
+american	JJ
+food	NN
+please	UH
+.	.
+
+american	JJ
+food	NN
+please	UH
+.	.
+
+the	DT
+day	NN
+after	IN
+tomorrow	NN
+.	.
+
+the	DT
+day	NN
+after	IN
+tomorrow	NN
+.	.
+
+want	VBP
+to	TO
+eat	VB
+breakfast	NN
+.	.
+
+it	PRP
+has	VBZ
+to	TO
+be	VB
+a	DT
+cheap	JJ
+restaurant	NN
+.	.
+
+very	RB
+far	RB
+away	RB
+.	.
+
+very	RB
+far	RB
+away	RB
+.	.
+
+as	RB
+far	RB
+as	IN
+you	PRP
+want	VBP
+.	.
+
+not	RB
+too	RB
+far	RB
+.	.
+
+not	RB
+too	RB
+far	RB
+.	.
+
+not	RB
+too	RB
+far	RB
+.	.
+
+not	RB
+too	RB
+far	RB
+.	.
+
+give	VB
+me	PRP
+more	JJR
+information	NN
+about	IN
+cafe	NN
+durant	NN
+.	.
+
+give	VB
+me	PRP
+more	JJR
+information	NN
+about	IN
+cafe	NN
+durant	NN
+.	.
+
+thanks	NNS
+go	VBP
+back	RB
+to	IN
+the	DT
+original	JJ
+list	NN
+.	.
+
+thanks	NNS
+go	VBP
+back	RB
+to	IN
+the	DT
+original	JJ
+list	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+soup	NN
+kitchen	NN
+heike	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
