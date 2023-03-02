@@ -14272,3 +14272,971 @@ to	TO
 eat	VB
 lunch	NN
 .	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+i	PRP
+have	VBP
+a	DT
+car	NN
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+i	PRP
+have	VBP
+a	DT
+car	NN
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+i	PRP
+do	VBP
+n't	RB
+care	VB
+how	WRB
+far	RB
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+i	PRP
+do	VBP
+n't	RB
+care	VB
+how	WRB
+far	RB
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+i	PRP
+do	VBP
+n't	RB
+care	VB
+how	WRB
+far	RB
+.	.
+
+do	VBP
+you	PRP
+have	VB
+chez	NN
+-	HYPH
+panisse	NN
+in	IN
+your	PRP$
+database	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+chez	NN
+-	HYPH
+panisse	NN
+in	IN
+your	PRP$
+database	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+chez	NN
+-	HYPH
+panisse	NN
+in	IN
+your	PRP$
+database	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+chez	NN
+-	HYPH
+panisse	NN
+in	IN
+your	PRP$
+database	NN
+.	.
+
+what	WP
+about	IN
+chez	NN
+-	HYPH
+panisse	NN
+cafe	NN
+.	.
+
+what	WP
+about	IN
+chez	NN
+-	HYPH
+panisse	NN
+cafe	NN
+.	.
+
+what	WP
+about	IN
+chez	NN
+-	HYPH
+panisse	NN
+cafe	NN
+.	.
+
+what	WP
+about	IN
+chez	NN
+-	HYPH
+panisse	NN
+cafe	NN
+.	.
+
+go	VB
+back	RB
+to	IN
+the	DT
+list	NN
+.	.
+
+go	VB
+back	RB
+to	IN
+the	DT
+list	NN
+.	.
+
+how	WRB
+about	IN
+something	NN
+a	DT
+little	JJ
+cheaper	JJR
+.	.
+
+how	WRB
+about	IN
+something	NN
+a	DT
+little	JJ
+cheaper	JJR
+.	.
+
+how	WRB
+about	IN
+something	NN
+a	DT
+little	JJ
+cheaper	JJR
+.	.
+
+how	WRB
+about	IN
+something	NN
+a	DT
+little	JJ
+cheaper	JJR
+.	.
+
+how	WRB
+about	IN
+something	NN
+a	DT
+little	JJ
+cheaper	JJR
+.	.
+
+how	WRB
+about	IN
+something	NN
+a	DT
+little	JJ
+cheaper	JJR
+.	.
+
+how	WRB
+about	IN
+something	NN
+a	DT
+little	JJ
+cheaper	JJR
+.	.
+
+how	WRB
+about	IN
+something	NN
+a	DT
+little	JJ
+cheaper	JJR
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+not	RB
+as	RB
+expensive	JJ
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+not	RB
+as	RB
+expensive	JJ
+.	.
+
+what	WP
+about	IN
+a	DT
+medium	JJ
+range	NN
+expensive	JJ
+restaurant	NN
+.	.
+
+what	WP
+about	IN
+a	DT
+medium	JJ
+range	NN
+expensive	JJ
+restaurant	NN
+.	.
+
+what	WP
+about	IN
+a	DT
+medium	JJ
+range	NN
+expensive	JJ
+restaurant	NN
+.	.
+
+what	WP
+about	IN
+a	DT
+medium	JJ
+range	NN
+expensive	JJ
+restaurant	NN
+.	.
+
+what	WP
+about	IN
+a	DT
+medium	JJ
+range	NN
+expensive	JJ
+restaurant	NN
+.	.
+
+what	WP
+about	IN
+a	DT
+medium	JJ
+range	NN
+expensive	JJ
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+something	NN
+with	IN
+two	CD
+dollar	NN
+signs	NNS
+.	.
+
+i	PRP
+want	VBP
+something	NN
+with	IN
+two	CD
+dollar	NN
+signs	NNS
+.	.
+
+i	PRP
+want	VBP
+something	NN
+with	IN
+two	CD
+dollar	NN
+signs	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+pay	VB
+more	JJR
+than	IN
+fifteen	CD
+dollars	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+again	RB
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+thai	JJ
+restaurant	NN
+that	WDT
+'s	VBZ
+real	RB
+close	JJ
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+thai	JJ
+restaurant	NN
+that	WDT
+'s	VBZ
+real	RB
+close	JJ
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+out	RP
+right	RB
+now	RB
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+out	RP
+right	RB
+now	RB
+for	IN
+lunch	NN
+.	.
+
+real	JJ
+cheap	JJ
+like	UH
+three	CD
+to	TO
+four	CD
+dollars	NNS
+.	.
+
+real	JJ
+cheap	JJ
+like	UH
+three	CD
+to	TO
+four	CD
+dollars	NNS
+.	.
+
+real	JJ
+cheap	JJ
+like	UH
+three	CD
+to	TO
+four	CD
+dollars	NNS
+.	.
+
+real	JJ
+cheap	JJ
+like	UH
+three	CD
+to	TO
+four	CD
+dollars	NNS
+.	.
+
+it	PRP
+should	MD
+be	VB
+very	RB
+close	JJ
+.	.
+
+okay	UH
+howbout	NN
+something	NN
+about	IN
+ten	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+okay	UH
+howbout	NN
+something	NN
+about	IN
+ten	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+okay	UH
+howbout	NN
+something	NN
+about	IN
+ten	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+okay	UH
+howbout	NN
+something	NN
+about	IN
+ten	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+okay	UH
+howbout	NN
+something	NN
+about	IN
+ten	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+okay	UH
+howbout	NN
+something	NN
+about	IN
+ten	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+okay	UH
+howbout	NN
+something	NN
+about	IN
+ten	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+okay	UH
+it	PRP
+can	MD
+be	VB
+quite	RB
+far	RB
+from	IN
+icksee	PRP
+.	.
+
+okay	UH
+it	PRP
+can	MD
+be	VB
+quite	RB
+far	RB
+from	IN
+icksee	PRP
+.	.
+
+okay	UH
+it	PRP
+can	MD
+be	VB
+quite	RB
+far	RB
+from	IN
+icksee	PRP
+.	.
+
+thursday	NN
+lunch	NN
+please	UH
+.	.
+
+thursday	NN
+lunch	NN
+please	UH
+.	.
+
+thursday	NN
+lunch	NN
+please	UH
+.	.
+
+thursday	NN
+lunch	NN
+please	UH
+.	.
+
+i	PRP
+can	MD
+spend	VB
+up	RP
+to	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+can	MD
+spend	VB
+up	RP
+to	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+can	MD
+spend	VB
+up	RP
+to	IN
+ten	CD
+dollars	NNS
+.	.
+
+how	WRB
+about	IN
+plearn	NN
+.	.
+
+how	WRB
+about	IN
+plearn	NN
+.	.
+
+how	WRB
+about	IN
+plearn	NN
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+an	DT
+italian	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+an	DT
+italian	JJ
+restaurant	NN
+.	.
+
+tonight	NN
+thursday	NN
+.	.
+
+tonight	NN
+thursday	NN
+.	.
+
+uh	UH
+uh	UH
+okay	UH
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+dinner	NN
+thursday	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+dinner	NN
+thursday	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+dinner	NN
+thursday	NN
+.	.
+
+a	DT
+moderately	RB
+priced	VBN
+meal	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+fairly	RB
+cheap	JJ
+italian	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+fairly	RB
+cheap	JJ
+italian	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+an	DT
+italian	JJ
+restaurant	NN
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+is	VBZ
+good	JJ
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+is	VBZ
+good	JJ
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+is	VBZ
+good	JJ
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+is	VBZ
+good	JJ
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+more	JJR
+than	IN
+five	CD
+minutes	NNS
+from	IN
+berkeley	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+more	JJR
+than	IN
+five	CD
+minutes	NNS
+from	IN
+berkeley	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+more	JJR
+than	IN
+five	CD
+minutes	NNS
+from	IN
+berkeley	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+something	NN
+more	JJR
+than	IN
+five	CD
+minutes	NNS
+from	IN
+berkeley	NN
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+for	IN
+dinner	NN
+thursday	NN
+is	VBZ
+good	JJ
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+for	IN
+dinner	NN
+thursday	NN
+is	VBZ
+good	JJ
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+for	IN
+dinner	NN
+thursday	NN
+is	VBZ
+good	JJ
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+for	IN
+dinner	NN
+thursday	NN
+is	VBZ
+good	JJ
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+for	IN
+dinner	NN
+thursday	NN
+is	VBZ
+good	JJ
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+for	IN
+dinner	NN
+thursday	NN
+is	VBZ
+good	JJ
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+for	IN
+dinner	NN
+thursday	NN
+is	VBZ
+good	JJ
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+for	IN
+dinner	NN
+thursday	NN
+is	VBZ
+good	JJ
+.	.
+
+dinner	NN
+thursday	NN
+anywhere	RB
+.	.
+
+dinner	NN
+thursday	NN
+anywhere	RB
+.	.
+
+dinner	NN
+thursday	NN
+anywhere	RB
+.	.
+
+dinner	NN
+thursday	NN
+anywhere	RB
+.	.
+
+a	DT
+moderately	RB
+priced	VBN
+meal	NN
+.	.
+
+anywhere	RB
+in	IN
+driving	VBG
+distance	NN
+.	.
+
+anywhere	RB
+in	IN
+driving	VBG
+distance	NN
+.	.
+
+anywhere	RB
+in	IN
+driving	VBG
+distance	NN
+.	.
+
+anywhere	RB
+in	IN
+driving	VBG
+distance	NN
+.	.
+
+anywhere	RB
+in	IN
+driving	VBG
+distance	NN
+.	.
+
+is	VBZ
+there	EX
+an	DT
+italian	JJ
+restaurant	NN
+under	IN
+fifteen	CD
+dollars	NNS
+.	.
+
+what	WP
+about	IN
+under	IN
+fifteen	CD
+dollars	NNS
+.	.
+
+what	WP
+about	IN
+under	IN
+fifteen	CD
+dollars	NNS
+.	.
+
+what	WP
+about	IN
+under	IN
+fifteen	CD
+dollars	NNS
+.	.
+
+what	WP
+about	IN
+under	IN
+fifteen	CD
+dollars	NNS
+.	.
+
+are	VBP
+there	EX
+any	DT
+late	JJ
+night	NN
+places	NNS
+.	.
+
+are	VBP
+there	EX
+any	DT
+late	JJ
+night	NN
+places	NNS
+.	.
+
+are	VBP
+there	EX
+any	DT
+late	JJ
+night	NN
+pla
