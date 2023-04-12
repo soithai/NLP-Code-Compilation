@@ -29389,3 +29389,978 @@ restaurant	NN
 .	.
 
 great	JJ
+wall	NN
+restaurant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+thursday	NN
+or	CC
+friday	NN
+or	CC
+saturday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+thursday	NN
+or	CC
+friday	NN
+or	CC
+saturday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+thursday	NN
+or	CC
+friday	NN
+or	CC
+saturday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+thursday	NN
+or	CC
+friday	NN
+or	CC
+saturday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+thursday	NN
+or	CC
+friday	NN
+or	CC
+saturday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+thursday	NN
+or	CC
+friday	NN
+or	CC
+saturday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+thursday	NN
+or	CC
+friday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+thursday	NN
+or	CC
+friday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+thursday	NN
+or	CC
+friday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+thursday	NN
+or	CC
+friday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+friday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+on	IN
+friday	NN
+.	.
+
+uh	UH
+please	UH
+recommend	VB
+uh	UH
+some	DT
+desserts	NNS
+in	IN
+the	DT
+restaurant	NN
+metropole	NN
+.	.
+
+uh	UH
+please	UH
+recommend	VB
+uh	UH
+some	DT
+desserts	NNS
+in	IN
+the	DT
+restaurant	NN
+metropole	NN
+.	.
+
+show	VB
+me	PRP
+german	JJ
+restaurants	NNS
+.	.
+
+show	VB
+me	PRP
+german	JJ
+restaurants	NNS
+.	.
+
+show	VB
+me	PRP
+please	UH
+german	VB
+restaurants	NNS
+near	RB
+to	IN
+the	DT
+icsi	NN
+in	IN
+five	CD
+minutes	NNS
+.	.
+
+show	VB
+me	PRP
+please	UH
+german	VB
+restaurants	NNS
+near	RB
+to	IN
+the	DT
+icsi	NN
+in	IN
+five	CD
+minutes	NNS
+.	.
+
+show	VB
+me	PRP
+please	UH
+german	VB
+restaurants	NNS
+near	RB
+to	IN
+the	DT
+icsi	NN
+in	IN
+five	CD
+minutes	NNS
+.	.
+
+show	VB
+me	PRP
+please	UH
+german	VB
+restaurants	NNS
+near	RB
+to	IN
+the	DT
+icsi	NN
+in	IN
+five	CD
+minutes	NNS
+.	.
+
+show	VB
+me	PRP
+please	UH
+german	VB
+restaurants	NNS
+near	RB
+to	IN
+the	DT
+icsi	NN
+in	IN
+five	CD
+minutes	NNS
+.	.
+
+show	VB
+me	PRP
+please	UH
+german	VB
+restaurants	NNS
+near	RB
+to	IN
+the	DT
+icsi	NN
+in	IN
+five	CD
+minutes	NNS
+.	.
+
+show	VB
+me	PRP
+please	UH
+german	VB
+restaurants	NNS
+near	RB
+to	IN
+the	DT
+icsi	NN
+in	IN
+five	CD
+minutes	NNS
+.	.
+
+german	NN
+.	.
+
+today	NN
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+dinner	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+dinner	NN
+.	.
+
+recommend	VB
+german	JJ
+restaurants	NNS
+.	.
+
+between	IN
+six	CD
+to	TO
+twelve	CD
+dollars	NNS
+.	.
+
+between	IN
+six	CD
+to	TO
+twelve	CD
+dollars	NNS
+.	.
+
+between	IN
+six	CD
+to	TO
+twelve	CD
+dollars	NNS
+.	.
+
+between	IN
+six	CD
+to	TO
+twelve	CD
+dollars	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+german	NN
+food	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+german	NN
+food	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+german	NN
+food	NN
+.	.
+
+between	IN
+six	CD
+to	TO
+twelve	CD
+dollars	NNS
+.	.
+
+between	IN
+six	CD
+to	TO
+twelve	CD
+dollars	NNS
+.	.
+
+between	IN
+six	CD
+to	TO
+twelve	CD
+dollars	NNS
+.	.
+
+between	IN
+six	CD
+to	TO
+twelve	CD
+dollars	NNS
+.	.
+
+please	UH
+show	VB
+german	JJ
+restaurants	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+spend	VB
+between	IN
+six	CD
+to	TO
+twelve	CD
+dollars	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+spend	VB
+between	IN
+six	CD
+to	TO
+twelve	CD
+dollars	NNS
+.	.
+
+today	NN
+.	.
+
+i	PRP
+will	MD
+travel	VB
+for	IN
+ten	CD
+minutes	NNS
+.	.
+
+today	NN
+.	.
+
+show	VB
+me	PRP
+german	JJ
+restaurants	NNS
+.	.
+
+show	VB
+me	PRP
+german	JJ
+restaurants	NNS
+.	.
+
+ten	CD
+dollars	NNS
+.	.
+
+german	NN
+restaurants	NNS
+.	.
+
+german	NN
+restaurants	NNS
+.	.
+
+german	NN
+restaurants	NNS
+.	.
+
+ten	CD
+minutes	NNS
+.	.
+
+ten	CD
+minutes	NNS
+.	.
+
+show	VB
+me	PRP
+german	JJ
+restaurants	NNS
+.	.
+
+show	VB
+me	PRP
+german	JJ
+restaurants	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+jupiter's	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+jupiter's	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+jupiter's	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+jupiter's	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+jupiter's	NNS
+.	.
+
+german	JJ
+food	NN
+please	UH
+.	.
+
+german	JJ
+food	NN
+please	UH
+.	.
+
+german	JJ
+food	NN
+please	UH
+.	.
+
+show	VB
+me	PRP
+other	JJ
+italian	JJ
+restaurants	NNS
+within	IN
+twenty	CD
+minutes	NNS
+from	IN
+the	DT
+icsi	NN
+.	.
+
+show	VB
+me	PRP
+other	JJ
+italian	JJ
+restaurants	NNS
+within	IN
+twenty	CD
+minutes	NNS
+from	IN
+the	DT
+icsi	NN
+.	.
+
+show	VB
+me	PRP
+other	JJ
+italian	JJ
+restaurants	NNS
+within	IN
+twenty	CD
+minutes	NNS
+from	IN
+the	DT
+icsi	NN
+.	.
+
+show	VB
+me	PRP
+other	JJ
+italian	JJ
+restaurants	NNS
+within	IN
+twenty	CD
+minutes	NNS
+from	IN
+the	DT
+icsi	NN
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+having	VBG
+dinner	NN
+on	IN
+friday	NN
+.	.
+
+i	PRP
+'m	VBP
+interested	JJ
+in	IN
+having	VBG
+dinner	NN
+on	IN
+friday	NN
+.	.
+
+change	VB
+the	DT
+cost	NN
+to	IN
+twenty	CD
+dollars	NNS
+.	.
+
+change	VB
+the	DT
+cost	NN
+to	IN
+twenty	CD
+dollars	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+ristorante	NN
+venezia	NN
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+ristorante	NN
+venezia	NN
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+ristorante	NN
+venezia	NN
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+ristorante	NN
+venezia	NN
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+ristorante	NN
+venezia	NN
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+ristorante	NN
+venezia	NN
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+ristorante	NN
+venezia	NN
+.	.
+
+show	VB
+the	DT
+list	NN
+of	IN
+the	DT
+restaurants	NNS
+please	UH
+.	.
+
+list	NN
+of	IN
+restaurants	NNS
+please	UH
+.	.
+
+list	NN
+of	IN
+restaurants	NNS
+please	UH
+.	.
+
+give	VB
+me	PRP
+more	JJR
+information	NN
+about	IN
+caffe	NN
+giovanni	NN
+.	.
+
+give	VB
+me	PRP
+more	JJR
+information	NN
+about	IN
+caffe	NN
+giovanni	NN
+.	.
+
+show	VBP
+italian	JJ
+restaurants	NNS
+.	.
+
+please	UH
+show	VB
+italian	JJ
+foods	NNS
+.	.
+
+show	VB
+me	PRP
+caffe	NN
+giovanni	NN
+.	.
+
+show	VB
+me	PRP
+caffe	NN
+giovanni	NN
+.	.
+
+show	VB
+me	PRP
+caffe	NN
+giovanni	NN
+.	.
+
+show	VBP
+caffe	NN
+giovanni	NN
+.	.
+
+show	VBP
+caffe	NN
+giovanni	NN
+.	.
+
+show	VBP
+caffe	NN
+giovanni	NN
+.	.
+
+show	VBP
+caffe	NN
+giovanni	NN
+.	.
+
+uh	UH
+i	PRP
+want	VBP
+to	TO
+find	VB
+out	RP
+about	IN
+taiwan	JJ
+restaurant	NN
+.	.
+
+uh	UH
+i	PRP
+want	VBP
+to	TO
+find	VB
+out	RP
+about	IN
+taiwan	JJ
+restaurant	NN
+.	.
+
+uh	UH
+let	VB
+'s	PRP
+find	VB
+out	RP
+more	JJR
+about	IN
+some	DT
+italian	JJ
+restaurants	NNS
+.	.
+
+uh	UH
+let	VB
+'s	PRP
+find	VB
+out	RP
+more	JJR
+about	IN
+some	DT
+italian	JJ
+restaurants	NNS
+.	.
+
+uh	UH
+let	VB
+'s	PRP
+find	VB
+out	RP
+more	JJR
+about	IN
+some	DT
+italian	JJ
+restaurants	NNS
+.	.
+
+uh	UH
+let	VB
+'s	PRP
+find	VB
+out	RP
+more	JJR
+about	IN
+some	DT
+italian	JJ
+restaurants	NNS
+.	.
+
+uh	UH
+let	VB
+'s	PRP
+find	VB
+out	RP
+more	JJR
+about	IN
+some	DT
+italian	JJ
+restaurants	NNS
+.	.
+
+um	UH
+do	VBP
+you	PRP
+have	VB
+any	DT
+information	NN
+about	IN
+any	DT
+italian	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+italian	JJ
+restaurant	NN
+.	.
+
+how	WRB
+about	IN
+saturday	NN
+.	.
+
+how	WRB
+about	IN
+saturday	NN
+.	.
+
+how	WRB
+about	IN
+saturday	NN
+.	.
+
+i	PRP
+insist	VBP
+on	IN
+a	DT
+saturday	NN
+.	.
+
+i	PRP
+would	MD
+prefer	VB
+to	TO
+eat	VB
+on	IN
+a	DT
+saturday	NN
+.	.
+
+i	PRP
+would	MD
+prefer	VB
+to	TO
+eat	VB
+on	IN
+a	DT
+saturday	NN
+.	.
+
+in	IN
+that	DT
+case	NN
+i	PRP
+eat	VBP
+on	IN
+a	DT
+sunday	NN
+.	.
+
+in	IN
+that	DT
+case	NN
+i	PRP
+eat	VBP
+on	IN
+a	DT
+sunday	NN
+.	.
+
+in	IN
+that	DT
+case	NN
+i	PRP
+eat	VBP
+on	IN
+a	DT
+sunday	NN
+.	.
+
+um	UH
+i	PRP
+like	VBP
+to	TO
+have	VB
+dinner	NN
+.	.
+
+preferably	RB
+less	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+preferably	RB
+less	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+preferably	RB
+less	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+preferably	
