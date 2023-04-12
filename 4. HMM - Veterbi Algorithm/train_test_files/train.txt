@@ -24308,4 +24308,1006 @@ would	MD
 like	VB
 to	TO
 go	VB
-somewhe
+somewhere	RB
+formal	JJ
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+somewhere	RB
+formal	JJ
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+spanish	JJ
+food	NN
+.	.
+
+somewhere	RB
+with	IN
+good	JJ
+italian	JJ
+food	NN
+.	.
+
+somewhere	RB
+with	IN
+good	JJ
+italian	JJ
+food	NN
+.	.
+
+i	PRP
+could	MD
+travel	VB
+anywhere	RB
+in	IN
+berkeley	NN
+.	.
+
+i	PRP
+could	MD
+travel	VB
+anywhere	RB
+in	IN
+berkeley	NN
+.	.
+
+maybe	RB
+i	PRP
+would	MD
+like	VB
+an	DT
+expensive	JJ
+italian	JJ
+meal	NN
+.	.
+
+i	PRP
+have	VBP
+decided	VBN
+to	TO
+go	VB
+out	RP
+saturday	NN
+evening	NN
+.	.
+
+i	PRP
+have	VBP
+decided	VBN
+to	TO
+go	VB
+out	RP
+saturday	NN
+evening	NN
+.	.
+
+is	VBZ
+the	DT
+restaurant	NN
+open	JJ
+for	IN
+lunch	NN
+.	.
+
+is	VBZ
+the	DT
+restaurant	NN
+open	JJ
+for	IN
+lunch	NN
+.	.
+
+is	VBZ
+the	DT
+restaurant	NN
+open	JJ
+for	IN
+lunch	NN
+.	.
+
+is	VBZ
+the	DT
+restaurant	NN
+open	JJ
+for	IN
+lunch	NN
+.	.
+
+is	VBZ
+the	DT
+restaurant	NN
+open	JJ
+for	IN
+lunch	NN
+.	.
+
+please	UH
+give	VB
+me	PRP
+more	JJR
+information	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+know	VB
+more	JJR
+about	IN
+the	DT
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+know	VB
+more	JJR
+about	IN
+the	DT
+restaurant	NN
+.	.
+
+give	VB
+me	PRP
+additional	JJ
+information	NN
+about	IN
+ristorante	NN
+venezia	NN
+.	.
+
+give	VB
+me	PRP
+additional	JJ
+information	NN
+about	IN
+ristorante	NN
+venezia	NN
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+please	UH
+would	MD
+you	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+would	MD
+like	VB
+some	DT
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+now	RB
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+now	RB
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+monday	NNP
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+monday	NNP
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+breakfast	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+a	DT
+hamburger	NN
+for	IN
+breakfast	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+a	DT
+hamburger	NN
+for	IN
+breakfast	NN
+.	.
+
+where	WRB
+is	VBZ
+mcdonald's	NNS
+.	.
+
+where	WRB
+is	VBZ
+mcdonald's	NNS
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+what	WP
+if	IN
+i	PRP
+wanted	VBD
+a	DT
+hamburger	NN
+instead	RB
+.	.
+
+what	WP
+if	IN
+i	PRP
+wanted	VBD
+a	DT
+hamburger	NN
+instead	RB
+.	.
+
+what	WP
+if	IN
+i	PRP
+wanted	VBD
+a	DT
+hamburger	NN
+instead	RB
+.	.
+
+where	WRB
+is	VBZ
+mcdonald's	NNS
+.	.
+
+where	WRB
+is	VBZ
+mcdonald's	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+there	RB
+every	DT
+day	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+there	RB
+today	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+somewhere	RB
+very	RB
+expensive	JJ
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+somewhere	RB
+very	RB
+expensive	JJ
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+somewhere	RB
+very	RB
+expensive	JJ
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+somewhere	RB
+a	DT
+long	JJ
+way	NN
+from	IN
+icsi	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+somewhere	RB
+a	DT
+long	JJ
+way	NN
+from	IN
+icsi	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+somewhere	RB
+a	DT
+long	JJ
+way	NN
+from	IN
+icsi	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+somewhere	RB
+a	DT
+long	JJ
+way	NN
+from	IN
+icsi	NN
+.	.
+
+two	CD
+miles	NNS
+.	.
+
+i	PRP
+would	MD
+prefer	VB
+mexican	JJ
+food	NN
+.	.
+
+hello	UH
+uh	UH
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+lunch	NN
+today	NN
+.	.
+
+hello	UH
+uh	UH
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+lunch	NN
+today	NN
+.	.
+
+hello	UH
+uh	UH
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+uh	UH
+lunch	NN
+today	NN
+.	.
+
+something	NN
+reasonably	RB
+fast	RB
+i	PRP
+need	VBP
+to	TO
+be	VB
+back	RB
+to	IN
+the	DT
+lab	NN
+soon	RB
+.	.
+
+something	NN
+reasonably	RB
+fast	RB
+i	PRP
+need	VBP
+to	TO
+be	VB
+back	RB
+to	IN
+the	DT
+lab	NN
+soon	RB
+.	.
+
+something	NN
+reasonably	RB
+fast	RB
+i	PRP
+need	VBP
+to	TO
+be	VB
+back	RB
+to	IN
+the	DT
+lab	NN
+soon	RB
+.	.
+
+something	NN
+reasonably	RB
+fast	RB
+i	PRP
+need	VBP
+to	TO
+be	VB
+back	RB
+to	IN
+the	DT
+lab	NN
+soon	RB
+.	.
+
+how	WRB
+about	IN
+something	NN
+close	JJ
+to	IN
+shattuck	NN
+and	CC
+university	NN
+.	.
+
+how	WRB
+about	IN
+something	NN
+close	JJ
+to	IN
+shattuck	NN
+and	CC
+university	NN
+.	.
+
+how	WRB
+about	IN
+something	NN
+close	JJ
+to	IN
+shattuck	NN
+and	CC
+university	NN
+.	.
+
+how	WRB
+about	IN
+something	NN
+close	JJ
+to	IN
+shattuck	NN
+and	CC
+university	NN
+.	.
+
+i	PRP
+think	VBP
+i	PRP
+'m	VBP
+in	IN
+the	DT
+mood	NN
+for	IN
+some	DT
+thai	JJ
+food	NN
+.	.
+
+i	PRP
+think	VBP
+i	PRP
+'m	VBP
+in	IN
+the	DT
+mood	NN
+for	IN
+some	DT
+thai	JJ
+food	NN
+.	.
+
+i	PRP
+think	VBP
+i	PRP
+'m	VBP
+in	IN
+the	DT
+mood	NN
+for	IN
+some	DT
+thai	JJ
+food	NN
+.	.
+
+money	NN
+is	VBZ
+no	DT
+object	NN
+uh	UH
+anything	NN
+under	IN
+twenty	CD
+dollars	NNS
+.	.
+
+money	NN
+is	VBZ
+no	DT
+object	NN
+uh	UH
+anything	NN
+under	IN
+twenty	CD
+dollars	NNS
+.	.
+
+money	NN
+is	VBZ
+no	DT
+object	NN
+uh	UH
+anything	NN
+under	IN
+twenty	CD
+dollars	NNS
+.	.
+
+money	NN
+is	VBZ
+no	DT
+object	NN
+uh	UH
+anything	NN
+under	IN
+twenty	CD
+dollars	NNS
+.	.
+
+money	NN
+is	VBZ
+no	DT
+object	NN
+uh	UH
+anything	NN
+under	IN
+twenty	CD
+dollars	NNS
+.	.
+
+money	NN
+is	VBZ
+no	DT
+object	NN
+uh	UH
+anything	NN
+under	IN
+twenty	CD
+dollars	NNS
+.	.
+
+i	PRP
+have	VBP
+my	PRP$
+bicycle	NN
+here	RB
+uh	UH
+so	RB
+i	PRP
+guess	VBP
+it	PRP
+would	MD
+be	VB
+best	JJS
+uh	UH
+for	IN
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+have	VBP
+my	PRP$
+bicycle	NN
+here	RB
+uh	UH
+so	RB
+i	PRP
+guess	VBP
+it	PRP
+would	MD
+be	VB
+best	JJS
+uh	UH
+for	IN
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+have	VBP
+my	PRP$
+bicycle	NN
+here	RB
+uh	UH
+so	RB
+i	PRP
+guess	VBP
+it	PRP
+would	MD
+be	VB
+best	JJS
+uh	UH
+for	IN
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+have	VBP
+my	PRP$
+bicycle	NN
+here	RB
+uh	UH
+so	RB
+i	PRP
+guess	VBP
+it	PRP
+would	MD
+be	VB
+best	JJS
+uh	UH
+for	IN
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+have	VBP
+my	PRP$
+bicycle	NN
+here	RB
+uh	UH
+so	RB
+i	PRP
+guess	VBP
+it	PRP
+would	MD
+be	VB
+best	JJS
+uh	UH
+for	IN
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+have	VBP
+my	PRP$
+bicycle	NN
+here	RB
+uh	UH
+so	RB
+i	PRP
+guess	VBP
+it	PRP
+would	MD
+be	VB
+best	JJS
+uh	UH
+for	IN
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+have	VBP
+my	PRP$
+bicycle	NN
+here	RB
+uh	UH
+so	RB
+i	PRP
+guess	VBP
+it	PRP
+would	MD
+be	VB
+best	JJS
+uh	UH
+for	IN
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+have	VBP
+my	PRP$
+bicycle	NN
+here	RB
+uh	UH
+so	RB
+i	PRP
+guess	VBP
+it	PRP
+would	MD
+be	VB
+best	JJS
+uh	UH
+for	IN
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+have	VBP
+my	PRP$
+bicycle	NN
+here	RB
+uh	UH
+so	RB
+i	PRP
+guess	VBP
+it	PRP
+would	MD
+be	VB
+best	JJS
+uh	UH
+for	IN
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+i	PRP
+have	VBP
+my	PRP$
+bicycle	NN
+here	RB
+uh	UH
+so	RB
+i	PRP
+guess	VBP
+it	PRP
+would	MD
+be	VB
+best	JJS
+uh	UH
+for	IN
+about	RB
+five	CD
+blocks	NNS
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+i	PRP
+want	VBP
+some	DT
+pizza	NN
+.	.
+
+uh	UH
+i	PRP
+'m	VBP
+kind	RB
+of	RB
+hungry	JJ
+now	RB
+so	RB
+howbout	RB
+today	NN
+.	.
+
+uh	UH
+i	PRP
+'m	VBP
+kind	RB
+of	RB
+hungry	JJ
+now	RB
+so	RB
+howbout	RB
+today	NN
+.	.
+
+uh	UH
+i	PRP
+'m	VBP
+kind	RB
+of	RB
+hungry	JJ
+now	RB
+so	RB
+howbout	RB
+today	NN
+.	.
+
+uh	UH
+i	PRP
+'m	VBP
+kind	RB
+of	RB
+hungry	JJ
+now	RB
+so	RB
+howbout	RB
+today	NN
+.	.
+
+uh	UH
+i	PRP
+'m	VBP
+kind	RB
+of	RB
+hungry	JJ
+now	RB
+so	RB
+howbout	RB
+today	NN
+.	.
+
+ten	CD
+dollars	NNS
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+.	.
+
+anywhere	RB
+in	IN
+berkeley	NN
+.	.
+
+show	VB
+me	PRP
+la	NN
+-	HYPH
+val's	NNS
+.	.
+
+how	WRB
+about	IN
+the	DT
+la	NN
+-	HYPH
+val	NN
+'s	POS
+on	IN
+euclid	NN
+.	.
+
+how	WRB
+about	IN
+the	DT
+la	NN
+-	HYPH
+val	NN
+'s	POS
+on	IN
+euclid	NN
+.	.
+
+how	WRB
+about	IN
+the	DT
+la	NN
+-	HYPH
+val	NN
+'s	POS
+on	IN
+euclid	NN
+.	.
+
+how	WRB
+about	IN
+the	DT
+la	NN
+-	HYPH
+val	NN
+'s	POS
+on	IN
