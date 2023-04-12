@@ -23249,4 +23249,1063 @@ up	RP
 to	IN
 ten	CD
 miles	NNS
-.
+.	.
+
+up	RP
+to	IN
+ten	CD
+miles	NNS
+.	.
+
+how	WRB
+late	RB
+do	VBP
+they	PRP
+serve	VB
+.	.
+
+are	VBP
+they	PRP
+open	JJ
+on	IN
+sunday	NN
+.	.
+
+are	VBP
+they	PRP
+open	JJ
+on	IN
+sunday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+brit	NN
+-	HYPH
+marie's	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+brit	NN
+-	HYPH
+marie's	NNS
+.	.
+
+the	DT
+blue	JJ
+nile	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+late	JJ
+night	NN
+restaurant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+late	JJ
+night	NN
+restaurant	NN
+.	.
+
+previous	JJ
+screen	NN
+please	UH
+.	.
+
+previous	JJ
+screen	NN
+please	UH
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+do	VBP
+you	PRP
+have	VB
+restaurant	NN
+boran	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+restaurant	NN
+boran	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+restaurant	NN
+boran	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+see	VB
+the	DT
+previous	JJ
+list	NN
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+see	VB
+the	DT
+previous	JJ
+list	NN
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+see	VB
+the	DT
+previous	JJ
+list	NN
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+see	VB
+the	DT
+previous	JJ
+list	NN
+please	UH
+.	.
+
+chez	NN
+-	HYPH
+panisse	NN
+.	.
+
+chez	NN
+-	HYPH
+panisse	NN
+.	.
+
+chez	NN
+-	HYPH
+panisse	NN
+.	.
+
+chez	NN
+-	HYPH
+panisse	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+cafe	NN
+bistro	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+cafe	NN
+bistro	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+about	IN
+cafe	NN
+bistro	NNS
+.	.
+
+is	VBZ
+that	DT
+upstairs	RB
+or	CC
+downstairs	RB
+.	.
+
+is	VBZ
+that	DT
+upstairs	RB
+or	CC
+downstairs	RB
+.	.
+
+is	VBZ
+that	DT
+upstairs	RB
+or	CC
+downstairs	RB
+.	.
+
+is	VBZ
+that	DT
+upstairs	RB
+or	CC
+downstairs	RB
+.	.
+
+is	VBZ
+that	DT
+upstairs	RB
+or	CC
+downstairs	RB
+.	.
+
+is	VBZ
+that	DT
+upstairs	RB
+or	CC
+downstairs	RB
+.	.
+
+cafe	NN
+bistro	NN
+.	.
+
+cafe	NN
+bistro	NN
+.	.
+
+cafe	NN
+bistro	NN
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+siam	NN
+cuisine	NN
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+siam	NN
+cuisine	NN
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+siam	NN
+cuisine	NN
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+siam	NN
+cuisine	NN
+.	.
+
+can	MD
+i	PRP
+see	VB
+the	DT
+previous	JJ
+list	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+some	DT
+chinese	JJ
+food	NN
+.	.
+
+mcdonald	NN
+'s	VBZ
+please	UH
+.	.
+
+mcdonald	NN
+'s	VBZ
+please	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+some	DT
+japanese	JJ
+food	NN
+.	.
+
+spenger's	NNS
+.	.
+
+on	IN
+friday	NN
+.	.
+
+could	MD
+be	VB
+any	DT
+distance	NN
+.	.
+
+do	VBP
+they	PRP
+have	VB
+music	NN
+.	.
+
+dinner	NN
+.	.
+
+like	UH
+to	TO
+see	VB
+one	CD
+that	WDT
+'s	VBZ
+open	JJ
+late	RB
+at	IN
+night	NN
+.	.
+
+like	UH
+to	TO
+see	VB
+one	CD
+that	WDT
+'s	VBZ
+open	JJ
+late	RB
+at	IN
+night	NN
+.	.
+
+like	UH
+to	TO
+see	VB
+one	CD
+that	WDT
+'s	VBZ
+open	JJ
+late	RB
+at	IN
+night	NN
+.	.
+
+like	UH
+to	TO
+see	VB
+one	CD
+that	WDT
+'s	VBZ
+open	JJ
+late	RB
+at	IN
+night	NN
+.	.
+
+like	UH
+to	TO
+see	VB
+one	CD
+that	WDT
+'s	VBZ
+open	JJ
+late	RB
+at	IN
+night	NN
+.	.
+
+like	UH
+to	TO
+see	VB
+one	CD
+that	WDT
+'s	VBZ
+open	JJ
+late	RB
+at	IN
+night	NN
+.	.
+
+it	PRP
+should	MD
+be	VB
+under	IN
+twelve	CD
+dollars	NNS
+.	.
+
+it	PRP
+should	MD
+be	VB
+under	IN
+twelve	CD
+dollars	NNS
+.	.
+
+the	DT
+cost	NN
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+what	WP
+do	VBP
+you	PRP
+have	VB
+for	IN
+thursday	NN
+.	.
+
+the	DT
+cost	NN
+should	MD
+be	VB
+under	IN
+twelve	CD
+dollars	NNS
+.	.
+
+the	DT
+cost	NN
+should	MD
+be	VB
+under	IN
+twelve	CD
+dollars	NNS
+.	.
+
+less	JJR
+than	IN
+two	CD
+hundred	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+less	JJR
+than	IN
+two	CD
+hundred	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+less	JJR
+than	IN
+two	CD
+hundred	CD
+minutes	NNS
+from	IN
+icksee	NN
+.	.
+
+which	WDT
+of	IN
+these	DT
+are	VBP
+open	JJ
+late	JJ
+nights	NNS
+.	.
+
+which	WDT
+of	IN
+these	DT
+are	VBP
+open	JJ
+late	JJ
+nights	NNS
+.	.
+
+which	WDT
+of	IN
+these	DT
+are	VBP
+open	JJ
+late	JJ
+nights	NNS
+.	.
+
+it	PRP
+should	MD
+cost	VB
+under	IN
+twelve	CD
+dollars	NNS
+.	.
+
+it	PRP
+should	MD
+cost	VB
+under	IN
+twelve	CD
+dollars	NNS
+.	.
+
+it	PRP
+should	MD
+cost	VB
+under	IN
+twelve	CD
+dollars	NNS
+.	.
+
+eight	CD
+miles	NNS
+.	.
+
+uh	UH
+hang	VB
+up	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+the	DT
+distance	NN
+should	MD
+be	VB
+less	JJR
+than	IN
+five	CD
+miles	NNS
+.	.
+
+the	DT
+distance	NN
+should	MD
+be	VB
+less	JJR
+than	IN
+five	CD
+miles	NNS
+.	.
+
+the	DT
+distance	NN
+should	MD
+be	VB
+less	JJR
+than	IN
+five	CD
+miles	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+an	DT
+italian	JJ
+restaurant	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+tuesday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+tuesday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+some	DT
+mexican	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+some	DT
+mexican	JJ
+food	NN
+.	.
+
+could	MD
+be	VB
+far	RB
+away	RB
+.	.
+
+could	MD
+be	VB
+far	RB
+away	RB
+.	.
+
+every	DT
+day	NN
+.	.
+
+are	VBP
+they	PRP
+open	JJ
+on	IN
+monday	NNP
+.	.
+
+are	VBP
+they	PRP
+open	JJ
+on	IN
+monday	NNP
+.	.
+
+dinner	NN
+.	.
+
+is	VBZ
+there	EX
+owner	NN
+italian	NN
+.	.
+
+is	VBZ
+there	EX
+owner	NN
+italian	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+dinner	NN
+.	.
+
+thank	VBP
+you	PRP
+.	.
+
+less	JJR
+than	IN
+thirty	CD
+dollars	NNS
+.	.
+
+less	JJR
+than	IN
+thirty	CD
+dollars	NNS
+.	.
+
+goodbye	NN
+.	.
+
+should	MD
+be	VB
+near	IN
+the	DT
+freeway	NN
+.	.
+
+finished	VBD
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+restaurant	NN
+near	IN
+the	DT
+freeway	NN
+.	.
+
+quit	VBD
+.	.
+
+do	VBP
+you	PRP
+know	VB
+juan	NNP
+'s	POS
+restaurant	NN
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+taqueria	NNS
+cancun	NNS
+.	.
+
+what	WP
+do	VBP
+you	PRP
+know	VB
+about	IN
+taqueria	NNS
+cancun	NNS
+.	.
+
+do	VBP
+you	PRP
+have	VB
+american	JJ
+food	NN
+in	IN
+downtown	NN
+berkeley	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+american	JJ
+food	NN
+in	IN
+downtown	NN
+berkeley	NN
+.	.
+
+do	VBP
+you	PRP
+have	VB
+american	JJ
+food	NN
+in	IN
+downtown	NN
+berkeley	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+that	WDT
+'s	VBZ
+open	JJ
+late	RB
+at	IN
+night	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+that	WDT
+'s	VBZ
+open	JJ
+late	RB
+at	IN
+night	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+that	WDT
+'s	VBZ
+open	JJ
+late	RB
+at	IN
+night	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+restaurant	NN
+that	WDT
+'s	VBZ
+open	JJ
+late	RB
+at	IN
+night	NN
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+it	PRP
+could	MD
+be	VB
+any	DT
+meal	NN
+.	.
+
+where	WRB
+can	MD
+i	PRP
+go	VB
+for	IN
+a	DT
+coffee	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+drink	VB
+a	DT
+coffee	NN
+now	RB
+.	.
+
+i	PRP
+want	VBP
+a	DT
+drink	NN
+today	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+drink	NN
+today	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+french	JJ
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+french	JJ
+.	.
+
+i	PRP
+want	VBP
+somewhere	RB
+very	RB
+cheap	JJ
+.	.
+
+i	PRP
+want	VBP
+somewhere	RB
+very	RB
+cheap	JJ
+.	.
+
+i	PRP
+want	VBP
+something	NN
+as	RB
+close	JJ
+as	IN
+possible	JJ
+.	.
+
+i	PRP
+want	VBP
+something	NN
+as	RB
+close	JJ
+as	IN
+possible	JJ
+.	.
+
+is	VBZ
+gertie	NN
+'s	POS
+good	NN
+.	.
+
+is	VBZ
+gertie	NN
+'s	POS
+good	NN
+.	.
+
+i	PRP
+want	VBP
+the	DT
+distance	NN
+to	TO
+be	VB
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+the	DT
+distance	NN
+to	TO
+be	VB
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+the	DT
+distance	NN
+to	TO
+be	VB
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+the	DT
+distance	NN
+to	TO
+be	VB
+less	JJR
+than	IN
+ten	CD
+minutes	NNS
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+somewhere	RB
+formal	JJ
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+somewhere	RB
+formal	JJ
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+somewhe
