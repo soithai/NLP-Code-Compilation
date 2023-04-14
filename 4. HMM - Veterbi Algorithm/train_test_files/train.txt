@@ -32383,4 +32383,1000 @@ cafe	NN
 
 i	PRP
 want	VBP
-so
+some	DT
+more	JJR
+information	NN
+about	IN
+au-coquelet	NN
+and	CC
+about	IN
+maxim	NN
+cafe	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+au-coquelet	NN
+and	CC
+about	IN
+maxim	NN
+cafe	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+au-coquelet	NN
+and	CC
+about	IN
+maxim	NN
+cafe	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+au-coquelet	NN
+and	CC
+about	IN
+maxim	NN
+cafe	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+more	JJR
+information	NN
+about	IN
+au-coquelet	NN
+and	CC
+about	IN
+maxim	NN
+cafe	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+for	IN
+lunch	NN
+.	.
+
+actually	RB
+i	PRP
+want	VBP
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+thai	DT
+food	NN
+.	.
+
+actually	RB
+i	PRP
+want	VBP
+american	JJ
+food	NN
+.	.
+
+i	PRP
+am	VBP
+willing	JJ
+to	TO
+spend	VB
+ten	CD
+dollars	NNS
+.	.
+
+american	JJ
+food	NN
+please	UH
+.	.
+
+american	JJ
+food	NN
+please	UH
+.	.
+
+american	JJ
+food	NN
+please	UH
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+nakapan	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+nakapan	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+nakapan	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+nakapan	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+au-coquelet	NN
+and	CC
+about	IN
+the	DT
+homemade	JJ
+cafe	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+au-coquelet	NN
+and	CC
+about	IN
+the	DT
+homemade	JJ
+cafe	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+au-coquelet	NN
+and	CC
+about	IN
+the	DT
+homemade	JJ
+cafe	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+au-coquelet	NN
+and	CC
+about	IN
+the	DT
+homemade	JJ
+cafe	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+au-coquelet	NN
+and	CC
+about	IN
+the	DT
+homemade	JJ
+cafe	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+au-coquelet	NN
+and	CC
+about	IN
+the	DT
+homemade	JJ
+cafe	NN
+.	.
+
+thank	VBP
+you	PRP
+.	.
+
+what	WP
+about	IN
+the	DT
+homemade	JJ
+cafe	NN
+.	.
+
+what	WP
+about	IN
+the	DT
+homemade	JJ
+cafe	NN
+.	.
+
+what	WP
+about	IN
+the	DT
+homemade	JJ
+cafe	NN
+.	.
+
+please	UH
+show	VB
+me	PRP
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+please	UH
+show	VB
+me	PRP
+the	DT
+restaurants	NNS
+again	RB
+.	.
+
+okay	UH
+tell	VB
+me	PRP
+about	IN
+that	DT
+ethiopian	JJ
+restaurant	NN
+on	IN
+telegraph	NN
+.	.
+
+okay	UH
+tell	VB
+me	PRP
+about	IN
+that	DT
+ethiopian	JJ
+restaurant	NN
+on	IN
+telegraph	NN
+.	.
+
+okay	UH
+tell	VB
+me	PRP
+about	IN
+that	DT
+ethiopian	JJ
+restaurant	NN
+on	IN
+telegraph	NN
+.	.
+
+i	PRP
+want	VBP
+an	DT
+expensive	JJ
+restaurant	NN
+.	.
+
+dinner	NN
+.	.
+
+at	IN
+the	DT
+weekend	NN
+i	PRP
+want	VBP
+to	TO
+eat	VB
+ethiopian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+dinner	NN
+please	UH
+.	.
+
+i	PRP
+want	VBP
+dinner	NN
+please	UH
+.	.
+
+i	PRP
+want	VBP
+dinner	NN
+please	UH
+.	.
+
+i	PRP
+want	VBP
+dinner	NN
+please	UH
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+a	DT
+restaurant	NN
+at	IN
+the	DT
+weekend	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+a	DT
+restaurant	NN
+at	IN
+the	DT
+weekend	NN
+.	.
+
+let	VB
+'s	PRP
+try	VB
+dinner	NN
+.	.
+
+on	IN
+saturday	NN
+i	PRP
+want	VBP
+to	TO
+eat	VB
+ethiopian	JJ
+food	NN
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+pay	VB
+any	DT
+amount	NN
+of	IN
+money	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+the	DT
+ethiopian	JJ
+restaurant	NN
+on	IN
+telegraph	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+the	DT
+ethiopian	JJ
+restaurant	NN
+on	IN
+telegraph	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+plearn	NNP
+'s	POS
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+cheap	JJ
+sandwich	NN
+restaurant	NN
+very	RB
+close	RB
+to	IN
+icsi	PRP
+.	.
+
+i	PRP
+want	VBP
+a	DT
+cheap	JJ
+sandwich	NN
+restaurant	NN
+very	RB
+close	RB
+to	IN
+icsi	PRP
+.	.
+
+i	PRP
+want	VBP
+a	DT
+cheap	JJ
+sandwich	NN
+restaurant	NN
+very	RB
+close	RB
+to	IN
+icsi	PRP
+.	.
+
+i	PRP
+want	VBP
+a	DT
+cheap	JJ
+sandwich	NN
+restaurant	NN
+very	RB
+close	RB
+to	IN
+icsi	PRP
+.	.
+
+i	PRP
+want	VBP
+a	DT
+cheap	JJ
+sandwich	NN
+restaurant	NN
+very	RB
+close	RB
+to	IN
+icsi	PRP
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+sandwiches	NNS
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+sandwiches	NNS
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+any	DT
+kind	NN
+of	IN
+sandwiches	NNS
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+any	DT
+kind	NN
+of	IN
+sandwiches	NNS
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+any	DT
+kind	NN
+of	IN
+sandwiches	NNS
+for	IN
+lunch	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+panini	NN
+.	.
+
+i	PRP
+want	VBP
+californian	JJ
+sandwiches	NNS
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+want	VBP
+californian	JJ
+sandwiches	NNS
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+want	VBP
+californian	JJ
+sandwiches	NNS
+for	IN
+lunch	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+any	DT
+food	NN
+that	WDT
+is	VBZ
+not	RB
+chinese	JJ
+.	.
+
+this	DT
+is	VBZ
+actually	RB
+for	IN
+sunday	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+have	VB
+much	JJ
+money	NN
+to	TO
+spend	VB
+.	.
+
+i	PRP
+have	VBP
+very	RB
+little	JJ
+money	NN
+to	TO
+spend	VB
+.	.
+
+i	PRP
+do	VBP
+not	RB
+have	VB
+much	JJ
+money	NN
+it	PRP
+got	VBD
+that	DT
+.	.
+
+i	PRP
+do	VBP
+not	RB
+have	VB
+much	JJ
+money	NN
+it	PRP
+got	VBD
+that	DT
+.	.
+
+i	PRP
+do	VBP
+not	RB
+have	VB
+much	JJ
+money	NN
+it	PRP
+got	VBD
+that	DT
+.	.
+
+actually	RB
+i	PRP
+want	VBP
+a	DT
+cheap	JJ
+restaurant	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+restaurants	NNS
+that	WDT
+are	VBP
+very	RB
+far	RB
+from	IN
+icsi	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+restaurants	NNS
+that	WDT
+are	VBP
+very	RB
+far	RB
+from	IN
+icsi	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+restaurants	NNS
+that	WDT
+are	VBP
+very	RB
+far	RB
+from	IN
+icsi	NN
+.	.
+
+hi	UH
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+salad	NN
+for	IN
+lunch	NN
+.	.
+
+hi	UH
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+salad	NN
+for	IN
+lunch	NN
+.	.
+
+hi	UH
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+salad	NN
+for	IN
+lunch	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+indonesian	JJ
+places	NNS
+in	IN
+berkeley	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+indonesian	JJ
+places	NNS
+in	IN
+berkeley	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+salad	NN
+.	.
+
+how	WRB
+about	IN
+vegetarian	JJ
+food	NN
+.	.
+
+how	WRB
+about	IN
+vegetarian	JJ
+food	NN
+.	.
+
+how	WRB
+about	IN
+vegetarian	JJ
+food	NN
+.	.
+
+indonesian	JJ
+.	.
+
+this	DT
+weekend	NN
+i	PRP
+'d	MD
+like	VB
+to	TO
+uh	UH
+eat	VB
+some	DT
+place	NN
+uh	UH
+cheap	JJ
+under	IN
+six	CD
+or	CC
+seven	CD
+dollars	NNS
+.	.
+
+this	DT
+weekend	NN
+i	PRP
+'d	MD
+like	VB
+to	TO
+uh	UH
+eat	VB
+some	DT
+place	NN
+uh	UH
+cheap	JJ
+under	IN
+six	CD
+or	CC
+seven	CD
+dollars	NNS
+.	.
+
+this	DT
+weekend	NN
+i	PRP
+'d	MD
+like	VB
+to	TO
+uh	UH
+eat	VB
+some	DT
+place	NN
+uh	UH
+cheap	JJ
+under	IN
+six	CD
+or	CC
+seven	CD
+dollars	NNS
+.	.
+
+this	DT
+weekend	NN
+i	PRP
+'d	MD
+like	VB
+to	TO
+uh	UH
+eat	VB
+some	DT
+place	NN
+uh	UH
+cheap	JJ
+under	IN
+six	CD
+or	CC
+seven	CD
+dollars	NNS
+.	.
+
+this	DT
+weekend	NN
+i	PRP
+'d	MD
+like	VB
+to	TO
+uh	UH
+eat	VB
+some	DT
+place	NN
+uh	UH
+cheap	JJ
+under	IN
+six	CD
+or	CC
+seven	CD
+dollars	NNS
+.	.
+
+this	DT
+weekend	NN
+i	PRP
+'d	MD
+like	VB
+to	TO
+uh	UH
+eat	VB
+some	DT
+place	NN
+uh	UH
+cheap	JJ
+under	IN
+six	CD
+or	CC
+seven	CD
+dollars	NNS
+.	.
+
+this	DT
+weekend	NN
+i	PRP
+'d	MD
+like	VB
+to	TO
+uh	UH
+eat	VB
+some	DT
+place	NN
+uh	UH
+cheap	JJ
+under	IN
+six	CD
+or	CC
+seven	CD
+dollars	NNS
+.	.
+
+how	WRB
+about	IN
+uh	UH
+malaysian	JJ
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+uh	UH
+malaysian	JJ
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+uh	UH
+malaysian	JJ
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+uh	UH
+malaysian	JJ
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+uh	UH
+malaysian	JJ
+food	NN
+then	RB
+.	.
+
+how	WRB
+about	IN
+uh	UH
+malaysian	JJ
+food	NN
+then	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+the	DT
+weekend	NN
+somewhere	RB
+near	RB
+here	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+the	DT
+weekend	NN
+somewhere	RB
+near	RB
+here	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+the	DT
+weekend	NN
+somewhere	RB
+near	RB
+here	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+the	DT
+weekend	NN
+somewhere	RB
+near	RB
+here	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to
