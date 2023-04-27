@@ -40313,4 +40313,1003 @@ will	MD
 edy	VB
 's	POS
 restaurant	NN
-take
+take	VB
+american	NN
+express	NN
+.	.
+
+will	MD
+edy	VB
+'s	POS
+restaurant	NN
+take	VB
+american	NN
+express	NN
+.	.
+
+will	MD
+edy	VB
+'s	POS
+restaurant	NN
+take	VB
+american	NN
+express	NN
+.	.
+
+will	MD
+edy	VB
+'s	POS
+restaurant	NN
+take	VB
+american	NN
+express	NN
+.	.
+
+will	MD
+edy	VB
+'s	POS
+restaurant	NN
+take	VB
+american	NN
+express	NN
+.	.
+
+will	MD
+edy	VB
+'s	POS
+restaurant	NN
+take	VB
+american	NN
+express	NN
+.	.
+
+will	MD
+edy	VB
+'s	POS
+restaurant	NN
+take	VB
+american	NN
+express	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+a	DT
+restaurant	NN
+that	WDT
+has	VBZ
+a	DT
+full	JJ
+bar	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+that	WDT
+allows	VBZ
+smoking	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+that	WDT
+allows	VBZ
+smoking	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+out	RP
+tonight	NN
+where	WRB
+there	EX
+is	VBZ
+entertainment	NN
+in	IN
+the	DT
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+out	RP
+tonight	NN
+where	WRB
+there	EX
+is	VBZ
+entertainment	NN
+in	IN
+the	DT
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+out	RP
+tonight	NN
+where	WRB
+there	EX
+is	VBZ
+entertainment	NN
+in	IN
+the	DT
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+out	RP
+tonight	NN
+where	WRB
+there	EX
+is	VBZ
+entertainment	NN
+in	IN
+the	DT
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+out	RP
+tonight	NN
+where	WRB
+there	EX
+is	VBZ
+entertainment	NN
+in	IN
+the	DT
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+out	RP
+tonight	NN
+where	WRB
+there	EX
+is	VBZ
+entertainment	NN
+in	IN
+the	DT
+restaurant	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+somewhere	RB
+where	WRB
+there	EX
+'s	VBZ
+a	DT
+age	NN
+limit	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+somewhere	RB
+where	WRB
+there	EX
+'s	VBZ
+a	DT
+age	NN
+limit	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+somewhere	RB
+where	WRB
+there	EX
+'s	VBZ
+a	DT
+age	NN
+limit	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+somewhere	RB
+where	WRB
+there	EX
+'s	VBZ
+a	DT
+age	NN
+limit	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+somewhere	RB
+where	WRB
+there	EX
+'s	VBZ
+a	DT
+age	NN
+limit	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+dinner	NN
+on	IN
+monday	NNP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+dinner	NN
+on	IN
+monday	NNP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+some	DT
+middle	JJ
+eastern	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+some	DT
+middle	JJ
+eastern	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+mexican	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+sunday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+sunday	NN
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+spend	VB
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+sunday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+sunday	NN
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+travel	VB
+fifteen	CD
+minutes	NNS
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+travel	VB
+fifteen	CD
+minutes	NNS
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+travel	VB
+fifteen	CD
+minutes	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+dinner	NN
+.	.
+
+fifteen	CD
+minutes	NNS
+would	MD
+be	VB
+fine	JJ
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+not	RB
+more	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+show	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+within	IN
+five	CD
+miles	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+some	DT
+middle	JJ
+eastern	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+some	DT
+middle	JJ
+eastern	JJ
+food	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+la	NNP
+mediterranee	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+la	NNP
+mediterranee	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+la	NNP
+mediterranee	NN
+.	.
+
+okay	UH
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+pay	VB
+up	RB
+to	IN
+thirty	CD
+dollars	NNS
+.	.
+
+okay	UH
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+pay	VB
+up	RB
+to	IN
+thirty	CD
+dollars	NNS
+.	.
+
+okay	UH
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+pay	VB
+up	RB
+to	IN
+thirty	CD
+dollars	NNS
+.	.
+
+i	PRP
+meant	VBD
+thirty	CD
+five	CD
+dollars	NNS
+.	.
+
+okay	UH
+i	PRP
+said	VBD
+twenty	CD
+dollars	NNS
+.	.
+
+show	VB
+me	PRP
+some	DT
+south	JJ
+indian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+show	VB
+me	PRP
+some	DT
+south	JJ
+indian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+show	VB
+me	PRP
+some	DT
+south	JJ
+indian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+i	PRP
+want	VBP
+south	JJ
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+south	JJ
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+indian	JJ
+food	NN
+.	.
+
+okay	UH
+indian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+okay	UH
+indian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+okay	UH
+indian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+okay	UH
+indian	JJ
+restaurants	NNS
+please	UH
+.	.
+
+okay	UH
+can	MD
+you	PRP
+show	VB
+me	PRP
+some	DT
+south	JJ
+asian	JJ
+restaurants	NNS
+.	.
+
+okay	UH
+can	MD
+i	PRP
+have	VB
+more	JJR
+information	NN
+on	IN
+berkeley	NN
+thai	DT
+house	NN
+.	.
+
+okay	UH
+can	MD
+i	PRP
+have	VB
+more	JJR
+information	NN
+on	IN
+berkeley	NN
+thai	DT
+house	NN
+.	.
+
+okay	UH
+can	MD
+i	PRP
+have	VB
+more	JJR
+information	NN
+on	IN
+berkeley	NN
+thai	DT
+house	NN
+.	.
+
+okay	UH
+can	MD
+i	PRP
+have	VB
+more	JJR
+information	NN
+on	IN
+berkeley	NN
+thai	DT
+house	NN
+.	.
+
+okay	UH
+can	MD
+i	PRP
+have	VB
+more	JJR
+information	NN
+on	IN
+berkeley	NN
+thai	DT
+house	NN
+.	.
+
+okay	UH
+can	MD
+i	PRP
+have	VB
+more	JJR
+information	NN
+on	IN
+berkeley	NN
+thai	DT
+house	NN
+.	.
+
+show	VB
+me	PRP
+the	DT
+list	NN
+again	RB
+.	.
+
+okay	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+won	VBD
+thai	DT
+cuisine	NN
+.	.
+
+okay	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+won	VBD
+thai	DT
+cuisine	NN
+.	.
+
+okay	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+won	VBD
+thai	DT
+cuisine	NN
+.	.
+
+okay	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+won	VBD
+thai	DT
+cuisine	NN
+.	.
+
+okay	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+won	VBD
+thai	DT
+cuisine	NN
+.	.
+
+okay	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+won	VBD
+thai	DT
+cuisine	NN
+.	.
+
+okay	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+won	VBD
+thai	DT
+cuisine	NN
+.	.
+
+okay	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+won	VBD
+thai	DT
+cuisine	NN
+.	.
+
+okay	UH
+can	MD
+you	PRP
+tell	VB
+me	PRP
+more	RBR
+about	IN
+won	VBD
+thai	DT
+cuisine	NN
+.	.
+
+i	PRP
+want	VBP
+russian	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+a	DT
+restaurant	NN
+called	VBN
+volga	NN
+house	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+a	DT
+restaurant	NN
+called	VBN
+volga	NN
+house	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+a	DT
+restaurant	NN
+called	VBN
+volga	NN
+house	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+a	DT
+restaurant	NN
+called	VBN
+volga	NN
+house	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+hear	VB
+something	NN
+about	IN
+volga	NN
+house	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+hear	VB
+something	NN
+about	IN
+volga	NN
+house	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+hear	VB
+something	NN
+about	IN
+volga	NN
+house	NN
+.	.
+
+i	PRP
+'ll	MD
+have	VB
+turkish	JJ
+food	NN
+.	.
+
+okay	UH
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+some	DT
+turkish	JJ
+food	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+cafe	NN
+mar	NN
+-	HYPH
+mara	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+cafe	NN
+mar	NN
+-	HYPH
+mara	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+cafe	NN
+mar	NN
+-	HYPH
+mara	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+cafe	NN
+mar	NN
+-	HYPH
+mara	NN
+.	.
+
+do	VBP
+you	PRP
+know	VB
+cafe	NN
+mar	NN
+-	HYPH
+mara	NN
+.	.
+
+i	PRP
+meant	VBD
+cafe	NN
+mar	NN
+-	HYPH
+mara	NN
+.	.
+
+i	PRP
+meant	VBD
+cafe	NN
+mar	NN
+-	HYPH
+mara	NN
+.	.
+
+i	PRP
+meant
