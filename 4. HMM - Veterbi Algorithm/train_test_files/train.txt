@@ -45213,4 +45213,1026 @@ like	VB
 to	TO
 find	VB
 out	RP
-ab
+about	IN
+uh	UH
+african	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+find	VB
+a	DT
+restaurant	NN
+that	WDT
+'s	VBZ
+within	IN
+walking	VBG
+distance	NN
+of	IN
+icksee	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+find	VB
+a	DT
+restaurant	NN
+that	WDT
+'s	VBZ
+within	IN
+walking	VBG
+distance	NN
+of	IN
+icksee	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+find	VB
+a	DT
+restaurant	NN
+that	WDT
+'s	VBZ
+within	IN
+walking	VBG
+distance	NN
+of	IN
+icksee	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+find	VB
+a	DT
+restaurant	NN
+that	WDT
+'s	VBZ
+within	IN
+walking	VBG
+distance	NN
+of	IN
+icksee	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+saturday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+tomorrow	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+spend	VB
+more	JJR
+than	IN
+six	CD
+dollars	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+spend	VB
+more	JJR
+than	IN
+six	CD
+dollars	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+spend	VB
+more	JJR
+than	IN
+six	CD
+dollars	NNS
+on	IN
+breakfast	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+spend	VB
+more	JJR
+than	IN
+six	CD
+dollars	NNS
+on	IN
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+lunch	NN
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+spend	VB
+thirty	CD
+minutes	NNS
+uh	UH
+to	TO
+walk	VB
+to	IN
+the	DT
+restaurant	NN
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+spend	VB
+thirty	CD
+minutes	NNS
+uh	UH
+to	TO
+walk	VB
+to	IN
+the	DT
+restaurant	NN
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+spend	VB
+thirty	CD
+minutes	NNS
+uh	UH
+to	TO
+walk	VB
+to	IN
+the	DT
+restaurant	NN
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+spend	VB
+thirty	CD
+minutes	NNS
+uh	UH
+to	TO
+walk	VB
+to	IN
+the	DT
+restaurant	NN
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+spend	VB
+thirty	CD
+minutes	NNS
+uh	UH
+to	TO
+walk	VB
+to	IN
+the	DT
+restaurant	NN
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+spend	VB
+thirty	CD
+minutes	NNS
+uh	UH
+to	TO
+walk	VB
+to	IN
+the	DT
+restaurant	NN
+.	.
+
+do	VBP
+they	PRP
+serve	VB
+drinks	NNS
+.	.
+
+does	VBZ
+this	DT
+restaurant	NN
+serve	VB
+drinks	VBZ
+.	.
+
+does	VBZ
+this	DT
+restaurant	NN
+serve	VB
+drinks	VBZ
+.	.
+
+does	VBZ
+this	DT
+restaurant	NN
+serve	VB
+drinks	VBZ
+.	.
+
+does	VBZ
+the	DT
+blue	JJ
+nile	NN
+serve	VB
+drinks	NNS
+.	.
+
+does	VBZ
+the	DT
+blue	JJ
+nile	NN
+serve	VB
+drinks	NNS
+.	.
+
+does	VBZ
+the	DT
+blue	JJ
+nile	NN
+serve	VB
+alcohol	NN
+.	.
+
+does	VBZ
+the	DT
+blue	JJ
+nile	NN
+serve	VB
+alcohol	NN
+.	.
+
+is	VBZ
+there	EX
+a	DT
+menu	NN
+for	IN
+the	DT
+blue	JJ
+nile	NN
+.	.
+
+show	VB
+me	PRP
+the	DT
+menu	NN
+for	IN
+the	DT
+blue	JJ
+nile	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+start	VB
+over	RP
+.	.
+
+are	VBP
+there	EX
+any	DT
+indian	NN
+buffets	NNS
+in	IN
+berkeley	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+indian	NN
+buffets	NNS
+in	IN
+berkeley	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+indian	NN
+buffets	NNS
+in	IN
+berkeley	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+indian	NN
+buffets	NNS
+in	IN
+berkeley	NN
+.	.
+
+indian	JJ
+food	NN
+.	.
+
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+indian	JJ
+food	NN
+on	IN
+thursday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+indian	JJ
+food	NN
+on	IN
+thursday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+a	DT
+buffet	NN
+lunch	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+a	DT
+buffet	NN
+lunch	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+a	DT
+buffet	NN
+lunch	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+a	DT
+buffet	NN
+lunch	NN
+.	.
+
+does	VBZ
+pasand	NN
+have	VB
+a	DT
+buffet	NN
+.	.
+
+does	VBZ
+pasand	NN
+have	VB
+a	DT
+buffet	NN
+.	.
+
+is	VBZ
+there	EX
+a	DT
+menu	NN
+for	IN
+pasand	NN
+.	.
+
+show	VB
+me	PRP
+the	DT
+menu	NN
+for	IN
+pasand	NN
+.	.
+
+does	VBZ
+sujatha	NNP
+'s	POS
+have	VB
+a	DT
+buffet	NN
+.	.
+
+does	VBZ
+sujatha	NNP
+'s	POS
+have	VB
+a	DT
+buffet	NN
+.	.
+
+does	VBZ
+sujatha	NNP
+'s	POS
+have	VB
+a	DT
+buffet	NN
+.	.
+
+does	VBZ
+sujatha	NNP
+'s	POS
+have	VB
+a	DT
+buffet	NN
+lunch	NN
+.	.
+
+does	VBZ
+sujatha	NNP
+'s	POS
+have	VB
+a	DT
+buffet	NN
+lunch	NN
+.	.
+
+does	VBZ
+sujatha	NNP
+'s	POS
+have	VB
+a	DT
+buffet	NN
+lunch	NN
+.	.
+
+indian	JJ
+food	NN
+.	.
+
+indian	JJ
+food	NN
+.	.
+
+does	VBZ
+sujatha	NNP
+'s	POS
+have	VB
+a	DT
+buffet	NN
+lunch	NN
+.	.
+
+does	VBZ
+sujatha	NNP
+'s	POS
+have	VB
+a	DT
+buffet	NN
+lunch	NN
+.	.
+
+does	VBZ
+sujatha	NNP
+'s	POS
+have	VB
+a	DT
+buffet	NN
+lunch	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+a	DT
+burrito	NN
+.	.
+
+is	VBZ
+there	EX
+a	DT
+menu	NN
+for	IN
+ay	NN
+-	HYPH
+caramba	NN
+.	.
+
+does	VBZ
+ay	RB
+-	HYPH
+caramba	NNS
+serve	VBP
+vegetarian	JJ
+burritos	NNS
+.	.
+
+does	VBZ
+ay	RB
+-	HYPH
+caramba	NNS
+serve	VBP
+vegetarian	JJ
+burritos	NNS
+.	.
+
+does	VBZ
+ay	RB
+-	HYPH
+caramba	NNS
+serve	VBP
+vegetarian	JJ
+burritos	NNS
+.	.
+
+where	WRB
+is	VBZ
+ay	NN
+-	HYPH
+caramba	NN
+.	.
+
+where	WRB
+is	VBZ
+ay	NN
+-	HYPH
+caramba	NN
+.	.
+
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+ay	NN
+-	HYPH
+caramba	NN
+.	.
+
+where	WRB
+is	VBZ
+ay	NN
+-	HYPH
+caramba	NN
+.	.
+
+where	WRB
+is	VBZ
+ay	NN
+-	HYPH
+caramba	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+burrito	NN
+.	.
+
+ay	RB
+-	HYPH
+caramba	NN
+.	.
+
+ay	RB
+-	HYPH
+caramba	NN
+.	.
+
+ay	RB
+-	HYPH
+caramba	NN
+.	.
+
+ay	RB
+-	HYPH
+caramba	NN
+.	.
+
+caramba	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+cactus	NNS
+taqueria	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+manuel's	NNS
+.	.
+
+does	VBZ
+manuel	VB
+'s	PRP
+serve	VB
+burritos	NNS
+.	.
+
+does	VBZ
+manuel	VB
+'s	PRP
+serve	VB
+burritos	NNS
+.	.
+
+does	VBZ
+manuel	VB
+'s	PRP
+serve	VB
+burritos	NNS
+.	.
+
+does	VBZ
+manuel	VB
+'s	PRP
+serve	VB
+burritos	NNS
+.	.
+
+does	VBZ
+manuel	VB
+'s	PRP
+serve	VB
+burritos	NNS
+.	.
+
+when	WRB
+is	VBZ
+manuel	NNP
+'s	POS
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+manuel	NNP
+'s	POS
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+manuel	NNP
+'s	POS
+open	JJ
+.	.
+
+when	WRB
+is	VBZ
+manuel	NNP
+'s	POS
+open	JJ
+.	.
+
+tibetan	JJ
+food	NN
+.	.
+
+tibetan	JJ
+food	NN
+.	.
+
+i	PRP
+'m	VBP
+hungry	JJ
+for	IN
+tibetan	JJ
+food	NN
+.	.
+
+i	PRP
+'m	VBP
+hungry	JJ
+for	IN
+tibetan	JJ
+food	NN
+.	.
+
+is	VBZ
+there	EX
+any	DT
+sudanese	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+italian	JJ
+today	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+italian	JJ
+today	NN
+.	.
+
+i	PRP
+want	VBP
+some	DT
+italian	JJ
+today	NN
+.	.
+
+lunch	NN
+or	CC
+dinner	NN
+would	MD
+be	VB
+good	JJ
+.	.
+
+lunch	NN
+or	CC
+dinner	NN
+would	MD
+be	VB
+good	JJ
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+spend	VB
+between	IN
+ten	CD
+and	CC
+twenty	CD
+dollars	NNS
+today	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+spend	VB
+between	IN
+ten	CD
+and	CC
+twenty	CD
+dollars	NNS
+today	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+spend	VB
+between	IN
+ten	CD
+and	CC
+twenty	CD
+dollars	NNS
+today	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+spend	VB
+between	IN
+ten	CD
+and	CC
+twenty	CD
+dollars	NNS
+today	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+spend	VB
+between	IN
+ten	CD
+and	CC
+twenty	CD
+dollars	NNS
+today	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+spend	VB
+between	IN
+ten	CD
+and	CC
+twenty	CD
+dollars	NNS
+today	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+between	IN
+thirteen	CD
+and	CC
+nineteen	CD
+dollars	NNS
+today	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+between	IN
+thirteen	CD
+and	CC
+nineteen	CD
+dollars	NNS
+today	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+between	IN
+thirteen	CD
+and	CC
+nineteen	CD
+dollars	NNS
+today	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+between	IN
+thirteen	CD
+and	CC
+nineteen	CD
+dollars	NNS
+today	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+between	IN
+ten	CD
+and	CC
+twenty	CD
+dollars	NNS
+today	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+between	IN
+ten	CD
+and	CC
+twenty	CD
+dollars	NNS
+today	NN
+.	.
+
+i
