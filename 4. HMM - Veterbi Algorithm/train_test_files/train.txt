@@ -64322,4 +64322,1045 @@ lunch	NN
 please	UH
 .	.
 
-i	P
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+under	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+spend	VB
+under	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+monday	NNP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+monday	NNP
+.	.
+
+i	PRP
+'ll	MD
+travel	VB
+up	RB
+to	IN
+two	CD
+miles	NNS
+.	.
+
+i	PRP
+'ll	MD
+travel	VB
+up	RB
+to	IN
+two	CD
+miles	NNS
+.	.
+
+i	PRP
+'ll	MD
+travel	VB
+up	RB
+to	IN
+two	CD
+miles	NNS
+.	.
+
+could	MD
+i	PRP
+see	VB
+the	DT
+menu	NN
+for	IN
+cafe	NN
+fanny	NN
+.	.
+
+could	MD
+i	PRP
+see	VB
+the	DT
+menu	NN
+for	IN
+cafe	NN
+fanny	NN
+.	.
+
+could	MD
+i	PRP
+see	VB
+the	DT
+menu	NN
+for	IN
+cafe	NN
+fanny	NN
+.	.
+
+um	UH
+tell	VB
+me	PRP
+more	JJR
+about	IN
+the	DT
+musical	JJ
+offering	NN
+.	.
+
+um	UH
+tell	VB
+me	PRP
+more	JJR
+about	IN
+the	DT
+musical	JJ
+offering	NN
+.	.
+
+um	UH
+tell	VB
+me	PRP
+more	JJR
+about	IN
+the	DT
+musical	JJ
+offering	NN
+.	.
+
+i	PRP
+need	VBP
+a	DT
+place	NN
+to	TO
+eat	VB
+breakfast	NN
+.	.
+
+i	PRP
+need	VBP
+a	DT
+place	NN
+to	TO
+eat	VB
+breakfast	NN
+.	.
+
+um	UH
+what	WP
+about	IN
+a	DT
+restaurant	NN
+in	IN
+albany	NN
+.	.
+
+um	UH
+what	WP
+about	IN
+a	DT
+restaurant	NN
+in	IN
+albany	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+in	IN
+albany	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+in	IN
+albany	NN
+.	.
+
+how	WRB
+about	IN
+el	NN
+-	HYPH
+cerrito	NN
+.	.
+
+how	WRB
+about	IN
+el	NN
+-	HYPH
+cerrito	NN
+.	.
+
+how	WRB
+about	IN
+el	NN
+-	HYPH
+cerrito	NN
+.	.
+
+how	WRB
+about	IN
+el	NN
+-	HYPH
+cerrito	NN
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+that	WDT
+'s	VBZ
+far	RB
+away	RB
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+that	WDT
+'s	VBZ
+far	RB
+away	RB
+.	.
+
+how	WRB
+about	IN
+for	IN
+dinner	NN
+.	.
+
+how	WRB
+about	IN
+for	IN
+dinner	NN
+.	.
+
+saturday	NN
+night	NN
+.	.
+
+saturday	NN
+night	NN
+.	.
+
+saturday	NN
+night	NN
+.	.
+
+i	PRP
+can	MD
+spend	VB
+over	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+can	MD
+spend	VB
+over	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+can	MD
+spend	VB
+over	IN
+ten	CD
+dollars	NNS
+.	.
+
+i	PRP
+can	MD
+spend	VB
+more	JJR
+than	IN
+ten	CD
+dollars	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+dinner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+under	IN
+fifty	CD
+dollars	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+under	IN
+fifty	CD
+dollars	NNS
+.	.
+
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+it	PRP
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+does	VBZ
+n't	RB
+matter	VB
+.	.
+
+it	PRP
+really	RB
+doesn't	RB
+.	.
+
+not	RB
+important	JJ
+.	.
+
+a	DT
+long	JJ
+way	NN
+.	.
+
+i	PRP
+can	MD
+go	VB
+any	DT
+distance	NN
+.	.
+
+i	PRP
+can	MD
+go	VB
+any	DT
+distance	NN
+.	.
+
+uh	UH
+five	CD
+miles	NNS
+.	.
+
+how	WRB
+about	IN
+seafood	NN
+.	.
+
+how	WRB
+about	IN
+seafood	NN
+.	.
+
+how	WRB
+about	IN
+seafood	NN
+.	.
+
+how	WRB
+much	JJ
+is	VBZ
+it	PRP
+to	TO
+eat	VB
+at	IN
+spenger	JJR
+'s	POS
+for	IN
+four	CD
+people	NNS
+.	.
+
+how	WRB
+much	JJ
+is	VBZ
+it	PRP
+to	TO
+eat	VB
+at	IN
+spenger	JJR
+'s	POS
+for	IN
+four	CD
+people	NNS
+.	.
+
+how	WRB
+much	JJ
+is	VBZ
+it	PRP
+to	TO
+eat	VB
+at	IN
+spenger	JJR
+'s	POS
+for	IN
+four	CD
+people	NNS
+.	.
+
+how	WRB
+much	JJ
+is	VBZ
+it	PRP
+to	TO
+eat	VB
+at	IN
+spenger	JJR
+'s	POS
+for	IN
+four	CD
+people	NNS
+.	.
+
+how	WRB
+much	JJ
+is	VBZ
+it	PRP
+to	TO
+eat	VB
+at	IN
+spenger	JJR
+'s	POS
+for	IN
+four	CD
+people	NNS
+.	.
+
+how	WRB
+much	JJ
+is	VBZ
+it	PRP
+to	TO
+eat	VB
+at	IN
+spenger	JJR
+'s	POS
+for	IN
+four	CD
+people	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+the	DT
+elmwood	NN
+pharmacy	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+the	DT
+elmwood	NN
+pharmacy	NN
+.	.
+
+where	WRB
+'s	VBZ
+a	DT
+mcdonald	NN
+'s	POS
+.	.
+
+what	WP
+can	MD
+i	PRP
+get	VB
+at	IN
+oliveto's	NNS
+.	.
+
+can	MD
+i	PRP
+make	VB
+reservations	NNS
+.	.
+
+what	WDT
+time	NN
+does	VBZ
+the	DT
+elmwood	NN
+pharmacy	VB
+close	RB
+.	.
+
+what	WDT
+time	NN
+does	VBZ
+the	DT
+elmwood	NN
+pharmacy	VB
+close	RB
+.	.
+
+what	WDT
+time	NN
+does	VBZ
+the	DT
+elmwood	NN
+pharmacy	VB
+close	RB
+.	.
+
+i	PRP
+'d	MD
+like	VB
+pharmacy	NN
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+pharmacy	NN
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+in	IN
+the	DT
+elmwood	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+in	IN
+the	DT
+elmwood	NN
+.	.
+
+elmwood	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+find	VB
+an	DT
+italian	JJ
+restaurant	NN
+.	.
+
+friday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+lunch	NN
+.	.
+
+between	IN
+forty	CD
+and	CC
+fifty	CD
+dollars	NNS
+.	.
+
+between	IN
+forty	CD
+and	CC
+fifty	CD
+dollars	NNS
+.	.
+
+between	IN
+forty	CD
+and	CC
+fifty	CD
+dollars	NNS
+.	.
+
+between	IN
+forty	CD
+and	CC
+fifty	CD
+dollars	NNS
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+go	VB
+thirty	CD
+minutes	NNS
+away	RB
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+go	VB
+thirty	CD
+minutes	NNS
+away	RB
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+want	VBP
+to	TO
+find	VB
+a	DT
+restaurant	NN
+with	IN
+good	JJ
+caviar	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+find	VB
+a	DT
+restaurant	NN
+with	IN
+good	JJ
+caviar	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+sunday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+sunday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+dinner	NN
+.	.
+
+money	NN
+is	VBZ
+no	DT
+object	NN
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+spend	VB
+over	IN
+one	CD
+hundred	CD
+dollars	NNS
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+spend	VB
+over	IN
+one	CD
+hundred	CD
+dollars	NNS
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+go	VB
+an	DT
+hour	NN
+and	CC
+a	DT
+half	NN
+away	RB
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+go	VB
+an	DT
+hour	NN
+and	CC
+a	DT
+half	NN
+away	RB
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+go	VB
+an	DT
+hour	NN
+and	CC
+a	DT
+half	NN
+away	RB
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+go	VB
+an	DT
+hour	NN
+and	CC
+a	DT
+half	NN
+away	RB
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+go	VB
+an	DT
+hour	NN
+and	CC
+a	DT
+half	NN
+away	RB
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+go	VB
+an	DT
+hour	NN
+and	CC
+a	DT
+half	NN
+away	RB
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+go	VB
+an	DT
+hour	NN
+and	CC
+a	DT
+half	NN
+away	RB
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+travel	VB
+ninety	CD
+minutes	NNS
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+travel	VB
+ninety	CD
+minutes	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+find	VB
+an	DT
+american	JJ
+restaurant	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+go	VB
+to	IN
+an	DT
+american	JJ
+restaurant	NN
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+find	VB
+a	DT
+restaurant	NN
+where	WRB
+i	PRP
+can	MD
+get	VB
+a	DT
+turkey	NN
+sandwich	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+find	VB
+a	DT
+restaurant	NN
+where	WRB
+i	PRP
+can	MD
+get	VB
+a	DT
+turkey	NN
+sandwich	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+find	VB
+a	DT
+restaurant	NN
+where	WRB
+i	PRP
+can	MD
+get	VB
+a	DT
+turkey	NN
+sandwich	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+find	VB
+a	DT
+restaurant	NN
+where	WRB
+i	PRP
+can	MD
+get	VB
+a	DT
+turkey	NN
+sandwich	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+today	NN
+.	.
+
+i	PRP
+want	VBP
+lunch	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+less	JJR
+than	IN
+five	CD
+dollars	NNS
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+go	VB
+fifteen	CD
+minutes	NNS
+.	.
+
+i	PRP
+'m	VBP
+willing	JJ
+to	TO
+go	VB
+fifteen	CD
+minutes	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+get	VB
+a	DT
+turkey	NN
+sandwich	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+get	VB
+a	DT
+turkey	NN
+sandwich	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+information	NN
+on	IN
+la	JJ
+tour	NN
+eiffel	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+information	NN
+on	IN
+la	JJ
+tour	NN
+eiffel	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+information	NN
+on	IN
+la	JJ
+tour	NN
+eiffel	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+get	VB
+a	DT
+turkey	NN
+sandwich	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+get	VB
+a	DT
+turkey	NN
+sandwich	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+information	NN
+on	IN
+la	JJ
+tour	NN
+eiffel	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+information	NN
+on	IN
+la	JJ
+tour	NN
+eiffel	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+infor
