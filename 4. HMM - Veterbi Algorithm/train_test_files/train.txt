@@ -96605,4 +96605,993 @@ restaurant	NN
 .	.
 
 i	PRP
-would
+would	MD
+like	VB
+to	TO
+know	VB
+some	DT
+dishes	NNS
+of	IN
+venezia	NN
+restaurant	NN
+.	.
+
+some	DT
+dishes	NNS
+of	IN
+venezia	NN
+restaurant	NN
+.	.
+
+some	DT
+dishes	NNS
+of	IN
+venezia	NN
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+know	VB
+the	DT
+name	NN
+of	IN
+some	DT
+seafood	NN
+restaurants	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+know	VB
+the	DT
+name	NN
+of	IN
+some	DT
+seafood	NN
+restaurants	NNS
+.	.
+
+please	UH
+the	DT
+names	NNS
+of	IN
+some	DT
+seafood	NN
+restaurants	NNS
+.	.
+
+please	UH
+the	DT
+names	NNS
+of	IN
+some	DT
+seafood	NN
+restaurants	NNS
+.	.
+
+please	UH
+the	DT
+names	NNS
+of	IN
+some	DT
+seafood	NN
+restaurants	NNS
+.	.
+
+what	WP
+is	VBZ
+the	DT
+best	JJS
+dish	NN
+of	IN
+spenger's	NNS
+.	.
+
+what	WP
+is	VBZ
+the	DT
+best	JJS
+dish	NN
+of	IN
+spenger's	NNS
+.	.
+
+what	WP
+is	VBZ
+the	DT
+best	JJS
+dish	NN
+of	IN
+spenger's	NNS
+.	.
+
+please	UH
+go	VB
+to	IN
+the	DT
+other	JJ
+seafood	NN
+restaurants	NNS
+.	.
+
+please	UH
+go	VB
+to	IN
+the	DT
+other	JJ
+seafood	NN
+restaurants	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+some	DT
+information	NN
+on	IN
+chez	NN
+-	HYPH
+panisse	NN
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+some	DT
+information	NN
+on	IN
+chez	NN
+-	HYPH
+panisse	NN
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+some	DT
+information	NN
+on	IN
+chez	NN
+-	HYPH
+panisse	NN
+restaurant	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+some	DT
+information	NN
+on	IN
+chez	NN
+-	HYPH
+panisse	NN
+restaurant	NN
+.	.
+
+some	DT
+information	NN
+on	IN
+expensive	JJ
+restaurants	NNS
+.	.
+
+please	UH
+give	VB
+me	PRP
+a	DT
+list	NN
+of	IN
+expensive	JJ
+restaurants	NNS
+.	.
+
+chez	NN
+-	HYPH
+panisse	NN
+restaurant	NN
+.	.
+
+chez	NN
+-	HYPH
+panisse	NN
+restaurant	NN
+.	.
+
+some	DT
+seafood	NN
+restaurants	NNS
+please	UH
+.	.
+
+some	DT
+seafood	NN
+restaurants	NNS
+please	UH
+.	.
+
+some	DT
+seafood	NN
+restaurants	NNS
+please	UH
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+to	IN
+some	DT
+expensive	JJ
+restaurants	NNS
+.	.
+
+please	UH
+give	VB
+me	PRP
+the	DT
+list	NN
+of	IN
+the	DT
+other	JJ
+seafood	NN
+restaurants	NNS
+.	.
+
+please	UH
+give	VB
+me	PRP
+the	DT
+list	NN
+of	IN
+the	DT
+other	JJ
+seafood	NN
+restaurants	NNS
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+spend	VB
+twenty	CD
+five	CD
+bucks	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+pay	VB
+twenty	CD
+five	CD
+dollars	NNS
+.	.
+
+where	WRB
+is	VBZ
+jefferson	DT
+street	NN
+.	.
+
+where	WRB
+is	VBZ
+jefferson	DT
+street	NN
+.	.
+
+may	MD
+i	PRP
+have	VB
+a	DT
+list	NN
+of	IN
+dishes	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+a	DT
+restaurant	NN
+in	IN
+the	DT
+night	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+a	DT
+restaurant	NN
+in	IN
+the	DT
+night	NN
+.	.
+
+where	WRB
+is	VBZ
+jefferson	DT
+street	NN
+.	.
+
+where	WRB
+is	VBZ
+jefferson	DT
+street	NN
+.	.
+
+where	WRB
+is	VBZ
+jefferson	DT
+street	NN
+.	.
+
+where	WRB
+is	VBZ
+jefferson	DT
+street	NN
+.	.
+
+is	VBZ
+the	DT
+food	NN
+good	JJ
+.	.
+
+is	VBZ
+the	DT
+food	NN
+good	JJ
+.	.
+
+is	VBZ
+the	DT
+food	NN
+good	JJ
+.	.
+
+in	IN
+le	FW
+cheval	FW
+restaurant	NN
+is	VBZ
+the	DT
+food	NN
+spicy	NN
+.	.
+
+in	IN
+le	FW
+cheval	FW
+restaurant	NN
+is	VBZ
+the	DT
+food	NN
+spicy	NN
+.	.
+
+in	IN
+le	FW
+cheval	FW
+restaurant	NN
+is	VBZ
+the	DT
+food	NN
+spicy	NN
+.	.
+
+in	IN
+le	FW
+cheval	FW
+restaurant	NN
+is	VBZ
+the	DT
+food	NN
+spicy	NN
+.	.
+
+in	IN
+le	FW
+cheval	FW
+restaurant	NN
+is	VBZ
+the	DT
+food	NN
+spicy	NN
+.	.
+
+in	IN
+le	FW
+cheval	FW
+restaurant	NN
+is	VBZ
+the	DT
+food	NN
+spicy	NN
+.	.
+
+some	DT
+chinese	JJ
+restaurant	NN
+please	UH
+.	.
+
+some	DT
+chinese	JJ
+restaurant	NN
+please	UH
+.	.
+
+some	DT
+chinese	JJ
+restaurant	NN
+please	UH
+.	.
+
+some	DT
+chinese	JJ
+restaurant	NN
+please	UH
+.	.
+
+great	JJ
+china	NN
+restaurant	NN
+please	UH
+.	.
+
+great	JJ
+china	NN
+restaurant	NN
+please	UH
+.	.
+
+great	JJ
+china	NN
+restaurant	NN
+please	UH
+.	.
+
+great	JJ
+china	NN
+restaurant	NN
+please	UH
+.	.
+
+great	JJ
+china	NN
+restaurant	NN
+please	UH
+.	.
+
+is	VBZ
+the	DT
+food	NN
+spicy	NN
+.	.
+
+is	VBZ
+the	DT
+food	NN
+spicy	NN
+.	.
+
+some	DT
+french	JJ
+restaurants	NNS
+please	UH
+.	.
+
+some	DT
+french	JJ
+restaurants	NNS
+.	.
+
+french	JJ
+restaurants	NNS
+.	.
+
+french	JJ
+restaurants	NNS
+.	.
+
+german	NN
+restaurants	NNS
+.	.
+
+german	NN
+restaurants	NNS
+.	.
+
+german	NN
+restaurants	NNS
+.	.
+
+african	JJ
+restaurants	NNS
+.	.
+
+african	JJ
+restaurants	NNS
+.	.
+
+ethiopian	JJ
+restaurants	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+the	DT
+restaurant	NN
+in	IN
+the	DT
+night	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+the	DT
+restaurant	NN
+in	IN
+the	DT
+night	NN
+.	.
+
+food	NN
+food	NN
+.	.
+
+food	NN
+food	NN
+.	.
+
+food	NN
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+italian	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+monday	NNP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+monday	NNP
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+two	CD
+dollars	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+three	CD
+dollars	NNS
+.	.
+
+i	PRP
+'m	VBP
+going	VBG
+to	TO
+travel	VB
+two	CD
+miles	NNS
+.	.
+
+i	PRP
+'m	VBP
+going	VBG
+to	TO
+travel	VB
+two	CD
+miles	NNS
+.	.
+
+i	PRP
+'m	VBP
+going	VBG
+to	TO
+travel	VB
+two	CD
+miles	NNS
+.	.
+
+i	PRP
+'m	VBP
+going	VBG
+to	TO
+travel	VB
+two	CD
+miles	NNS
+.	.
+
+i	PRP
+am	VBP
+willing	JJ
+to	TO
+travel	VB
+four	CD
+miles	NNS
+.	.
+
+i	PRP
+am	VBP
+willing	JJ
+to	TO
+travel	VB
+four	CD
+miles	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+italian	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+chinese	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+at	IN
+lunch	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+at	IN
+dinner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+ten	CD
+dollars	NNS
+.	.
+
+let	VB
+'s	PRP
+start	VB
+over	RP
+.	.
+
+i	PRP
+want	VBP
+english	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+english	JJ
+food	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+american	JJ
+food	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+eat	VB
+american	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+american	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+american	JJ
+food	NN
+.	.
+
+chinese	NNS
+.	.
+
+american	UH
+.	.
+
+american	JJ
+food	NN
+.	.
+
+american	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+american	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+um	UH
+okay	UH
+.	.
+
+i	PRP
+want	VBP
+um	UH
+okay	UH
+.	.
+
+i	PRP
+want	VBP
+um	UH
+okay	UH
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+have	VB
+american	JJ
+food	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+have	VB
+american	JJ
+food	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+have	VB
+american	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+on	IN
+sundays	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+on	IN
+sundays	NNS
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+korean	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+italian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+spend	VB
+four	CD
+dollars	NNS
+.	.
+
+expensive	JJ
+.	.
+
+one	CD
+hour	NN
+from	IN
+icksee	PRP
+oh	UH
+not	RB
+icksee	PRP
+i	PRP
+must	MD
+say	VB
+icsi	RP
+yes	UH
+no.	NN
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+really	RB
+good	JJ
+greek	NN
+restaurant	NN
+in	IN
+berkeley	NN
+.	.
+
+one	CD
+hour	NN
+from	IN
+icksee	PRP
+oh	UH
+not	RB
+icksee	PRP
+i	PRP
+must	MD
+say	VB
+icsi	RP
+yes	UH
+no.	NN
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+really	RB
+good	JJ
+greek	NN
+restaurant	NN
+in	IN
+berkeley	NN
+.	.
+
+one	CD
+hour	NN
+from	IN
+icksee	PRP
+oh	UH
+not	RB
+icksee	PRP
+i	PRP
+must	MD
+say	VB
+icsi	RP
+yes	UH
+no.	NN
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+really	RB
+good	JJ
+greek	NN
+restaurant	NN
+in	IN
+berkeley	NN
+.	.
+
+one	CD
+hour	NN
+from	IN
+icksee	PRP
+oh	UH
+not	RB
+icksee	PRP
+i	PRP
+must	MD
+say	VB
+icsi	RP
+yes	UH
+no.	NN
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+really	RB
+good	JJ
+greek	NN
+restaurant	NN
+in	IN
+berkeley	NN
+.	.
+
+one	CD
+hour	NN
+from	IN
+icksee	PRP
+oh	UH
+not	RB
+icksee	PRP
+i	PRP
+must	MD
+say	VB
+icsi	RP
+yes	UH
+no.	NN
+i	PRP
+'m	VBP
+looking	VBG
+for	IN
+a	DT
+really	RB
+good	J
