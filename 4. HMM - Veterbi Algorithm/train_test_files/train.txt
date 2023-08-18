@@ -93520,3 +93520,1024 @@ dollars	NNS
 .	.
 
 uh	UH
+chez	NN
+-	HYPH
+panisse	NN
+.	.
+
+uh	UH
+chez	NN
+-	HYPH
+panisse	NN
+.	.
+
+uh	UH
+chez	NN
+-	HYPH
+panisse	NN
+.	.
+
+uh	UH
+chez	NN
+-	HYPH
+panisse	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+some	DT
+chinese	JJ
+food	NN
+.	.
+
+how	WRB
+i	PRP
+want	VBP
+to	TO
+know	VB
+some	DT
+information	NN
+about	IN
+uh	UH
+jade	NN
+garden	NN
+.	.
+
+how	WRB
+i	PRP
+want	VBP
+to	TO
+know	VB
+some	DT
+information	NN
+about	IN
+uh	UH
+jade	NN
+garden	NN
+.	.
+
+how	WRB
+i	PRP
+want	VBP
+to	TO
+know	VB
+some	DT
+information	NN
+about	IN
+uh	UH
+jade	NN
+garden	NN
+.	.
+
+how	WRB
+i	PRP
+want	VBP
+to	TO
+know	VB
+some	DT
+information	NN
+about	IN
+uh	UH
+jade	NN
+garden	NN
+.	.
+
+how	WRB
+about	IN
+some	DT
+italian	JJ
+food	NN
+.	.
+
+how	WRB
+about	IN
+some	DT
+italian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+italian	JJ
+food	NN
+.	.
+
+i	PRP
+prefer	VBP
+italian	JJ
+food	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+on	IN
+next	JJ
+uh	UH
+monday	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+on	IN
+next	JJ
+uh	UH
+monday	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+on	IN
+next	JJ
+uh	UH
+monday	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+on	IN
+next	JJ
+uh	UH
+monday	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+on	IN
+next	JJ
+uh	UH
+monday	NN
+.	.
+
+i	PRP
+want	VBP
+it	PRP
+to	TO
+be	VB
+within	IN
+thirty	CD
+minutes	NNS
+of	IN
+walk	NN
+.	.
+
+okay	UH
+i	PRP
+want	VBP
+some	DT
+indian	JJ
+food	NN
+.	.
+
+um	UH
+i	PRP
+want	VBP
+some	DT
+indian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+some	DT
+taiwan	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+some	DT
+taiwan	JJ
+food	NN
+.	.
+
+uh	UH
+i	PRP
+want	VBP
+the	DT
+distance	NN
+of	IN
+restaurant	NN
+to	TO
+be	VB
+within	IN
+thirty	CD
+minutes	NNS
+of	IN
+walk	NN
+.	.
+
+uh	UH
+i	PRP
+want	VBP
+the	DT
+distance	NN
+of	IN
+restaurant	NN
+to	TO
+be	VB
+within	IN
+thirty	CD
+minutes	NNS
+of	IN
+walk	NN
+.	.
+
+uh	UH
+i	PRP
+want	VBP
+the	DT
+distance	NN
+of	IN
+restaurant	NN
+to	TO
+be	VB
+within	IN
+thirty	CD
+minutes	NNS
+of	IN
+walk	NN
+.	.
+
+um	UH
+i	PRP
+want	VBP
+the	DT
+meal	NN
+cost	VBP
+no	DT
+more	JJR
+than	IN
+one	CD
+hundred	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+want	VBP
+the	DT
+meal	NN
+cost	VBP
+no	DT
+more	JJR
+than	IN
+one	CD
+hundred	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+want	VBP
+the	DT
+meal	NN
+cost	VBP
+no	DT
+more	JJR
+than	IN
+one	CD
+hundred	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+want	VBP
+the	DT
+meal	NN
+cost	VBP
+no	DT
+more	JJR
+than	IN
+one	CD
+hundred	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+want	VBP
+the	DT
+meal	NN
+cost	VBP
+no	DT
+more	JJR
+than	IN
+one	CD
+hundred	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+want	VBP
+the	DT
+meal	NN
+cost	VBP
+no	DT
+more	JJR
+than	IN
+one	CD
+hundred	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+want	VBP
+the	DT
+meal	NN
+cost	VBP
+no	DT
+more	JJR
+than	IN
+one	CD
+hundred	CD
+dollars	NNS
+.	.
+
+um	UH
+i	PRP
+want	VBP
+the	DT
+meal	NN
+cost	VBP
+no	DT
+more	JJR
+than	IN
+one	CD
+hundred	CD
+dollars	NNS
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+lunch	NN
+instead	RB
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+lunch	NN
+instead	RB
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+lunch	NN
+instead	RB
+.	.
+
+italian	JJ
+food	NN
+not	RB
+cuban	JJ
+.	.
+
+italian	JJ
+food	NN
+not	RB
+cuban	JJ
+.	.
+
+italian	JJ
+food	NN
+not	RB
+cuban	JJ
+.	.
+
+italian	JJ
+food	NN
+not	RB
+cuban	JJ
+.	.
+
+i	PRP
+want	VBP
+italian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+chez	NN
+-	HYPH
+panisse	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+chez	NN
+-	HYPH
+panisse	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+japanese	JJ
+restaurant	NN
+.	.
+
+the	DT
+distance	NN
+of	IN
+the	DT
+restaurant	NN
+should	MD
+be	VB
+within	IN
+forty	CD
+minutes	NNS
+of	IN
+walk	NN
+.	.
+
+want	VBP
+to	TO
+eat	VB
+on	IN
+thursday	NN
+and	CC
+the	DT
+meal	NN
+is	VBZ
+dinner	NN
+.	.
+
+want	VBP
+to	TO
+eat	VB
+on	IN
+thursday	NN
+and	CC
+the	DT
+meal	NN
+is	VBZ
+dinner	NN
+.	.
+
+want	VBP
+to	TO
+eat	VB
+on	IN
+thursday	NN
+and	CC
+the	DT
+meal	NN
+is	VBZ
+dinner	NN
+.	.
+
+want	VBP
+to	TO
+eat	VB
+on	IN
+thursday	NN
+and	CC
+the	DT
+meal	NN
+is	VBZ
+dinner	NN
+.	.
+
+want	VBP
+to	TO
+eat	VB
+on	IN
+thursday	NN
+and	CC
+the	DT
+meal	NN
+is	VBZ
+dinner	NN
+.	.
+
+want	VBP
+to	TO
+eat	VB
+on	IN
+thursday	NN
+and	CC
+the	DT
+meal	NN
+is	VBZ
+dinner	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+know	VB
+more	JJR
+about	IN
+the	DT
+sushi	JJ
+-	HYPH
+sho	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+know	VB
+more	JJR
+about	IN
+the	DT
+sushi	JJ
+-	HYPH
+sho	NN
+.	.
+
+okay	UH
+uh	UH
+do	VBP
+you	PRP
+have	VB
+spanish	NN
+food	NN
+around	RB
+here	RB
+.	.
+
+okay	UH
+uh	UH
+do	VBP
+you	PRP
+have	VB
+spanish	NN
+food	NN
+around	RB
+here	RB
+.	.
+
+okay	UH
+uh	UH
+do	VBP
+you	PRP
+have	VB
+spanish	NN
+food	NN
+around	RB
+here	RB
+.	.
+
+okay	UH
+uh	UH
+do	VBP
+you	PRP
+have	VB
+spanish	NN
+food	NN
+around	RB
+here	RB
+.	.
+
+okay	UH
+i	PRP
+can	MD
+walk	VB
+say	VB
+one	CD
+hundred	CD
+and	CC
+twenty	CD
+minutes	NNS
+from	IN
+icsi	NNS
+.	.
+
+okay	UH
+i	PRP
+can	MD
+walk	VB
+say	VB
+one	CD
+hundred	CD
+and	CC
+twenty	CD
+minutes	NNS
+from	IN
+icsi	NNS
+.	.
+
+okay	UH
+i	PRP
+can	MD
+walk	VB
+say	VB
+one	CD
+hundred	CD
+and	CC
+twenty	CD
+minutes	NNS
+from	IN
+icsi	NNS
+.	.
+
+okay	UH
+i	PRP
+can	MD
+walk	VB
+say	VB
+one	CD
+hundred	CD
+and	CC
+twenty	CD
+minutes	NNS
+from	IN
+icsi	NNS
+.	.
+
+okay	UH
+i	PRP
+can	MD
+walk	VB
+say	VB
+one	CD
+hundred	CD
+and	CC
+twenty	CD
+minutes	NNS
+from	IN
+icsi	NNS
+.	.
+
+any	DT
+place	NN
+and	CC
+any	DT
+price	NN
+will	MD
+do	VB
+.	.
+
+any	DT
+place	NN
+and	CC
+any	DT
+price	NN
+will	MD
+do	VB
+.	.
+
+any	DT
+place	NN
+and	CC
+any	DT
+price	NN
+will	MD
+do	VB
+.	.
+
+any	DT
+place	NN
+and	CC
+any	DT
+price	NN
+will	MD
+do	VB
+.	.
+
+any	DT
+place	NN
+will	MD
+do	VB
+.	.
+
+any	DT
+place	NN
+.	.
+
+uh	UH
+anywhere	RB
+.	.
+
+anywhere	RB
+.	.
+
+uh	UH
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+some	DT
+israel	JJ
+food	NN
+.	.
+
+uh	UH
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+some	DT
+israel	JJ
+food	NN
+.	.
+
+uh	UH
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+some	DT
+israel	JJ
+food	NN
+.	.
+
+uh	UH
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+some	DT
+israel	JJ
+food	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+shin-shin	JJ
+restaurant	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+shin-shin	JJ
+restaurant	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+mcdonald	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+mcdonald	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+mcdonald	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+mcdonald	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+mcdonald	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+eat	VB
+mcdonald	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+carl	NN
+carl	NN
+carl	NN
+carl's	NNS
+-	HYPH
+jr	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+carl	NN
+carl	NN
+carl	NN
+carl's	NNS
+-	HYPH
+jr	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+carl	NN
+carl	NN
+carl	NN
+carl's	NNS
+-	HYPH
+jr	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+carl	NN
+carl	NN
+carl	NN
+carl's	NNS
+-	HYPH
+jr	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+carl	NN
+carl	NN
+carl	NN
+carl's	NNS
+-	HYPH
+jr	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+carl	NN
+carl	NN
+carl	NN
+carl's	NNS
+-	HYPH
+jr	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+carl	NN
+carl	NN
+carl	NN
+carl's	NNS
+-	HYPH
+jr	NN
+.	.
+
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+kentucky	NNP
+fried	VBN
+chicken	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+kentucky	NNP
+fried	VBN
+chicken	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+kentucky	NNP
+fried	VBN
+chicken	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+yen	NN
+-	HYPH
+ching	NN
+uh	UH
+chinese	NN
+restaurant	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+yen	NN
+-	HYPH
+ching	NN
+uh	UH
+chinese	NN
+restaurant	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+yen	NN
+-	HYPH
+ching	NN
+uh	UH
+chinese	NN
+restaurant	NN
+.	.
+
+i	PRP
+wan	VBP
+na	TO
+go	VB
+to	IN
+yen	NN
+-	HYPH
+ching	NN
+uh	UH
+chinese	NN
+restaurant	NN
+.	.
+
+to	TO
+know	VB
+more	JJR
+about	IN
+sun-hong-kong	JJ
+.	.
+
+to	TO
+know	VB
+more	JJR
+about	IN
+sun-hong-kong	JJ
+.	.
+
+to	TO
+know	V
