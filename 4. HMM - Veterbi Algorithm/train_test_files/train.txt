@@ -99544,4 +99544,1020 @@ a	DT
 restaurant	NN
 within	IN
 twenty	CD
-minutes	NN
+minutes	NNS
+.	.
+
+i	PRP
+want	VBP
+a	DT
+restaurant	NN
+within	IN
+twenty	CD
+minutes	NNS
+.	.
+
+tell	VB
+me	PRP
+about	IN
+christopher	NN
+'s	POS
+cafe	NN
+.	.
+
+i	PRP
+want	VBP
+brunch	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+brunch	NN
+.	.
+
+are	VBP
+there	EX
+any	DT
+bakeries	NNS
+here	RB
+.	.
+
+are	VBP
+there	EX
+any	DT
+bakeries	NNS
+here	RB
+.	.
+
+are	VBP
+there	EX
+any	DT
+indonesian	JJ
+restaurants	NNS
+here	RB
+.	.
+
+are	VBP
+there	EX
+any	DT
+indonesian	JJ
+restaurants	NNS
+here	RB
+.	.
+
+what	WP
+about	IN
+for	IN
+dinner	NN
+.	.
+
+what	WP
+about	IN
+for	IN
+dinner	NN
+.	.
+
+what	WP
+about	IN
+any	DT
+distance	NN
+from	IN
+icksee	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+type	NN
+of	IN
+food	NN
+any	DT
+distance	NN
+for	IN
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+type	NN
+of	IN
+food	NN
+any	DT
+distance	NN
+for	IN
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+type	NN
+of	IN
+food	NN
+any	DT
+distance	NN
+for	IN
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+any	DT
+type	NN
+of	IN
+food	NN
+any	DT
+distance	NN
+for	IN
+breakfast	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+have	VB
+any	DT
+type	NN
+of	IN
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+any	DT
+kind	NN
+of	IN
+food	NN
+.	.
+
+i	PRP
+want	VBP
+american	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+something	NN
+within	IN
+fifteen	CD
+minutes	NNS
+of	IN
+icksee	NN
+.	.
+
+i	PRP
+want	VBP
+something	NN
+within	IN
+fifteen	CD
+minutes	NNS
+of	IN
+icksee	NN
+.	.
+
+i	PRP
+want	VBP
+something	NN
+within	IN
+fifteen	CD
+minutes	NNS
+of	IN
+icksee	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+continental	JJ
+garden	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+continental	JJ
+garden	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+care	VB
+about	IN
+the	DT
+type	NN
+of	IN
+food	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+care	VB
+about	IN
+the	DT
+kind	NN
+of	IN
+food	NN
+.	.
+
+i	PRP
+do	VBP
+not	RB
+want	VB
+thai	DT
+food	NN
+.	.
+
+not	RB
+thai	DT
+food	NN
+.	.
+
+not	RB
+thai	DT
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+go	VB
+to	IN
+a	DT
+cafe	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+the	DT
+westside	JJ
+bakery	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+the	DT
+westside	JJ
+bakery	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+bette	NN
+'s	POS
+bakeshop	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+bette	NN
+'s	POS
+bakeshop	NN
+.	.
+
+bette	NN
+'s	POS
+bakeshop	NN
+.	.
+
+bette	NN
+'s	POS
+bakeshop	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+to	IN
+a	DT
+south	NN
+american	JJ
+restaurant	NN
+for	IN
+dinner	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+to	IN
+a	DT
+south	NN
+american	JJ
+restaurant	NN
+for	IN
+dinner	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+to	IN
+a	DT
+south	NN
+american	JJ
+restaurant	NN
+for	IN
+dinner	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+go	VB
+to	IN
+a	DT
+south	NN
+american	JJ
+restaurant	NN
+for	IN
+dinner	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+cafe	NN
+violeta	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+cafe	NN
+violeta	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+brazilian	JJ
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+greek	NN
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+greek	NN
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+greek	NN
+food	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+lunch	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+dim	JJ
+-	HYPH
+sum	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+dim	JJ
+-	HYPH
+sum	NN
+.	.
+
+i	PRP
+want	VBP
+to	TO
+eat	VB
+dinner	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+east	NN
+ocean	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+east	NN
+ocean	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+east	NN
+ocean	NN
+.	.
+
+show	VB
+me	PRP
+the	DT
+restaurant	NN
+list	NN
+again	RB
+.	.
+
+tell	VB
+me	PRP
+about	IN
+lantern	NN
+restaurant	NN
+.	.
+
+tell	VB
+me	PRP
+about	IN
+lantern	NN
+restaurant	NN
+.	.
+
+what	WP
+can	MD
+you	PRP
+tell	VB
+about	IN
+spats	NNS
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+lunch	NN
+on	IN
+thursday	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+lunch	NN
+on	IN
+thursday	NN
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+spend	VB
+more	JJR
+than	IN
+fifteen	CD
+dollars	NNS
+.	.
+
+it	PRP
+should	MD
+be	VB
+within	IN
+fifteen	CD
+minutes	NNS
+.	.
+
+it	PRP
+should	MD
+be	VB
+within	IN
+uh	UH
+fifteen	CD
+minutes	NNS
+.	.
+
+it	PRP
+should	MD
+be	VB
+within	IN
+uh	UH
+fifteen	CD
+minutes	NNS
+.	.
+
+it	PRP
+should	MD
+be	VB
+within	IN
+uh	UH
+fifteen	CD
+minutes	NNS
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+nakapan	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+nakapan	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+nakapan	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+nakapan	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+nakapan	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+nakapan	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+nakapan	NN
+.	.
+
+tell	VB
+me	PRP
+more	RBR
+about	IN
+nakapan	NN
+.	.
+
+can	MD
+i	PRP
+see	VB
+a	DT
+menu	NN
+.	.
+
+i	PRP
+am	VBP
+disappointed	JJ
+that	IN
+i	PRP
+can	MD
+not	RB
+see	VB
+a	DT
+menu	NN
+.	.
+
+i	PRP
+am	VBP
+disappointed	JJ
+that	IN
+i	PRP
+can	MD
+not	RB
+see	VB
+a	DT
+menu	NN
+.	.
+
+i	PRP
+am	VBP
+disappointed	JJ
+that	IN
+i	PRP
+can	MD
+not	RB
+see	VB
+a	DT
+menu	NN
+.	.
+
+oh	UH
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+chinese	JJ
+food	NN
+tonight	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+chinese	JJ
+food	NN
+tonight	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+chinese	JJ
+food	NN
+tonight	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+have	VB
+chinese	JJ
+food	NN
+tonight	NN
+.	.
+
+start	VB
+over	RP
+.	.
+
+start	VB
+over	RP
+.	.
+
+can	MD
+i	PRP
+have	VB
+some	DT
+information	NN
+on	IN
+chinese	JJ
+food	NN
+.	.
+
+can	MD
+i	PRP
+have	VB
+some	DT
+information	NN
+on	IN
+chinese	JJ
+food	NN
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+wednesday	NNP
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+eat	VB
+on	IN
+wednesday	NNP
+.	.
+
+i	PRP
+would	MD
+like	VB
+to	TO
+have	VB
+breakfast	NN
+.	.
+
+the	DT
+breakfast	NN
+should	MD
+not	RB
+cost	VB
+more	JJR
+than	IN
+eight	CD
+dollars	NNS
+.	.
+
+the	DT
+breakfast	NN
+should	MD
+not	RB
+cost	VB
+more	JJR
+than	IN
+uh	UH
+eight	CD
+dollars	NNS
+.	.
+
+the	DT
+breakfast	NN
+should	MD
+not	RB
+cost	VB
+more	JJR
+than	IN
+uh	UH
+eight	CD
+dollars	NNS
+.	.
+
+the	DT
+breakfast	NN
+should	MD
+not	RB
+cost	VB
+more	JJR
+than	IN
+uh	UH
+eight	CD
+dollars	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+be	VB
+further	RB
+away	RB
+from	IN
+icsi	VBG
+than	IN
+fifteen	CD
+minutes	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+be	VB
+further	RB
+away	RB
+from	IN
+icsi	VBG
+than	IN
+fifteen	CD
+minutes	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+be	VB
+further	RB
+away	RB
+from	IN
+icsi	VBG
+than	IN
+fifteen	CD
+minutes	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+be	VB
+further	RB
+away	RB
+from	IN
+icsi	VBG
+than	IN
+fifteen	CD
+minutes	NNS
+.	.
+
+i	PRP
+do	VBP
+n't	RB
+want	VB
+to	TO
+be	VB
+further	RB
+away	RB
+from	IN
+icsi	VBG
+than	IN
+fifteen	CD
+minutes	NNS
+.	.
+
+can	MD
+you	PRP
+give	VB
+me	PRP
+information	NN
+on	IN
+hong	NN
+-	HYPH
+kong	NN
+villa	NN
+.	.
+
+can	MD
+i	PRP
+see	VB
+the	DT
+menu	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+villa	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+villa	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+villa	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+villa	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+villa	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+villa	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+villa	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+villa	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+hong	NN
+-	HYPH
+kong	VBG
+villa	NN
+.	.
+
+i	PRP
+'d	MD
+like	VB
+to	TO
+know	VB
+more	JJR
+about	IN
+hong	NN
+-	HYPH
+kon
